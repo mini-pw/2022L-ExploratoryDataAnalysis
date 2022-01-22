@@ -10,13 +10,12 @@ Wstęp do eksploracji danych składa się z:
 -   zajęć laboratoryjnych
 
 ### Terminy i tematy zajęć 
-
 <table style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 72.116667px">
 <col style="width: 49.116667px">
-<col style="width: 246.116667px">
-<col style="width: 246.116667px">
+<col style="width: 237.116667px">
+<col style="width: 237.116667px">
 <col style="width: 95.116667px">
 </colgroup>
 <thead>
@@ -70,10 +69,9 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">2022</td>
     <td rowspan="2">Nie popełniaj tych błędów!<br>Jak przygotować dobry raport? </td>
     <td rowspan="2">R: Modyfikacje wykresów, stylów w ggplot2</td>
-    <td></td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
-    <td></td>
   </tr>
   <tr>
     <td rowspan="2">6</td>
@@ -89,10 +87,9 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">2022</td>
     <td rowspan="2">Spotkanie projektowe 3 - CNK.</td>
     <td rowspan="2">R: zaawansowany ggplot2 oraz rozszerzenie: patchwork, ggstatsplot, map, ggrepel</td>
-    <td>P1 (2p)</td>
+    <td rowspan="2">P1 (2p)</td>
   </tr>
   <tr>
-    <td></td>
   </tr>
   <tr>
     <td rowspan="2">8</td>
@@ -114,10 +111,9 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">2022</td>
     <td rowspan="2">Inne rodzaje wykresów. <br>Inkscape i inne programy graficzne.</td>
     <td rowspan="2">Python: Wstęp do pandas, numpy</td>
-    <td></td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
-    <td></td>
   </tr>
   <tr>
     <td rowspan="2">10</td>
