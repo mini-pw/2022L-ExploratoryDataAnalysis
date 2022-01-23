@@ -177,3 +177,30 @@ Wstęp do eksploracji danych składa się z:
   </tr>
 </tbody>
 </table>
+
+
+### Schemat oceniania (suma 90p):
+
+-  projekt I (21p):
+	-	6 p (1 x 1p, 1 x 2p, 1 x 3p) uzyskuje się za przedstawienie postępu prac w danym tygodniu
+	-	8p uzyskuje się za postawienie pytań badawczych i ich weryfikację
+	-	5p uzyskuje się za jakość wizualizacji, tabel, opisów (wykresy mają wszystkie niezbędne elementy do poprawnego odczytania danych (tytuł, podtytuł, adnotacje na osiach, legenda, jednostki, opis jak czytać wykres))
+	-	2p uzyskuje się za wnioski z przeprowadzonych analiz
+
+-  projekt II (23p):
+	- 4 p (2 x 2p) uzyskuje się za przedstawienie postępu prac w danym tygodniu
+	- 5 p uzyskuje się za przygotowanie estetycznych wykresów (dwa lub więcej)
+	- 5 p uzyskuje się, jeżeli przygotowane wykresy mają wszystkie niezbędne elementy do poprawnego odczytania danych (tytuł, podtytuł, adnotacje na osiach, legenda, jednostki, opis jak czytać wykres)
+	- 5p uzyskuje się za estetykę i pomysłowość aranżacji wykresów i opisów w jedną całość
+	- 4p uzyskuje się za prezentację projektu
+
+-  prace domowe (40p = 2 x 10p + 4 x 5p)
+	- za każdą pracę domową uzyskuje się do 5p lub 10p
+
+- wejściówki (6p = 3 x 2p)
+	- niezapowiedziane, przeprowadzane na zajęciach laboratoryjnych 
+    
+    
+| Ocena |  3 | 3.5 | 4 | 4.5 | 5 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Punkty   | (45, 54] | (54, 63] | (63, 72] | (72, 81] | (81, ∞) |
