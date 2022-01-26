@@ -87,7 +87,7 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">2022</td>
     <td rowspan="2">Spotkanie projektowe 3 - CNK.</td>
     <td rowspan="2">R: zaawansowany ggplot2 oraz rozszerzenie: patchwork, ggstatsplot, map, ggrepel</td>
-    <td rowspan="2">P1 (2p)</td>
+    <td rowspan="2">P1 (3p)</td>
   </tr>
   <tr>
   </tr>
@@ -155,7 +155,7 @@ Wstęp do eksploracji danych składa się z:
     <td></td>
     <td>2022</td>
     <td colspan="2">KONIEC PROJEKTU II </td>
-    <td>P2 (20p)</td>
+    <td>P2 (19p)</td>
   </tr>
   <tr>
     <td rowspan="2">14</td>
