@@ -48,7 +48,7 @@ Wstęp do eksploracji danych składa się z:
   </tr>
   <tr>
     <td rowspan="2">3</td>
-    <td rowspan="2">15-08</td>
+    <td rowspan="2">15-03</td>
     <td rowspan="2">Sposoby badania rozkładu jednej zmiennej, statystyki opisowe.</td>
     <td rowspan="2">R: Zaawansowane operacje na ramkach danych</td>
     <td rowspan="2"></td>
