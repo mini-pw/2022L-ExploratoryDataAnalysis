@@ -150,7 +150,7 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">14</td>
     <td rowspan="2">07-06</td>
-    <td>Oddanie P2 </td>
+    <td>Oddanie projektu II </td>
     <td rowspan="2">Python: wykresy w matplotlib, seaborn</td>
     <td rowspan="2">P2 (15p)</td>
   </tr>
