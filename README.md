@@ -31,7 +31,7 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">1</td>
     <td rowspan="2">01-03</td>
-    <td rowspan="2">Wstęp, eksploracja danych, narzędzia do wizualizacji, zasady zaliczenia, GitHub</td>
+    <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/W1-wstep.pdf" target="_blank" rel="noopener noreferrer"> Wstęp, eksploracja danych, narzędzia do wizualizacji, zasady zaliczenia, GitHub</a></td>
     <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab_1.R"  target="_blank" rel="noopener noreferrer"> Powtórzenie R - proton, jak działa GitHub?</a></td>
     <td rowspan="2"></td>
   </tr>
