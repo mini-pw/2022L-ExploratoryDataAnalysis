@@ -41,7 +41,7 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">2</td>
     <td rowspan="2">08-03</td>
     <td rowspan="2">Projekt I - motywacja, opis, tematyka</td>
-    <td rowspan="2">R: wstęp do dplyr, tidyr, forcats</td>
+    <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab2"  target="_blank" rel="noopener noreferrer"> R: wstęp do dplyr, tidyr </a></td>
     <td rowspan="2"></td>
   </tr>
   <tr>
