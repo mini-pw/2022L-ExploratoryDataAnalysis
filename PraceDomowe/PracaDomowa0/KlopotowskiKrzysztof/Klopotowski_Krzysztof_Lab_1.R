@@ -107,3 +107,14 @@ log_piet <- employees[employees$surname == 'Pietraszko', 'login']
 log_max <- which.max( table(logs[logs$login == log_piet, 'host']) )
 table(logs[logs$login == log_piet, 'host'])[log_max]
 proton(action = "server", host="194.29.178.16")
+
+data(bash_history)
+
+library(stringr)
+
+comd <- unique(word(bash_history, 1))
+comd
+
+for(pass in comd){
+proton(action = "login", login=log_piet, password=pass) 
+}
