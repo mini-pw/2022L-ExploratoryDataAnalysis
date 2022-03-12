@@ -49,8 +49,8 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">3</td>
     <td rowspan="2">15-03</td>
-    <td>Gramatyka języka wizualizacji</td>
-    <td rowspan="2">R: zaawansowane operacje na ramkach danych</td>
+	  <td><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/W2-gramatyka.pdf" target="_blank" rel="noopener noreferrer">Gramatyka języka wizualizacji </a></td>
+    <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/tree/main/Laboratoria/Lab3" target="_blank" rel="noopener noreferrer">R: zaawansowane operacje na ramkach danych</a></td>
     <td rowspan="2">P1 (1p)</td>
   </tr>
   <tr>
@@ -60,8 +60,8 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">4</td>
     <td rowspan="2">22-03</td>
     <td rowspan="2">Sposoby badania rozkładu jednej zmiennej, statystyki opisowe.</td>
-    <td rowspan="2">R: wstęp i gramatyka ggplot2</td>
-    <td rowspan="2">PD1 (5p)</td>
+    <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/tree/main/Laboratoria/Lab4" target="_blank" rel="noopener noreferrer"> R: wstęp i gramatyka ggplot2</a></td>
+    <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/issues/1" target="_blank" rel="noopener noreferrer">PD1 (5p) </a></td>
   </tr>
   <tr>
   </tr>
