@@ -40,7 +40,7 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">2</td>
     <td rowspan="2">08-03</td>
-    <td rowspan="2">Projekt I - motywacja, opis, tematyka</td>
+    <td rowspan="2"><i>Projekt I - motywacja, opis, tematyka</i></td>
     <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab2"  target="_blank" rel="noopener noreferrer"> R: wstęp do dplyr, tidyr </a></td>
     <td rowspan="2"></td>
   </tr>
@@ -49,7 +49,7 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">3</td>
     <td rowspan="2">15-03</td>
-	  <td><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/W2-gramatyka.pdf" target="_blank" rel="noopener noreferrer">Gramatyka języka wizualizacji </a></td>
+    <td><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/W2-gramatyka.pdf" target="_blank" rel="noopener noreferrer">Gramatyka języka wizualizacji </a></td>
     <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/tree/main/Laboratoria/Lab3" target="_blank" rel="noopener noreferrer">R: zaawansowane operacje na ramkach danych</a></td>
     <td rowspan="2">P1 (1p)</td>
   </tr>
