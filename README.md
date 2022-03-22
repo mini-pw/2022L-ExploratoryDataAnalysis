@@ -49,7 +49,7 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">3</td>
     <td rowspan="2">15-03</td>
-    <td><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/W2-gramatyka.pdf" target="_blank" rel="noopener noreferrer">Gramatyka języka wizualizacji </a></td>
+    <td><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/W3-gramatyka.pdf" target="_blank" rel="noopener noreferrer">Gramatyka języka wizualizacji </a></td>
     <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/tree/main/Laboratoria/Lab3" target="_blank" rel="noopener noreferrer">R: zaawansowane operacje na ramkach danych</a></td>
     <td rowspan="2">P1 (1p)</td>
   </tr>
@@ -59,7 +59,7 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">4</td>
     <td rowspan="2">22-03</td>
-    <td rowspan="2">Sposoby badania rozkładu jednej zmiennej, statystyki opisowe.</td>
+    <td rowspan="2">Sposoby badania rozkładu jednej zmiennej, statystyki opisowe. Kolory i skale.</td>
     <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/tree/main/Laboratoria/Lab4" target="_blank" rel="noopener noreferrer"> R: wstęp i gramatyka ggplot2</a></td>
     <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/issues/1" target="_blank" rel="noopener noreferrer">PD1 (5p) </a></td>
   </tr>
@@ -68,7 +68,7 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">5</td>
     <td rowspan="2">29-03</td>
-    <td rowspan="2">Nie popełniaj tych błędów!<br>Inne rodzaje wykresów. </td>
+    <td rowspan="2">Nie popełniaj tych błędów!</td>
     <td rowspan="2">R: modyfikacje wykresów, stylów w ggplot2</td>
     <td rowspan="2"></td>
   </tr>
@@ -77,7 +77,7 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">6</td>
     <td rowspan="2">05-04</td>
-    <td rowspan="2">Historia grafiki.<br>Kolory i skale.</td>
+    <td rowspan="2">Historia grafiki.<br>Inne rodzaje wykresów. </td>
     <td rowspan="2">Spotkanie projektowe 2</td>
     <td rowspan="2">P1 (2p)<br>PD2 (5p)</td>
   </tr>
