@@ -61,7 +61,7 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">22-03</td>
     <td rowspan="2">Sposoby badania rozkładu jednej zmiennej, statystyki opisowe. Kolory i skale.</td>
     <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/tree/main/Laboratoria/Lab4" target="_blank" rel="noopener noreferrer"> R: wstęp i gramatyka ggplot2</a></td>
-    <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/issues/1" target="_blank" rel="noopener noreferrer">PD1 (5p) </a></td>
+    <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/issues/38" target="_blank" rel="noopener noreferrer">PD1 (5p) </a></td>
   </tr>
   <tr>
   </tr>
