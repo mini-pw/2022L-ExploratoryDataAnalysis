@@ -79,7 +79,7 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">05-04</td>
     <td rowspan="2">Historia grafiki.<br>Inne rodzaje wykresów. </td>
     <td rowspan="2">Spotkanie projektowe 2</td>
-    <td rowspan="2">P1 (2p)<br>PD2 (5p)</td>
+    <td rowspan="2">P1 (2p)<br><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/issues/68" target="_blank" rel="noopener noreferrer"> PD2 (5p)</a></td>
   </tr>
   <tr>
   </tr>
