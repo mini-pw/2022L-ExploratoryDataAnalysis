@@ -106,7 +106,7 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">04-05</td>
     <td>Projekt II - motywacja, opis, tematyka</td>
     <td rowspan="2">R: generowanie raportów z analizą danych </td>
-    <td rowspan="2">P2 (1p)<br>PD3 (10p)</td>
+    <td rowspan="2">P2 (1p)<br><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/issues/94" target="_blank" rel="noopener noreferrer">PD3 (10p)</a></td>
   </tr>
   <tr>
     <td>Spotkanie projektowe 1</td>
