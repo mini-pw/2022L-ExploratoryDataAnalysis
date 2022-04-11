@@ -1,6 +1,6 @@
 #########################################
 ###    WSTĘP DO EKSPLORACJI DANYCH    ###
-###         LABORATORIUM 5            ###
+###         LABORATORIUM 7            ###
 #########################################
 
 library(ggplot2)
