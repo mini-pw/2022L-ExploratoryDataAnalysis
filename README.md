@@ -86,12 +86,12 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">7</td>
     <td rowspan="2">12-04</td>
-    <td>Inkscape i inne programy graficzne.</td>
-    <td rowspan="2">R: zaawansowany ggplot2 oraz rozszerzenie: patchwork, ggstatsplot, map, ggrepel</td>
+    <td>Jak przygotować dobry raport? Inkscape i inne programy graficzne.</td> 
+    <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/tree/main/Laboratoria/Lab7" target="_blank" rel="noopener noreferrer">R: zaawansowany ggplot2 oraz rozszerzenie: patchwork, ggstatsplot, map, ggrepel</a></td>
     <td rowspan="2">P1 (2p)</td>
   </tr>
   <tr>
-    <td>Spotkanie projektowe 3</td>
+    <td>Spotkanie projektowe 3.</td>
   </tr>
   <tr>
     <td rowspan="2">8</td>
