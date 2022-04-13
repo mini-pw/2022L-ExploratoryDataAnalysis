@@ -104,12 +104,12 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">9</td>
     <td rowspan="2">04-05</td>
-    <td>Projekt II - motywacja, opis, tematyka</td>
+	  <td><i>Projekt II - motywacja, opis, tematyka</i></td>
     <td rowspan="2">R: generowanie raportów z analizą danych </td>
     <td rowspan="2">P2 (1p)<br><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/issues/94" target="_blank" rel="noopener noreferrer">PD3 (10p)</a></td>
   </tr>
   <tr>
-    <td>Spotkanie projektowe 1</td>
+	  <td><i>Spotkanie projektowe 1</i></td>
   </tr>
   <tr>
     <td rowspan="2">10</td>
@@ -123,7 +123,7 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">11</td>
     <td rowspan="2">17-05</td>
-    <td rowspan="2">Spotkanie projektowe 2</td>
+	  <td rowspan="2"><i>Spotkanie projektowe 2</i></td>
     <td rowspan="2">R: Shiny - część 1</td>
     <td rowspan="2">PD4 (5p)</td>
   </tr>
@@ -141,7 +141,7 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">13</td>
     <td rowspan="2">31-05</td>
-    <td rowspan="2">Spotkanie projektowe 3.</td>
+	  <td rowspan="2"><i>Spotkanie projektowe 3.</i></td>
     <td rowspan="2">Python: wstęp do pandas, numpy</td>
     <td rowspan="2">P2 (2p)<br>PD5 (10p)</td>
   </tr>
