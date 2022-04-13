@@ -40,7 +40,7 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">2</td>
     <td rowspan="2">08-03</td>
-    <td rowspan="2"><i>Projekt I - motywacja, opis, tematyka</i></td>
+    <td rowspan="2"><i><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Projekt/Projekt1/README.md" target="_blank" rel="noopener noreferrer">Projekt I - motywacja, opis, tematyka</a></i></td>
     <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab2"  target="_blank" rel="noopener noreferrer"> R: wstęp do dplyr, tidyr </a></td>
     <td rowspan="2"></td>
   </tr>
@@ -86,12 +86,12 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">7</td>
     <td rowspan="2">12-04</td>
-    <td>Jak przygotować dobry raport? Inkscape i inne programy graficzne.</td> 
+    <td><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/W7-raport.pdf" target="_blank" rel="noopener noreferrer"> Jak przygotować dobry raport? Inkscape i inne programy graficzne.</a></td> 
     <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/tree/main/Laboratoria/Lab7" target="_blank" rel="noopener noreferrer">R: zaawansowany ggplot2 oraz rozszerzenie: patchwork, ggstatsplot, map, ggrepel</a></td>
     <td rowspan="2">P1 (2p)</td>
   </tr>
   <tr>
-    <td>Spotkanie projektowe 3.</td>
+    <td><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Projekt/Projekt1/Spotkanie projektowe 3.pdf" target="_blank" rel="noopener noreferrer"><i> Spotkanie projektowe 3.</i></a></td>
   </tr>
   <tr>
     <td rowspan="2">8</td>
