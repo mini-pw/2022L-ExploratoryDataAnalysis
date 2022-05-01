@@ -91,7 +91,7 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">P1 (2p)</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Projekt/Projekt1/Spotkanie projektowe 3.pdf" target="_blank" rel="noopener noreferrer"><i> Spotkanie projektowe 3.</i></a></td>
+    <td><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Projekt/Projekt1/Spotkanie projektowe 3.pdf" target="_blank" rel="noopener noreferrer"><i> Spotkanie projektowe 3</i></a></td>
   </tr>
   <tr>
     <td rowspan="2">8</td>
@@ -105,7 +105,7 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">9</td>
     <td rowspan="2">04-05</td>
 	  <td><i>Projekt II - motywacja, opis, tematyka</i></td>
-    <td rowspan="2">R: generowanie raportów z analizą danych </td>
+    <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/tree/main/Laboratoria/Lab9" target="_blank" rel="noopener noreferrer">R: plotly - wizualizacje interaktywne</a></td>
     <td rowspan="2">P2 (1p)<br><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/issues/94" target="_blank" rel="noopener noreferrer">PD3 (10p)</a></td>
   </tr>
   <tr>
@@ -115,8 +115,8 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">10</td>
     <td rowspan="2">10-05</td>
     <td rowspan="2">Wizualizacje interaktywne, dashboards</td>
-    <td rowspan="2">R: plotly - wizualizacje interaktywne</td>
-    <td rowspan="2">P2 (2p) </td>
+    <td rowspan="2">R: generowanie raportów z analizą danych </td>
+    <td rowspan="2"> PD4 (5p) </td>
   </tr>
   <tr>
   </tr>
@@ -125,7 +125,7 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">17-05</td>
 	  <td rowspan="2"><i>Spotkanie projektowe 2</i></td>
     <td rowspan="2">R: Shiny - część 1</td>
-    <td rowspan="2">PD4 (5p)</td>
+    <td rowspan="2">P2 (2p)</td>
   </tr>
   <tr>
   </tr>
@@ -141,7 +141,7 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">13</td>
     <td rowspan="2">31-05</td>
-	  <td rowspan="2"><i>Spotkanie projektowe 3.</i></td>
+	  <td rowspan="2"><i>Spotkanie projektowe 3</i></td>
     <td rowspan="2">Python: wstęp do pandas, numpy</td>
     <td rowspan="2">P2 (2p)<br>PD5 (10p)</td>
   </tr>
@@ -192,6 +192,8 @@ Wstęp do eksploracji danych składa się z:
 	- niezapowiedziane, przeprowadzane na zajęciach laboratoryjnych 
     
     
+Z każdego projektu należy uzyskać ponad 50% możliwych punktów.
+
 | Ocena |  3 | 3.5 | 4 | 4.5 | 5 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Punkty   | (45, 54] | (54, 63] | (63, 72] | (72, 81] | (81, ∞) |
