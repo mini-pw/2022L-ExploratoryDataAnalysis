@@ -179,10 +179,12 @@ Wstęp do eksploracji danych składa się z:
 	-	4p uzyskuje się za prezentację projektu
 
 -  projekt II (20p):
-	- 5p (1 x 1p, 2 x 2p) uzyskuje się za przedstawienie postępu prac w danym tygodniu
-	- 7p uzyskuje się za postawienie pytań badawczych oraz znalezienie adekwatnych danych
-	- 6p uzyskuje się za jakość wizualizacji, tabel, opisów, element interaktywności (wykresy mają wszystkie niezbędne elementy do poprawnego odczytania danych (tytuł, podtytuł, adnotacje na osiach, legenda, jednostki, opis jak czytać wykres))
-	- 2p uzyskuje się prezentację projektu
+	- 	5p (1 x 1p, 2 x 2p) uzyskuje się za przedstawienie postępu prac w danym tygodniu
+	- 	4p uzyskuje się za wybór tematyki, która zainteresuje szerokie grono odbiorców
+	- 	3p uzyskuje się za znalezienie danych i ich przetworzenie
+	- 	3p uzyskuje się za stworzenie raportu z komentarzami przeprowadzającymi odbiorców przez znalizowane zjawisko
+	- 	3p uzyskuje się za przygotowanie estetycznych tabel i wykresów (w tym co najmniej 2 wykresy interaktywne), z odpowiednimi opisami
+	- 	2p uzyskuje się za prezentację projektu
 
 
 -  prace domowe (40p = 2 x 10p + 4 x 5p)

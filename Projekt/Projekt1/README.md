@@ -23,10 +23,10 @@ Nazwa PR: `[projekt1]nazwisko1_nazwisko2_nazwisko3`
 
 Za projekt można otrzymać od 0 do 24 punktów, z czego:
    -   5p (1 x 1p, 2 x 2p) uzyskuje się za przedstawienie postępu prac w danym tygodniu
-    -   5p uzyskuje się za przygotowanie estetycznych wykresów (dwa lub więcej)
-    -   5p uzyskuje się, jeżeli przygotowane wykresy mają wszystkie niezbędne elementy do poprawnego odczytania danych (tytuł, podtytuł, adnotacje na osiach, legenda, jednostki, opis jak czytać wykres)
-    -   5p uzyskuje się za estetykę i pomysłowość aranżacji wykresów i opisów w jedną całość
-    -   4p uzyskuje się za prezentację projektu (ocena przez pracowników CNK)
+   -   5p uzyskuje się za przygotowanie estetycznych wykresów (dwa lub więcej)
+   -   5p uzyskuje się, jeżeli przygotowane wykresy mają wszystkie niezbędne elementy do poprawnego odczytania danych (tytuł, podtytuł, adnotacje na osiach, legenda, jednostki, opis jak czytać wykres)
+   -   5p uzyskuje się za estetykę i pomysłowość aranżacji wykresów i opisów w jedną całość
+   -   4p uzyskuje się za prezentację projektu (ocena przez pracowników CNK)
     
 Podczas prezentacji z każdego zespołu musi być obecna co najmniej jedna osoba. Nieobecność całego zespołu podczas sesji plakatowej skutkuje brakiem punktów za prezentację (-4 pkt) oraz możliwością zdobycia maksymalnie 80% za plakat (12 pkt).
 
