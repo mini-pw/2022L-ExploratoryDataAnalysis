@@ -104,7 +104,7 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">9</td>
     <td rowspan="2">04-05</td>
-	  <td><i>Projekt II - motywacja, opis, tematyka</i></td>
+	  <td><i><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/tree/main/Projekt/Projekt2" target="_blank" rel="noopener noreferrer">Projekt II - motywacja, opis, tematyka</a></i></td>
     <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/tree/main/Laboratoria/Lab9" target="_blank" rel="noopener noreferrer">R: plotly - wizualizacje interaktywne</a></td>
     <td rowspan="2">P2 (1p)<br><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/issues/94" target="_blank" rel="noopener noreferrer">PD3 (10p)</a></td>
   </tr>
