@@ -116,7 +116,7 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">10-05</td>
     <td rowspan="2">Wizualizacje interaktywne, dashboards</td>
     <td rowspan="2">R: generowanie raportów z analizą danych </td>
-    <td rowspan="2"> PD4 (5p) </td>
+    <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/issues/134" target="_blank" rel="noopener noreferrer"> PD4 (5p) </a></td>
   </tr>
   <tr>
   </tr>
