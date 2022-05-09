@@ -1,0 +1,40 @@
+---
+title: "PD4"
+author: "Zuzanna Stankiewicz"
+date: '2022-05-09'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+df <- read.csv("/home/maciej/Downloads/bestsellers_with_categories_2022_03_27.csv")
+
+library(plotly)
+library(dplyr)
+
+data <- df %>%
+  mutate(Genre = factor(Genre, levels = c("Non Fiction", "Fiction")))
+
+plot_ly(
+  data = df, 
+  x = ~Year, 
+  y = ~Reviews, 
+  color = ~Genre,
+  colors = c("black", "darkorange1"),
+  text = paste0("Name: ", df$Name, "<br>Author: ", df$Author, "<br>Price: ", df$Price),
+  hoverinfo = 'x+y+text'
+  # hovertemplate = paste('<b>%{text}</b><br><b>X</b>: %{x}<br><b>Y</b>: %{y} <extra>tooltip</extra>')
+) %>% 
+  layout(
+    title = 'Number of reviews depending on the year of publishment', 
+    legend = list(
+      x = 0.05, y = 0.95, 
+      title = list(text = "Genre"), 
+      bgcolor = "#E2E2E2"
+    )
+  )
+
+```
