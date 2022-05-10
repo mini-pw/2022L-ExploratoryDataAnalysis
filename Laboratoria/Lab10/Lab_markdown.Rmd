@@ -1,0 +1,214 @@
+---
+title: "Podstawowe raporty w R"
+author: "Katarzyna Woźnica"
+date: "4/17/2022"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    code_folding: hide
+    theme: united
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup}
+knitr::opts_chunk$set(echo = TRUE,
+                      include = TRUE,
+                      eval = TRUE)
+library(dplyr)
+library(ggplot2)
+```
+
+
+
+# Raport z analizą eksploracyjną zbioru danych mtcars
+
+
+<!-- Dodawanie komentarzy i kodu -->
+Wygenerowanie: `r Sys.time()`.
+
+<!-- Możemy dodawac komorki z sekcjami kodu -->
+<!-- Komorki moga byc nazywane (nazwy powinny byc unikalne) -->
+<!-- Dodatkowo mozna ustalac dodatkowe argumenty (np zmiana domyslnych parametrow: include, eval ale też fig.height) -->
+
+
+
+## Współpraca z kodem R (ale nie tylko)
+
+```{r}
+
+df <- iris
+colnames(iris)
+```
+
+
+
+```{r}
+head(iris) 
+```
+
+```{r}
+head(iris ) %>% 
+  knitr::kable( caption = 'Liczność poszczególnych klas')
+```
+
+Sposób wyświetlania tabel można zmieniać w ustawieniach YAML - `df_print` (`default`/`kable`/`tible`).
+
+## Dołączanie wykresów
+
+
+```{r ggplot}
+ggplot(iris)+
+  geom_point(aes(x = Sepal.Length, y = Sepal.Width))+
+  theme_bw()
+```
+
+<!-- Zmiana wielkości okna -->
+
+```{r plot2, fig.cap = "Przykładowy wykres",fig.height=10, fig.width=10}
+ggplot(iris)+
+  geom_point(aes(x = Sepal.Length, y = Sepal.Width))+
+  theme_bw()
+```
+
+## Referencje
+
+YAML: zmiana `html_document` -> `bookdown::html_document2:`
+
+\@ref(fig:plot2)
+
+# Zadanie 1
+
+Stwórz tabelę z podsumowaniem ramki danych `iris` dla każdej grupy gatunku kwiatów (`Species`). Następnie dla zmiennych ciągłych, dla każdego gatunku stwórz histogram w ggplot2.
+
+Zadbaj o odpowiednie podpisy i zaokrąglanie wyświetlanych wartości.
+
+```{r}
+iris %>% 
+  group_by(Species) %>% 
+  summarise_all(mean) %>% 
+  knitr::kable(caption = 'Podsumowanie danych',
+               digits = 2)
+
+```
+
+```{r message = FALSE}
+
+numeric_col <- colnames(iris)[sapply(iris,class) == 'numeric']
+
+for (var in numeric_col){
+  p <- ggplot(iris)+
+    geom_histogram(aes_string(x = var))+
+    labs(title = var)
+  print(p)
+}
+
+```
+
+
+
+# Markdown - formatowanie
+
+Formatowanie tekstu:
+
+- **pogrubienie** czcionki
+- *kursywa*
+
+Opcje załączania grafik/tabel:
+
+1. tworzenie ich w R
+2. załączanie z pliku/ strony jako plik graficzny
+
+
+### Globalne opcje dot. wywołania kodu
+
+- echo - odpowiada za załączanie kodu z komórki w raporcie
+- include - odpowiada za dodawanie komórek i wyników w raporcie (ale są wywoływane)
+- eval - odpowiada za wywołanie kodu (kod może byc zwarty ale bez wywołania)
+- warning -
+- message - 
+- fig_height/df_print ...
+- keep_md
+
+### Customize appearance
+
+- Spis treści 
+  1. `toc`
+  2. `toc_float`
+  3. `toc_depth`
+- Code folding - `code_fold`
+- Styl 
+  1. `theme` - [https://bootswatch.com/3/](https://bootswatch.com/3/)
+  2. CSS
+
+# Zadanie 2
+
+Wykorzystując informacje przekazane na zajęciach i dodatkowych źródeł ([cheatsheet](https://www.rstudio.com/resources/cheatsheets/), [książka](https://bookdown.org/yihui/rmarkdown/html-document.html)), zaproponuj jak zmodyfikować raport żeby łatwiej było z niego korzystać.
+
+
+
+
+# Interaktywne elementy raportu
+
+## interaktywne tabele
+
+```{r}
+
+?DT::datatable
+
+iris %>% 
+  group_by(Species) %>% 
+  summarise(cnt = n()) %>% 
+  DT::datatable()
+```
+
+```{r }
+iris %>% 
+  group_by(Species) %>% 
+  summarise(cnt = n()) %>% 
+  DT::datatable(width=10, options = list(dom = 't'))
+```
+
+Więcej o opcjach formatowania tabeli z pakietu `DT` można znaleźć [https://rstudio.github.io/DT/options.html](https://rstudio.github.io/DT/options.html)
+
+## interaktywne wykresy
+
+```{r warning=FALSE, message=FALSE}
+library(plotly)
+
+fig <- plot_ly(data = iris, x = ~Sepal.Length, y = ~Petal.Length, color = ~Species, colors = "Set1")
+
+fig
+```
+
+
+
+Więcej przykładów na kolejnych zajęciach i [https://plotly.com/r/](https://plotly.com/r/).
+
+
+## flexdashboard 
+
+```{r}
+require(flexdashboard)
+
+```
+
+[https://pkgs.rstudio.com/flexdashboard/](https://pkgs.rstudio.com/flexdashboard/)
+
+## Zadanie 
+
+Korzystając z flexdashboard, stwórz raport dla danych `airquality`. W raporcie powinno znaleźć się:
+1. podsumowanie jak zmienia się średnia temperatura i nasłonecznienie w zależności od miesiąca - tabela i wykresy
+2. Dla każdego miesiąca należy sprawdzić jaki jest rozkład warstwy ozonowej
+3. Surowe dane 
+
+## shinydashboard
+
+Później.
+
+# Parametryzowane raporty
+
+
+
+
