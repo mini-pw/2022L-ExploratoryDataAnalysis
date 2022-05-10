@@ -1,0 +1,44 @@
+---
+title: "PD4"
+author: "Mira Wróblewska"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Wykres interaktywny
+
+```{r df_books, message=FALSE, warning=FALSE}
+library(plotly)
+library(dplyr)
+
+df_books<- read.csv("bestsellers.csv")
+
+df_1 <- df_books %>% 
+        filter(Reviews <= 5000) %>% 
+        filter(Genre %in% c("Non Fiction", "Fiction")) %>% 
+        mutate(Genre = factor(Genre, levels = c("Non Fiction", "Fiction")))
+
+plot_ly(
+  data = df_1, 
+  x = ~Price, 
+  y = ~User.Rating, 
+  color = ~Genre,
+  colors = "Set1",
+  text = paste0("Title: ", df_1$Name, "<br>Author: ", df_1$Author),
+  hoverinfo = 'x+y+text'
+  # hovertemplate = paste('<b>%{text}</b><br><b>X</b>: %{x}<br><b>Y</b>: %{y} <extra>tooltip</extra>')
+)%>% 
+  layout(
+    title = "Prices and ratings of non-popular (<5000 Reviews) books",
+    xaxis = list(title = "Price"),
+    yaxis = list(title = "User Rating"),
+    legend = list(
+      x = 0.9, y = 0.95, 
+      title = list(text = "Genre"), 
+      bgcolor = "#E2E2E2"
+    ))
+```
+
