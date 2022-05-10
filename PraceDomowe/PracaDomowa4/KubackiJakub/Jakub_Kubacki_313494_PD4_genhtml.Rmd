@@ -1,0 +1,43 @@
+---
+title: "Jakub Kubacki PD4"
+author: "Jakub Kubacki"
+date: "10 05 2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE)
+```
+
+```{r interaktywny wykres, echo = FALSE, message=FALSE}
+dane <- read.csv("E:/RStudio/eskplo/Jakub_Kubacki_PD4/dane.csv")
+
+library(plotly)
+library(dplyr)
+
+dane %>%
+  mutate("Info" = paste(Name, Author, sep='\nby ')) %>%
+  plot_ly(
+    x = ~Reviews,
+    y = ~User.Rating,
+    color = ~Genre,
+    text = ~Info,
+    hovertemplate = "<b>%{text}</b><br>Number of reviews: %{x}<extra></extra>",
+    frame = ~Year,
+    type = "scatter"
+  ) %>%
+  layout(
+    xaxis = list(
+      type = "log",
+      dtick = 1,
+      tick0 = 1,
+      tickmode = "linear",
+      showgrid = TRUE,
+      title = "Number of reviews"
+    ),
+    yaxis = list(
+      title = "Average rating"
+    ),
+    title = "Bestsellers in the eyes of the critics"
+  )
+```
