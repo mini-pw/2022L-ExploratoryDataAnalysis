@@ -2,12 +2,7 @@
 title: "Podstawowe raporty w R"
 author: "Katarzyna Woźnica"
 date: "4/17/2022"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
-    code_folding: hide
-    theme: united
+output: html_document
 editor_options: 
   chunk_output_type: console
 ---
@@ -85,26 +80,11 @@ Stwórz tabelę z podsumowaniem ramki danych `iris` dla każdej grupy gatunku kw
 Zadbaj o odpowiednie podpisy i zaokrąglanie wyświetlanych wartości.
 
 ```{r}
-iris %>% 
-  group_by(Species) %>% 
-  summarise_all(mean) %>% 
-  knitr::kable(caption = 'Podsumowanie danych',
-               digits = 2)
+
 
 ```
 
-```{r message = FALSE}
 
-numeric_col <- colnames(iris)[sapply(iris,class) == 'numeric']
-
-for (var in numeric_col){
-  p <- ggplot(iris)+
-    geom_histogram(aes_string(x = var))+
-    labs(title = var)
-  print(p)
-}
-
-```
 
 
 
@@ -128,10 +108,12 @@ Opcje załączania grafik/tabel:
 - eval - odpowiada za wywołanie kodu (kod może byc zwarty ale bez wywołania)
 - warning -
 - message - 
+
+### YAML metadata
 - fig_height/df_print ...
 - keep_md
 
-### Customize appearance
+#### zmiana wyglądu
 
 - Spis treści 
   1. `toc`
@@ -144,7 +126,12 @@ Opcje załączania grafik/tabel:
 
 # Zadanie 2
 
-Wykorzystując informacje przekazane na zajęciach i dodatkowych źródeł ([cheatsheet](https://www.rstudio.com/resources/cheatsheets/), [książka](https://bookdown.org/yihui/rmarkdown/html-document.html)), zaproponuj jak zmodyfikować raport żeby łatwiej było z niego korzystać.
+Wykorzystując informacje przekazane na zajęciach i dodatkowych źródeł
+
+- [cheatsheet](https://www.rstudio.com/resources/cheatsheets/), 
+- [książka](https://bookdown.org/yihui/rmarkdown/html-document.html), 
+
+zaproponuj jak zmodyfikować raport żeby łatwiej było z niego korzystać.
 
 
 
@@ -208,6 +195,8 @@ Korzystając z flexdashboard, stwórz raport dla danych `airquality`. W raporcie
 Później.
 
 # Parametryzowane raporty
+
+Argument `params` w YAML metadata - [więcej](https://bookdown.org/yihui/rmarkdown/parameterized-reports.html)
 
 
 
