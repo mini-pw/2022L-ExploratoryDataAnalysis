@@ -1,0 +1,40 @@
+---
+title: "Praca domowa 4"
+author: "Monika Jarosińska"
+date: "07.05.2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo=TRUE, warning=FALSE, message=FALSE}
+library(plotly)
+library(ggplot2)
+library(dplyr)
+library(readr)
+df <- read_csv("C:/Users/monik/OneDrive/Dokumenty/Eksploracja/bestsellers.csv")
+
+fig <- df %>% 
+  plot_ly(x = ~Price, 
+          y = ~`User Rating`, 
+          text = ~Genre, 
+          hoverinfo = "text") %>% 
+  layout(title = "User ratings corresponding to prices throughtout years 2009-2022",
+         xaxis = list(title = "Price (US dollars)"),
+         yaxis = list(title = 'User Rating')) %>%
+  add_markers(color = ~Genre, 
+              frame = ~Year) %>%
+  animation_opts(1100, 
+                 easing = "elastic", 
+                 redraw = FALSE) %>%
+  animation_button(
+    x = 1, 
+    xanchor = "left", 
+    y = 0, 
+    yanchor = "bottom") %>%
+  animation_slider(currentvalue = list(prefix = "Year ", font = list(color="darkblue")))
+
+fig
+```
