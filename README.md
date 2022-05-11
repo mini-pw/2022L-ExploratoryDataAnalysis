@@ -109,12 +109,12 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">P2 (1p)<br><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/issues/94" target="_blank" rel="noopener noreferrer">PD3 (10p)</a></td>
   </tr>
   <tr>
-	  <td><i>Spotkanie projektowe 1</i></td>
+	  <td><i><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Projekt/Projekt2/Spotkanie%20projektowe%201.pdf" target="_blank" rel="noopener noreferrer">Spotkanie projektowe 1</a></i></td>
   </tr>
   <tr>
     <td rowspan="2">10</td>
     <td rowspan="2">10-05</td>
-    <td rowspan="2">Wizualizacje interaktywne, dashboards</td>
+    <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/W10-dashboards.pdf"  target="_blank" rel="noopener noreferrer">Wizualizacje interaktywne, dashboards</a></td>
     <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Laboratoria/Lab10"  target="_blank" rel="noopener noreferrer">R: generowanie raportów z analizą danych </a></td>
     <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/issues/134" target="_blank" rel="noopener noreferrer"> PD4 (5p) </a></td>
   </tr>
