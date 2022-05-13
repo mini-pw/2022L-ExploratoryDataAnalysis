@@ -134,7 +134,7 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">24-05</td>
     <td rowspan="2">Kilka słów o prezentowaniu wyników.<br>The International Business Communication Standards.</td>
     <td rowspan="2">R: Shiny - część 2</td>
-    <td rowspan="2"></td>
+    <td rowspan="2">PD5 (10p)</td>
   </tr>
   <tr>
   </tr>
@@ -143,7 +143,7 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">31-05</td>
 	  <td rowspan="2"><i>Spotkanie projektowe 3</i></td>
     <td rowspan="2">Python: wstęp do pandas, numpy</td>
-    <td rowspan="2">P2 (2p)<br>PD5 (10p)</td>
+    <td rowspan="2">P2 (2p)</td>
   </tr>
   <tr>
   </tr>
