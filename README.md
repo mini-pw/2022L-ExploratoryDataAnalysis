@@ -134,7 +134,7 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">24-05</td>
     <td rowspan="2">Kilka słów o prezentowaniu wyników.<br>The International Business Communication Standards.</td>
     <td rowspan="2">R: Shiny - część 2</td>
-    <td rowspan="2">PD5 (10p)</td>
+    <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/issues/167" target="_blank" rel="noopener noreferrer"> PD5 (10p)</a></td>
   </tr>
   <tr>
   </tr>
