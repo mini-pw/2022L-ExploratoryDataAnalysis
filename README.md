@@ -124,7 +124,7 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">11</td>
     <td rowspan="2">17-05</td>
 	  <td rowspan="2"><i>Spotkanie projektowe 2</i></td>
-    <td rowspan="2">R: Shiny - część 1</td>
+    <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/tree/main/Laboratoria/Lab11" target="_blank" rel="noopener noreferrer">R: Shiny - część 1</a></td>
     <td rowspan="2">P2 (2p)</td>
   </tr>
   <tr>
