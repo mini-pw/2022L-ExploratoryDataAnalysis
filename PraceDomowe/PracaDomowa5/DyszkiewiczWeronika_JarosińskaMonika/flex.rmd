@@ -1,0 +1,135 @@
+---
+title: "Price distribution"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(dplyr)
+library(ggplot2)
+library(plotly)
+df_house <- read.csv("house_data.csv")
+```
+
+# Plots 
+
+Column {data-width=300}
+-----------------------------------------------------------------------
+
+### Number of rooms corresponding to prices throughtout years 1990-2015
+
+```{r plot1, fig.height=3.5, fig.width=100}
+df_2 <- df_house %>% 
+  mutate(suma_pokoi= round(df_house$bedrooms + df_house$bathrooms)) %>% 
+  mutate(przedzialy = case_when(sqft_living > quantile(sqft_living, 0.66) ~"Large",
+                                sqft_living> quantile(sqft_living, 0.33) & sqft_living <= quantile(sqft_living, 0.66)  ~ "Medium",
+                                sqft_living <= quantile(sqft_living, 0.33) ~"Small"))
+
+fig_2 <- df_2 %>% 
+  filter(yr_built>1990 ) %>% 
+  plot_ly(x = ~price, y = ~suma_pokoi, 
+          text = ~przedzialy, hoverinfo = "text") %>% 
+  layout(title = "Number of rooms and price", 
+         xaxis = list(title = "Price"),
+         yaxis = list(title = 'Number of rooms'))
+
+fig_2 %>%
+  add_markers( color = ~przedzialy, frame = ~yr_built) %>%
+  animation_opts(2000, easing = "elastic", redraw = FALSE) %>%
+  animation_button(
+    x = 1, xanchor = "left", y = 0, yanchor = "bottom") %>%
+  animation_slider(
+    currentvalue = list(prefix = "Year ", font = list(color="darkblue"))
+  ) %>% layout(legend=list(title=list(text='<b> Size of the house </b>')))
+
+```
+
+{data-width=300}
+-----------------------------------------------------------------------
+
+### Distribution of price depending on waterfront
+
+```{r plot2, fig.height=3.5, fig.width=100}
+
+df_house$waterfront[df_house$waterfront == 1] <- "Waterfront"
+df_house$waterfront[df_house$waterfront == 0] <- "Non-waterfront"
+fig <- plot_ly(
+  data = df_house, 
+  x = ~waterfront, 
+  y = ~price,
+  type = "box"
+) %>% layout(
+  title = "Price distribution",
+  yaxis = list(title = "Price"),
+  xaxis = list(title=''),
+  updatemenus = list(
+    list(
+      x = 1, y = 1,
+      buttons = list(
+        list(method = "restyle",
+             args = list("type", "box"),
+             label = "Boxplot"),
+        list(method = "restyle",
+             args = list("type", "violin"),
+             label = "Violinplot")
+      ))
+  ))
+fig
+
+```
+
+# Data
+
+Column {data-width=300}
+-----------------------------------------------------------------------
+
+### Dataframe
+
+
+```{r}
+df <- df_house %>%
+  mutate(rooms_total= round(df_house$bedrooms + df_house$bathrooms)) %>% 
+  mutate(size_of_house = case_when(sqft_living > quantile(sqft_living, 0.66) ~"Large",
+                                   sqft_living> quantile(sqft_living, 0.33) & sqft_living <= quantile(sqft_living, 0.66)  ~ "Medium",
+                                   sqft_living <= quantile(sqft_living, 0.33) ~"Small")) %>% 
+  filter(yr_built>1990)
+df$waterfront[df$waterfront == 1] <- "Waterfront"
+df$waterfront[df$waterfront == 0] <- "Non-waterfront"
+df <- df %>% 
+  select(price,size_of_house, sqft_living, yr_built,waterfront) %>% arrange(desc(price))
+colnames(df) <- c("Price", "Size of house", "Living area (in sqft)", "Year built", "Waterfront") 
+
+head(df) %>% 
+  knitr::kable()
+```
+
+Rozkład dwuwymiarowy {data-width=350}
+-----------------------------------------------------------------------
+
+### Distribution of price depending on sqft living and waterfront
+```{r plot}
+df <- df_house %>%
+  mutate(rooms_total= round(df_house$bedrooms + df_house$bathrooms)) %>% 
+  mutate(size_of_house = case_when(sqft_living > quantile(sqft_living, 0.66) ~"Large",
+                                   sqft_living> quantile(sqft_living, 0.33) & sqft_living <= quantile(sqft_living, 0.66)  ~ "Medium",
+                                   sqft_living <= quantile(sqft_living, 0.33) ~"Small")) %>% 
+  filter(yr_built>1990)
+df$waterfront[df$waterfront == 1] <- "Waterfront"
+df$waterfront[df$waterfront == 0] <- "Non-waterfront"
+df <- df %>% 
+  select(price,size_of_house, sqft_living, yr_built,waterfront) %>% arrange(desc(price))
+
+fig <- plot_ly(
+  data = df, 
+  x = ~sqft_living, 
+  y = ~price, color = ~waterfront
+) %>% layout(
+  title = "Price distribution",
+  yaxis = list(title = "Price"),
+  xaxis = list(title='Sqft_living'))
+
+fig
+```

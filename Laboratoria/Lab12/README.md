@@ -53,3 +53,8 @@ Korzystając z https://rstudio.github.io/bslib/ oraz https://rstudio.github.io/b
 ### Zadanie (*)
 
 Bazując na wykonanej aplikacji przygotuj R Shiny Dashboard https://rstudio.github.io/shinydashboard/. Każda z dwóch kolumn niech będzie jedną z dwóch zakładek.
+
+
+### Przykładowy wygląd aplikacji 
+
+![plot](app.png)

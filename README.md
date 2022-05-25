@@ -132,8 +132,8 @@ Wstęp do eksploracji danych składa się z:
   <tr>
     <td rowspan="2">12</td>
     <td rowspan="2">24-05</td>
-    <td rowspan="2">Kilka słów o prezentowaniu wyników.<br>The International Business Communication Standards.</td>
-    <td rowspan="2">R: Shiny - część 2</td>
+    <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/W12-IBCS-prezentacje.pdf" target="_blank" rel="noopener noreferrer"> Kilka słów o prezentowaniu wyników.<br>The International Business Communication Standards.</a></td>
+    <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/tree/main/Laboratoria/Lab12" target="_blank" rel="noopener noreferrer">R: Shiny - część 2</a></td>
     <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/issues/167" target="_blank" rel="noopener noreferrer"> PD5 (10p)</a></td>
   </tr>
   <tr>
@@ -142,7 +142,7 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2">13</td>
     <td rowspan="2">31-05</td>
 	  <td rowspan="2"><i>Spotkanie projektowe 3</i></td>
-    <td rowspan="2">Python: wstęp do pandas, numpy</td>
+    <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/tree/main/Laboratoria/Lab13" target="_blank" rel="noopener noreferrer">Python: wstęp do pandas, numpy</a></td>
     <td rowspan="2">P2 (2p)</td>
   </tr>
   <tr>
