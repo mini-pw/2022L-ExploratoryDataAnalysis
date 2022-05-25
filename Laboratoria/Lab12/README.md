@@ -44,7 +44,7 @@ Używając funkcji `dataTableOutput()` oraz `renderDataTable()` przygotuj tablę
 
 ### Zadanie 8
 
-Używając funkcji `updateSelectInput()` przygotuj drugą rozwijaną listę (jak w Zadaniu 5). Bazując na tych dwóch wyborach zmiennych przygotuj wykres punktowy ukazujący zależność pomiędzy wybranymi zmiennymi.
+Używając funkcji `renderUI()` przygotuj drugą rozwijaną listę (jak w Zadaniu 5). Bazując na tych dwóch wyborach zmiennych przygotuj wykres punktowy ukazujący zależność pomiędzy wybranymi zmiennymi.
 
 ### Zadanie 9
 
