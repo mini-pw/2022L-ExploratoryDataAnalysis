@@ -1,0 +1,245 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Seattle</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.js"></script>
+    <style>
+        body { margin: 0; padding: 0; }
+        #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+        .quake-info {
+            position: absolute;
+            font-family: sans-serif;
+            margin-top: 32px;
+            margin-left: 5px;
+            padding: 5px;
+            width: 20%;
+            border: 2px solid black;
+            font-size: 14px;
+            color: #222;
+            background-color: #fff;
+            border-radius: 3px;}
+        #console {
+            position: absolute;
+            right: 0px;
+            font-family: sans-serif;
+            margin-top: 5px;
+            margin-right: 5px;
+            padding: 5px;
+            width: 20%;
+            border: 2px solid black;
+            font-size: 14px;
+            color: #222;
+            background-color: #fff;
+            border-radius: 3px;
+        }
+        .session
+        {
+            margin-bottom: 20px;
+        }
+
+        .row {
+          height: 12px;
+          width: 100%;
+        }
+
+        .colors {
+          background: linear-gradient(to right, #CCA413, #6E1F14);
+          margin-bottom: 5px;
+        }
+
+        .label {
+          width: 15%;
+          display: inline-block;
+          text-align: center;
+        }
+        #menu {
+            position: absolute;
+            font-family: sans-serif;
+            margin-top: 5px;
+            margin-left: 5px;
+            padding: 5px;
+
+        }
+
+    </style>
+</head>
+    <body>
+
+        <div id="map"></div>
+
+        <div id="menu">
+            <input id="satellite-v9" type="radio" name="rtoggle" value="satellite" checked="checked">
+            <!-- See a list of Mapbox-hosted public styles at -->
+            <!-- https://docs.mapbox.com/api/maps/styles/#mapbox-styles -->
+            <label for="satellite-v9">satellite</label>
+            <input id="light-v10" type="radio" name="rtoggle" value="light">
+            <label for="light-v10">light</label>
+            <input id="dark-v10" type="radio" name="rtoggle" value="dark">
+            <label for="dark-v10">dark</label>
+            <input id="streets-v11" type="radio" name="rtoggle" value="streets">
+            <label for="streets-v11">streets</label>
+            <input id="outdoors-v11" type="radio" name="rtoggle" value="outdoors">
+            <label for="outdoors-v11">outdoors</label>
+        </div>
+
+        <div class="quake-info">
+            <div><strong>Price:</strong>&nbsp;<span id="mag"></span></div>
+            <div><strong>Bedrooms:</strong>&nbsp;<span id="loc"></span></div>
+            <div><strong>Bathrooms:</strong>&nbsp;<span id="date"></span></div>
+            <div><strong>Footage:</strong>&nbsp;<span id="foot"></span></div>
+            <div><strong>Property area:</strong>&nbsp;<span id="prop"></span></div>
+            <div><strong>Condition:</strong>&nbsp;<span id="cond"></span></div>
+        </div>
+
+        <div id='console'>
+          <h1>Houses in Seattle</h1>
+          <p>Data: <a href='https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/PraceDomowe/PracaDomowa1/house_data.csv' target="_blank">Prices and properties of houses </a>in Seattle</p>
+            <div class='session'>
+              <h2>Price</h2>
+              <div class='row colors'>
+              </div>
+              <div class='row labels'>
+                <div class='label'>0</div>
+                <div class='label'>1</div>
+                <div class='label'>2</div>
+                <div class='label'>3</div>
+                <div class='label'>4</div>
+                <div class='label'>5</div>
+              </div>
+                <br>
+                in milions
+            </div>
+        </div>
+
+        <script>
+            var geodata = JSON.parse('{{ data | tojson }}');
+            //console.log(typeof(geodata['features'][0]['properties']['price']))
+            mapboxgl.accessToken = '{{ACCESS_KEY}}';
+
+            const map = new mapboxgl.Map({
+                container: 'map', // container ID
+                style: 'mapbox://styles/mapbox/streets-v11', // style URL
+                center: [-122.03936297631901,47.49656242488067], // starting position [lng, lat]
+                zoom: 9 // starting zoom
+            });
+
+            const layerList = document.getElementById('menu');
+            const inputs = layerList.getElementsByTagName('input');
+
+            for (const input of inputs) {
+                input.onclick = (layer) => {
+                    const layerId = layer.target.id;
+                    map.setStyle('mapbox://styles/mapbox/' + layerId);
+
+                };
+            }
+
+
+            const magDisplay = document.getElementById('mag');
+            const locDisplay = document.getElementById('loc');
+            const dateDisplay = document.getElementById('date');
+            const footDisplay = document.getElementById('foot');
+            const propDisplay = document.getElementById('prop');
+            const condDisplay = document.getElementById('cond');
+
+            map.on('style.load', () => {
+                // Load an image from an external URL.
+                map.loadImage(
+                'https://docs.mapbox.com/mapbox-gl-js/assets/cat.png',
+                (error, image) => {
+                if (error) throw error;
+
+                    // Add the image to the map style.
+                    map.addImage('cat', image, { sdf: true });
+
+                // Add a data source containing one point feature.
+                    map.addSource('point', {
+                    'type': 'geojson',
+                    'data': geodata
+                    });
+
+                // Add a layer to use the image to represent the data.
+                    map.addLayer({
+                    'id': 'points',
+                    'interactive': true,
+                    'type': 'circle',
+                    'source': 'point',
+                        'paint': {
+                    // Make circles larger as the user zooms from z12 to z22.
+                    'circle-radius': {
+                    'base': 3,
+                    'stops': [
+                    [12, 3.5],
+                    [22, 300]
+                    ]
+                    },
+                    'circle-color': [
+                                'interpolate',
+                                ['linear'],
+                                ['get', 'price'],
+                                0,
+                                '#CCA413',
+                                5000000,
+                                '#6E1F14'
+                                ]
+                    }
+                    });
+                }
+                );
+            });
+
+            let quakeID = null;
+
+            map.on('mousemove', 'points', (event) => {
+                  map.getCanvas().style.cursor = 'pointer';
+                  // Set constants equal to the current feature's magnitude, location, and time
+                  const quakeMagnitude = event.features[0].properties.price;
+                  const quakeLocation = event.features[0].properties.bedrooms;
+                  const quakeDate = event.features[0].properties.bathrooms;
+                  const quakeFoot = event.features[0].properties.sqft_living;
+                  const quakeProp = event.features[0].properties.sqft_lot;
+                  const quakeCond = event.features[0].properties.condition;
+
+                  // Check whether features exist
+                  if (event.features.length === 0) return;
+                  // Display the magnitude, location, and time in the sidebar
+                  magDisplay.textContent = quakeMagnitude;
+                  locDisplay.textContent = quakeLocation;
+                  dateDisplay.textContent = quakeDate;
+                  footDisplay.textContent = quakeFoot;
+                  propDisplay.textContent = quakeProp;
+                  condDisplay.textContent = quakeCond;
+
+                  // If quakeID for the hovered feature is not null,
+                  // use removeFeatureState to reset to the default behavior
+                  if (quakeID) {
+                    map.removeFeatureState({
+                      source: 'point',
+                      id: quakeID
+                    });
+                  }
+
+                  quakeID = event.features[0].id;
+
+                  // When the mouse moves over the earthquakes-viz layer, update the
+                  // feature state for the feature under the mouse
+                  map.setFeatureState(
+                    {
+                      source: 'point',
+                      id: quakeID
+                    },
+                    {
+                      hover: true
+                    }
+                  );
+            });
+
+
+
+
+
+        </script>
+    </body>
+</html>
