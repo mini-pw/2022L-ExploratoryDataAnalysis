@@ -8,7 +8,7 @@ Projekt może być zrealizowany w dowolnym narzędziu, które umożliwi interakc
 
 Realizowany jest w zespołach do 3 osób -- innych niż projekt 1.
 
-Czas na wykonanie projektu jest do **5 czerwca (niedziela)** - do tego dnia (włącznie) będą przyjmowane Pull Requests.
+Czas na wykonanie projektu jest do ~~**5 czerwca (niedziela)**~~ **7 czerwca (wtorek) 10:00** - do tego dnia (włącznie) będą przyjmowane Pull Requests.
 
 #### Pull Request (PR)
 W PR powinien znaleźć się folder o nazwie `nazwisko1_nazwisko2_nazwisko3` zawierający:
