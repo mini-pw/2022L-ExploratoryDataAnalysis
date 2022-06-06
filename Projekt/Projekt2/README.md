@@ -41,3 +41,5 @@ Za projekt można otrzymać od 0 do 20 punktów, z czego:
 - [https://ourworldindata.org/land-use](https://ourworldindata.org/land-use)
 - [https://www.fao.org/faostat/en/#home](https://www.fao.org/faostat/en/#home)
 - [https://www.protectedplanet.net/en/thematic-areas/marine-protected-areas](https://www.protectedplanet.net/en/thematic-areas/marine-protected-areas)
+
+### [Oceń projekt](https://forms.gle/wFhv6Papi5v5egSj6)
