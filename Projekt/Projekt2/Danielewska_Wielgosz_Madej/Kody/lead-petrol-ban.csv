@@ -1,0 +1,4645 @@
+Entity,Code,Year,lead_petrol_banned
+Afghanistan,AFG,1986,No
+Afghanistan,AFG,1987,No
+Afghanistan,AFG,1988,No
+Afghanistan,AFG,1989,No
+Afghanistan,AFG,1990,No
+Afghanistan,AFG,1991,No
+Afghanistan,AFG,1992,No
+Afghanistan,AFG,1993,No
+Afghanistan,AFG,1994,No
+Afghanistan,AFG,1995,No
+Afghanistan,AFG,1996,No
+Afghanistan,AFG,1997,No
+Afghanistan,AFG,1998,No
+Afghanistan,AFG,1999,No
+Afghanistan,AFG,2000,No
+Afghanistan,AFG,2001,No
+Afghanistan,AFG,2002,No
+Afghanistan,AFG,2003,No
+Afghanistan,AFG,2004,No
+Afghanistan,AFG,2005,No
+Afghanistan,AFG,2006,No
+Afghanistan,AFG,2007,No
+Afghanistan,AFG,2008,No
+Afghanistan,AFG,2009,No
+Afghanistan,AFG,2010,No
+Afghanistan,AFG,2011,No
+Afghanistan,AFG,2012,No
+Afghanistan,AFG,2013,No
+Afghanistan,AFG,2014,No
+Afghanistan,AFG,2015,No
+Afghanistan,AFG,2016,Yes
+Afghanistan,AFG,2017,Yes
+Afghanistan,AFG,2018,Yes
+Afghanistan,AFG,2019,Yes
+Afghanistan,AFG,2020,Yes
+Afghanistan,AFG,2021,Yes
+Algeria,DZA,1986,No
+Algeria,DZA,1987,No
+Algeria,DZA,1988,No
+Algeria,DZA,1989,No
+Algeria,DZA,1990,No
+Algeria,DZA,1991,No
+Algeria,DZA,1992,No
+Algeria,DZA,1993,No
+Algeria,DZA,1994,No
+Algeria,DZA,1995,No
+Algeria,DZA,1996,No
+Algeria,DZA,1997,No
+Algeria,DZA,1998,No
+Algeria,DZA,1999,No
+Algeria,DZA,2000,No
+Algeria,DZA,2001,No
+Algeria,DZA,2002,No
+Algeria,DZA,2003,No
+Algeria,DZA,2004,No
+Algeria,DZA,2005,No
+Algeria,DZA,2006,No
+Algeria,DZA,2007,No
+Algeria,DZA,2008,No
+Algeria,DZA,2009,No
+Algeria,DZA,2010,No
+Algeria,DZA,2011,No
+Algeria,DZA,2012,No
+Algeria,DZA,2013,No
+Algeria,DZA,2014,No
+Algeria,DZA,2015,No
+Algeria,DZA,2016,No
+Algeria,DZA,2017,No
+Algeria,DZA,2018,No
+Algeria,DZA,2019,No
+Algeria,DZA,2020,No
+Algeria,DZA,2021,Yes
+Angola,AGO,1986,No
+Angola,AGO,1987,No
+Angola,AGO,1988,No
+Angola,AGO,1989,No
+Angola,AGO,1990,No
+Angola,AGO,1991,No
+Angola,AGO,1992,No
+Angola,AGO,1993,No
+Angola,AGO,1994,No
+Angola,AGO,1995,No
+Angola,AGO,1996,No
+Angola,AGO,1997,No
+Angola,AGO,1998,No
+Angola,AGO,1999,No
+Angola,AGO,2000,No
+Angola,AGO,2001,No
+Angola,AGO,2002,No
+Angola,AGO,2003,No
+Angola,AGO,2004,No
+Angola,AGO,2005,No
+Angola,AGO,2006,Yes
+Angola,AGO,2007,Yes
+Angola,AGO,2008,Yes
+Angola,AGO,2009,Yes
+Angola,AGO,2010,Yes
+Angola,AGO,2011,Yes
+Angola,AGO,2012,Yes
+Angola,AGO,2013,Yes
+Angola,AGO,2014,Yes
+Angola,AGO,2015,Yes
+Angola,AGO,2016,Yes
+Angola,AGO,2017,Yes
+Angola,AGO,2018,Yes
+Angola,AGO,2019,Yes
+Angola,AGO,2020,Yes
+Angola,AGO,2021,Yes
+Argentina,ARG,1986,No
+Argentina,ARG,1987,No
+Argentina,ARG,1988,No
+Argentina,ARG,1989,No
+Argentina,ARG,1990,No
+Argentina,ARG,1991,No
+Argentina,ARG,1992,No
+Argentina,ARG,1993,No
+Argentina,ARG,1994,No
+Argentina,ARG,1995,No
+Argentina,ARG,1996,No
+Argentina,ARG,1997,No
+Argentina,ARG,1998,Yes
+Argentina,ARG,1999,Yes
+Argentina,ARG,2000,Yes
+Argentina,ARG,2001,Yes
+Argentina,ARG,2002,Yes
+Argentina,ARG,2003,Yes
+Argentina,ARG,2004,Yes
+Argentina,ARG,2005,Yes
+Argentina,ARG,2006,Yes
+Argentina,ARG,2007,Yes
+Argentina,ARG,2008,Yes
+Argentina,ARG,2009,Yes
+Argentina,ARG,2010,Yes
+Argentina,ARG,2011,Yes
+Argentina,ARG,2012,Yes
+Argentina,ARG,2013,Yes
+Argentina,ARG,2014,Yes
+Argentina,ARG,2015,Yes
+Argentina,ARG,2016,Yes
+Argentina,ARG,2017,Yes
+Argentina,ARG,2018,Yes
+Argentina,ARG,2019,Yes
+Argentina,ARG,2020,Yes
+Argentina,ARG,2021,Yes
+Australia,AUS,1986,No
+Australia,AUS,1987,No
+Australia,AUS,1988,No
+Australia,AUS,1989,No
+Australia,AUS,1990,No
+Australia,AUS,1991,No
+Australia,AUS,1992,No
+Australia,AUS,1993,No
+Australia,AUS,1994,No
+Australia,AUS,1995,No
+Australia,AUS,1996,No
+Australia,AUS,1997,No
+Australia,AUS,1998,No
+Australia,AUS,1999,No
+Australia,AUS,2000,No
+Australia,AUS,2001,No
+Australia,AUS,2002,Yes
+Australia,AUS,2003,Yes
+Australia,AUS,2004,Yes
+Australia,AUS,2005,Yes
+Australia,AUS,2006,Yes
+Australia,AUS,2007,Yes
+Australia,AUS,2008,Yes
+Australia,AUS,2009,Yes
+Australia,AUS,2010,Yes
+Australia,AUS,2011,Yes
+Australia,AUS,2012,Yes
+Australia,AUS,2013,Yes
+Australia,AUS,2014,Yes
+Australia,AUS,2015,Yes
+Australia,AUS,2016,Yes
+Australia,AUS,2017,Yes
+Australia,AUS,2018,Yes
+Australia,AUS,2019,Yes
+Australia,AUS,2020,Yes
+Australia,AUS,2021,Yes
+Austria,AUT,1986,No
+Austria,AUT,1987,No
+Austria,AUT,1988,No
+Austria,AUT,1989,Yes
+Austria,AUT,1990,Yes
+Austria,AUT,1991,Yes
+Austria,AUT,1992,Yes
+Austria,AUT,1993,Yes
+Austria,AUT,1994,Yes
+Austria,AUT,1995,Yes
+Austria,AUT,1996,Yes
+Austria,AUT,1997,Yes
+Austria,AUT,1998,Yes
+Austria,AUT,1999,Yes
+Austria,AUT,2000,Yes
+Austria,AUT,2001,Yes
+Austria,AUT,2002,Yes
+Austria,AUT,2003,Yes
+Austria,AUT,2004,Yes
+Austria,AUT,2005,Yes
+Austria,AUT,2006,Yes
+Austria,AUT,2007,Yes
+Austria,AUT,2008,Yes
+Austria,AUT,2009,Yes
+Austria,AUT,2010,Yes
+Austria,AUT,2011,Yes
+Austria,AUT,2012,Yes
+Austria,AUT,2013,Yes
+Austria,AUT,2014,Yes
+Austria,AUT,2015,Yes
+Austria,AUT,2016,Yes
+Austria,AUT,2017,Yes
+Austria,AUT,2018,Yes
+Austria,AUT,2019,Yes
+Austria,AUT,2020,Yes
+Austria,AUT,2021,Yes
+Azerbaijan,AZE,1986,No
+Azerbaijan,AZE,1987,No
+Azerbaijan,AZE,1988,No
+Azerbaijan,AZE,1989,No
+Azerbaijan,AZE,1990,No
+Azerbaijan,AZE,1991,No
+Azerbaijan,AZE,1992,No
+Azerbaijan,AZE,1993,No
+Azerbaijan,AZE,1994,No
+Azerbaijan,AZE,1995,No
+Azerbaijan,AZE,1996,No
+Azerbaijan,AZE,1997,Yes
+Azerbaijan,AZE,1998,Yes
+Azerbaijan,AZE,1999,Yes
+Azerbaijan,AZE,2000,Yes
+Azerbaijan,AZE,2001,Yes
+Azerbaijan,AZE,2002,Yes
+Azerbaijan,AZE,2003,Yes
+Azerbaijan,AZE,2004,Yes
+Azerbaijan,AZE,2005,Yes
+Azerbaijan,AZE,2006,Yes
+Azerbaijan,AZE,2007,Yes
+Azerbaijan,AZE,2008,Yes
+Azerbaijan,AZE,2009,Yes
+Azerbaijan,AZE,2010,Yes
+Azerbaijan,AZE,2011,Yes
+Azerbaijan,AZE,2012,Yes
+Azerbaijan,AZE,2013,Yes
+Azerbaijan,AZE,2014,Yes
+Azerbaijan,AZE,2015,Yes
+Azerbaijan,AZE,2016,Yes
+Azerbaijan,AZE,2017,Yes
+Azerbaijan,AZE,2018,Yes
+Azerbaijan,AZE,2019,Yes
+Azerbaijan,AZE,2020,Yes
+Azerbaijan,AZE,2021,Yes
+Bangladesh,BGD,1986,No
+Bangladesh,BGD,1987,No
+Bangladesh,BGD,1988,No
+Bangladesh,BGD,1989,No
+Bangladesh,BGD,1990,No
+Bangladesh,BGD,1991,No
+Bangladesh,BGD,1992,No
+Bangladesh,BGD,1993,No
+Bangladesh,BGD,1994,No
+Bangladesh,BGD,1995,No
+Bangladesh,BGD,1996,No
+Bangladesh,BGD,1997,No
+Bangladesh,BGD,1998,No
+Bangladesh,BGD,1999,Yes
+Bangladesh,BGD,2000,Yes
+Bangladesh,BGD,2001,Yes
+Bangladesh,BGD,2002,Yes
+Bangladesh,BGD,2003,Yes
+Bangladesh,BGD,2004,Yes
+Bangladesh,BGD,2005,Yes
+Bangladesh,BGD,2006,Yes
+Bangladesh,BGD,2007,Yes
+Bangladesh,BGD,2008,Yes
+Bangladesh,BGD,2009,Yes
+Bangladesh,BGD,2010,Yes
+Bangladesh,BGD,2011,Yes
+Bangladesh,BGD,2012,Yes
+Bangladesh,BGD,2013,Yes
+Bangladesh,BGD,2014,Yes
+Bangladesh,BGD,2015,Yes
+Bangladesh,BGD,2016,Yes
+Bangladesh,BGD,2017,Yes
+Bangladesh,BGD,2018,Yes
+Bangladesh,BGD,2019,Yes
+Bangladesh,BGD,2020,Yes
+Bangladesh,BGD,2021,Yes
+Belarus,BLR,1986,No
+Belarus,BLR,1987,No
+Belarus,BLR,1988,No
+Belarus,BLR,1989,No
+Belarus,BLR,1990,No
+Belarus,BLR,1991,No
+Belarus,BLR,1992,No
+Belarus,BLR,1993,No
+Belarus,BLR,1994,No
+Belarus,BLR,1995,No
+Belarus,BLR,1996,No
+Belarus,BLR,1997,No
+Belarus,BLR,1998,Yes
+Belarus,BLR,1999,Yes
+Belarus,BLR,2000,Yes
+Belarus,BLR,2001,Yes
+Belarus,BLR,2002,Yes
+Belarus,BLR,2003,Yes
+Belarus,BLR,2004,Yes
+Belarus,BLR,2005,Yes
+Belarus,BLR,2006,Yes
+Belarus,BLR,2007,Yes
+Belarus,BLR,2008,Yes
+Belarus,BLR,2009,Yes
+Belarus,BLR,2010,Yes
+Belarus,BLR,2011,Yes
+Belarus,BLR,2012,Yes
+Belarus,BLR,2013,Yes
+Belarus,BLR,2014,Yes
+Belarus,BLR,2015,Yes
+Belarus,BLR,2016,Yes
+Belarus,BLR,2017,Yes
+Belarus,BLR,2018,Yes
+Belarus,BLR,2019,Yes
+Belarus,BLR,2020,Yes
+Belarus,BLR,2021,Yes
+Belgium,BEL,1986,No
+Belgium,BEL,1987,No
+Belgium,BEL,1988,No
+Belgium,BEL,1989,No
+Belgium,BEL,1990,No
+Belgium,BEL,1991,No
+Belgium,BEL,1992,No
+Belgium,BEL,1993,No
+Belgium,BEL,1994,No
+Belgium,BEL,1995,No
+Belgium,BEL,1996,No
+Belgium,BEL,1997,No
+Belgium,BEL,1998,No
+Belgium,BEL,1999,No
+Belgium,BEL,2000,Yes
+Belgium,BEL,2001,Yes
+Belgium,BEL,2002,Yes
+Belgium,BEL,2003,Yes
+Belgium,BEL,2004,Yes
+Belgium,BEL,2005,Yes
+Belgium,BEL,2006,Yes
+Belgium,BEL,2007,Yes
+Belgium,BEL,2008,Yes
+Belgium,BEL,2009,Yes
+Belgium,BEL,2010,Yes
+Belgium,BEL,2011,Yes
+Belgium,BEL,2012,Yes
+Belgium,BEL,2013,Yes
+Belgium,BEL,2014,Yes
+Belgium,BEL,2015,Yes
+Belgium,BEL,2016,Yes
+Belgium,BEL,2017,Yes
+Belgium,BEL,2018,Yes
+Belgium,BEL,2019,Yes
+Belgium,BEL,2020,Yes
+Belgium,BEL,2021,Yes
+Benin,BEN,1986,No
+Benin,BEN,1987,No
+Benin,BEN,1988,No
+Benin,BEN,1989,No
+Benin,BEN,1990,No
+Benin,BEN,1991,No
+Benin,BEN,1992,No
+Benin,BEN,1993,No
+Benin,BEN,1994,No
+Benin,BEN,1995,No
+Benin,BEN,1996,No
+Benin,BEN,1997,No
+Benin,BEN,1998,No
+Benin,BEN,1999,No
+Benin,BEN,2000,No
+Benin,BEN,2001,No
+Benin,BEN,2002,No
+Benin,BEN,2003,No
+Benin,BEN,2004,No
+Benin,BEN,2005,Yes
+Benin,BEN,2006,Yes
+Benin,BEN,2007,Yes
+Benin,BEN,2008,Yes
+Benin,BEN,2009,Yes
+Benin,BEN,2010,Yes
+Benin,BEN,2011,Yes
+Benin,BEN,2012,Yes
+Benin,BEN,2013,Yes
+Benin,BEN,2014,Yes
+Benin,BEN,2015,Yes
+Benin,BEN,2016,Yes
+Benin,BEN,2017,Yes
+Benin,BEN,2018,Yes
+Benin,BEN,2019,Yes
+Benin,BEN,2020,Yes
+Benin,BEN,2021,Yes
+Bolivia,BOL,1986,No
+Bolivia,BOL,1987,No
+Bolivia,BOL,1988,No
+Bolivia,BOL,1989,No
+Bolivia,BOL,1990,No
+Bolivia,BOL,1991,No
+Bolivia,BOL,1992,No
+Bolivia,BOL,1993,No
+Bolivia,BOL,1994,No
+Bolivia,BOL,1995,Yes
+Bolivia,BOL,1996,Yes
+Bolivia,BOL,1997,Yes
+Bolivia,BOL,1998,Yes
+Bolivia,BOL,1999,Yes
+Bolivia,BOL,2000,Yes
+Bolivia,BOL,2001,Yes
+Bolivia,BOL,2002,Yes
+Bolivia,BOL,2003,Yes
+Bolivia,BOL,2004,Yes
+Bolivia,BOL,2005,Yes
+Bolivia,BOL,2006,Yes
+Bolivia,BOL,2007,Yes
+Bolivia,BOL,2008,Yes
+Bolivia,BOL,2009,Yes
+Bolivia,BOL,2010,Yes
+Bolivia,BOL,2011,Yes
+Bolivia,BOL,2012,Yes
+Bolivia,BOL,2013,Yes
+Bolivia,BOL,2014,Yes
+Bolivia,BOL,2015,Yes
+Bolivia,BOL,2016,Yes
+Bolivia,BOL,2017,Yes
+Bolivia,BOL,2018,Yes
+Bolivia,BOL,2019,Yes
+Bolivia,BOL,2020,Yes
+Bolivia,BOL,2021,Yes
+Bosnia and Herzegovina,BIH,1986,No
+Bosnia and Herzegovina,BIH,1987,No
+Bosnia and Herzegovina,BIH,1988,No
+Bosnia and Herzegovina,BIH,1989,No
+Bosnia and Herzegovina,BIH,1990,No
+Bosnia and Herzegovina,BIH,1991,No
+Bosnia and Herzegovina,BIH,1992,No
+Bosnia and Herzegovina,BIH,1993,No
+Bosnia and Herzegovina,BIH,1994,No
+Bosnia and Herzegovina,BIH,1995,No
+Bosnia and Herzegovina,BIH,1996,No
+Bosnia and Herzegovina,BIH,1997,No
+Bosnia and Herzegovina,BIH,1998,No
+Bosnia and Herzegovina,BIH,1999,No
+Bosnia and Herzegovina,BIH,2000,No
+Bosnia and Herzegovina,BIH,2001,No
+Bosnia and Herzegovina,BIH,2002,No
+Bosnia and Herzegovina,BIH,2003,No
+Bosnia and Herzegovina,BIH,2004,No
+Bosnia and Herzegovina,BIH,2005,No
+Bosnia and Herzegovina,BIH,2006,No
+Bosnia and Herzegovina,BIH,2007,No
+Bosnia and Herzegovina,BIH,2008,No
+Bosnia and Herzegovina,BIH,2009,Yes
+Bosnia and Herzegovina,BIH,2010,Yes
+Bosnia and Herzegovina,BIH,2011,Yes
+Bosnia and Herzegovina,BIH,2012,Yes
+Bosnia and Herzegovina,BIH,2013,Yes
+Bosnia and Herzegovina,BIH,2014,Yes
+Bosnia and Herzegovina,BIH,2015,Yes
+Bosnia and Herzegovina,BIH,2016,Yes
+Bosnia and Herzegovina,BIH,2017,Yes
+Bosnia and Herzegovina,BIH,2018,Yes
+Bosnia and Herzegovina,BIH,2019,Yes
+Bosnia and Herzegovina,BIH,2020,Yes
+Bosnia and Herzegovina,BIH,2021,Yes
+Botswana,BWA,1986,No
+Botswana,BWA,1987,No
+Botswana,BWA,1988,No
+Botswana,BWA,1989,No
+Botswana,BWA,1990,No
+Botswana,BWA,1991,No
+Botswana,BWA,1992,No
+Botswana,BWA,1993,No
+Botswana,BWA,1994,No
+Botswana,BWA,1995,No
+Botswana,BWA,1996,No
+Botswana,BWA,1997,No
+Botswana,BWA,1998,No
+Botswana,BWA,1999,No
+Botswana,BWA,2000,No
+Botswana,BWA,2001,No
+Botswana,BWA,2002,No
+Botswana,BWA,2003,No
+Botswana,BWA,2004,No
+Botswana,BWA,2005,No
+Botswana,BWA,2006,Yes
+Botswana,BWA,2007,Yes
+Botswana,BWA,2008,Yes
+Botswana,BWA,2009,Yes
+Botswana,BWA,2010,Yes
+Botswana,BWA,2011,Yes
+Botswana,BWA,2012,Yes
+Botswana,BWA,2013,Yes
+Botswana,BWA,2014,Yes
+Botswana,BWA,2015,Yes
+Botswana,BWA,2016,Yes
+Botswana,BWA,2017,Yes
+Botswana,BWA,2018,Yes
+Botswana,BWA,2019,Yes
+Botswana,BWA,2020,Yes
+Botswana,BWA,2021,Yes
+Brazil,BRA,1986,No
+Brazil,BRA,1987,No
+Brazil,BRA,1988,No
+Brazil,BRA,1989,Yes
+Brazil,BRA,1990,Yes
+Brazil,BRA,1991,Yes
+Brazil,BRA,1992,Yes
+Brazil,BRA,1993,Yes
+Brazil,BRA,1994,Yes
+Brazil,BRA,1995,Yes
+Brazil,BRA,1996,Yes
+Brazil,BRA,1997,Yes
+Brazil,BRA,1998,Yes
+Brazil,BRA,1999,Yes
+Brazil,BRA,2000,Yes
+Brazil,BRA,2001,Yes
+Brazil,BRA,2002,Yes
+Brazil,BRA,2003,Yes
+Brazil,BRA,2004,Yes
+Brazil,BRA,2005,Yes
+Brazil,BRA,2006,Yes
+Brazil,BRA,2007,Yes
+Brazil,BRA,2008,Yes
+Brazil,BRA,2009,Yes
+Brazil,BRA,2010,Yes
+Brazil,BRA,2011,Yes
+Brazil,BRA,2012,Yes
+Brazil,BRA,2013,Yes
+Brazil,BRA,2014,Yes
+Brazil,BRA,2015,Yes
+Brazil,BRA,2016,Yes
+Brazil,BRA,2017,Yes
+Brazil,BRA,2018,Yes
+Brazil,BRA,2019,Yes
+Brazil,BRA,2020,Yes
+Brazil,BRA,2021,Yes
+Bulgaria,BGR,1986,No
+Bulgaria,BGR,1987,No
+Bulgaria,BGR,1988,No
+Bulgaria,BGR,1989,No
+Bulgaria,BGR,1990,No
+Bulgaria,BGR,1991,No
+Bulgaria,BGR,1992,No
+Bulgaria,BGR,1993,No
+Bulgaria,BGR,1994,No
+Bulgaria,BGR,1995,No
+Bulgaria,BGR,1996,No
+Bulgaria,BGR,1997,No
+Bulgaria,BGR,1998,No
+Bulgaria,BGR,1999,No
+Bulgaria,BGR,2000,No
+Bulgaria,BGR,2001,No
+Bulgaria,BGR,2002,No
+Bulgaria,BGR,2003,No
+Bulgaria,BGR,2004,Yes
+Bulgaria,BGR,2005,Yes
+Bulgaria,BGR,2006,Yes
+Bulgaria,BGR,2007,Yes
+Bulgaria,BGR,2008,Yes
+Bulgaria,BGR,2009,Yes
+Bulgaria,BGR,2010,Yes
+Bulgaria,BGR,2011,Yes
+Bulgaria,BGR,2012,Yes
+Bulgaria,BGR,2013,Yes
+Bulgaria,BGR,2014,Yes
+Bulgaria,BGR,2015,Yes
+Bulgaria,BGR,2016,Yes
+Bulgaria,BGR,2017,Yes
+Bulgaria,BGR,2018,Yes
+Bulgaria,BGR,2019,Yes
+Bulgaria,BGR,2020,Yes
+Bulgaria,BGR,2021,Yes
+Burkina Faso,BFA,1986,No
+Burkina Faso,BFA,1987,No
+Burkina Faso,BFA,1988,No
+Burkina Faso,BFA,1989,No
+Burkina Faso,BFA,1990,No
+Burkina Faso,BFA,1991,No
+Burkina Faso,BFA,1992,No
+Burkina Faso,BFA,1993,No
+Burkina Faso,BFA,1994,No
+Burkina Faso,BFA,1995,No
+Burkina Faso,BFA,1996,No
+Burkina Faso,BFA,1997,No
+Burkina Faso,BFA,1998,No
+Burkina Faso,BFA,1999,No
+Burkina Faso,BFA,2000,No
+Burkina Faso,BFA,2001,No
+Burkina Faso,BFA,2002,No
+Burkina Faso,BFA,2003,No
+Burkina Faso,BFA,2004,No
+Burkina Faso,BFA,2005,Yes
+Burkina Faso,BFA,2006,Yes
+Burkina Faso,BFA,2007,Yes
+Burkina Faso,BFA,2008,Yes
+Burkina Faso,BFA,2009,Yes
+Burkina Faso,BFA,2010,Yes
+Burkina Faso,BFA,2011,Yes
+Burkina Faso,BFA,2012,Yes
+Burkina Faso,BFA,2013,Yes
+Burkina Faso,BFA,2014,Yes
+Burkina Faso,BFA,2015,Yes
+Burkina Faso,BFA,2016,Yes
+Burkina Faso,BFA,2017,Yes
+Burkina Faso,BFA,2018,Yes
+Burkina Faso,BFA,2019,Yes
+Burkina Faso,BFA,2020,Yes
+Burkina Faso,BFA,2021,Yes
+Burundi,BDI,1986,No
+Burundi,BDI,1987,No
+Burundi,BDI,1988,No
+Burundi,BDI,1989,No
+Burundi,BDI,1990,No
+Burundi,BDI,1991,No
+Burundi,BDI,1992,No
+Burundi,BDI,1993,No
+Burundi,BDI,1994,No
+Burundi,BDI,1995,No
+Burundi,BDI,1996,No
+Burundi,BDI,1997,No
+Burundi,BDI,1998,No
+Burundi,BDI,1999,No
+Burundi,BDI,2000,No
+Burundi,BDI,2001,No
+Burundi,BDI,2002,No
+Burundi,BDI,2003,No
+Burundi,BDI,2004,No
+Burundi,BDI,2005,No
+Burundi,BDI,2006,Yes
+Burundi,BDI,2007,Yes
+Burundi,BDI,2008,Yes
+Burundi,BDI,2009,Yes
+Burundi,BDI,2010,Yes
+Burundi,BDI,2011,Yes
+Burundi,BDI,2012,Yes
+Burundi,BDI,2013,Yes
+Burundi,BDI,2014,Yes
+Burundi,BDI,2015,Yes
+Burundi,BDI,2016,Yes
+Burundi,BDI,2017,Yes
+Burundi,BDI,2018,Yes
+Burundi,BDI,2019,Yes
+Burundi,BDI,2020,Yes
+Burundi,BDI,2021,Yes
+Cameroon,CMR,1986,No
+Cameroon,CMR,1987,No
+Cameroon,CMR,1988,No
+Cameroon,CMR,1989,No
+Cameroon,CMR,1990,No
+Cameroon,CMR,1991,No
+Cameroon,CMR,1992,No
+Cameroon,CMR,1993,No
+Cameroon,CMR,1994,No
+Cameroon,CMR,1995,No
+Cameroon,CMR,1996,No
+Cameroon,CMR,1997,No
+Cameroon,CMR,1998,No
+Cameroon,CMR,1999,No
+Cameroon,CMR,2000,No
+Cameroon,CMR,2001,No
+Cameroon,CMR,2002,No
+Cameroon,CMR,2003,No
+Cameroon,CMR,2004,No
+Cameroon,CMR,2005,Yes
+Cameroon,CMR,2006,Yes
+Cameroon,CMR,2007,Yes
+Cameroon,CMR,2008,Yes
+Cameroon,CMR,2009,Yes
+Cameroon,CMR,2010,Yes
+Cameroon,CMR,2011,Yes
+Cameroon,CMR,2012,Yes
+Cameroon,CMR,2013,Yes
+Cameroon,CMR,2014,Yes
+Cameroon,CMR,2015,Yes
+Cameroon,CMR,2016,Yes
+Cameroon,CMR,2017,Yes
+Cameroon,CMR,2018,Yes
+Cameroon,CMR,2019,Yes
+Cameroon,CMR,2020,Yes
+Cameroon,CMR,2021,Yes
+Canada,CAN,1986,No
+Canada,CAN,1987,No
+Canada,CAN,1988,No
+Canada,CAN,1989,No
+Canada,CAN,1990,Yes
+Canada,CAN,1991,Yes
+Canada,CAN,1992,Yes
+Canada,CAN,1993,Yes
+Canada,CAN,1994,Yes
+Canada,CAN,1995,Yes
+Canada,CAN,1996,Yes
+Canada,CAN,1997,Yes
+Canada,CAN,1998,Yes
+Canada,CAN,1999,Yes
+Canada,CAN,2000,Yes
+Canada,CAN,2001,Yes
+Canada,CAN,2002,Yes
+Canada,CAN,2003,Yes
+Canada,CAN,2004,Yes
+Canada,CAN,2005,Yes
+Canada,CAN,2006,Yes
+Canada,CAN,2007,Yes
+Canada,CAN,2008,Yes
+Canada,CAN,2009,Yes
+Canada,CAN,2010,Yes
+Canada,CAN,2011,Yes
+Canada,CAN,2012,Yes
+Canada,CAN,2013,Yes
+Canada,CAN,2014,Yes
+Canada,CAN,2015,Yes
+Canada,CAN,2016,Yes
+Canada,CAN,2017,Yes
+Canada,CAN,2018,Yes
+Canada,CAN,2019,Yes
+Canada,CAN,2020,Yes
+Canada,CAN,2021,Yes
+Cape Verde,CPV,1986,No
+Cape Verde,CPV,1987,No
+Cape Verde,CPV,1988,No
+Cape Verde,CPV,1989,No
+Cape Verde,CPV,1990,No
+Cape Verde,CPV,1991,No
+Cape Verde,CPV,1992,No
+Cape Verde,CPV,1993,No
+Cape Verde,CPV,1994,No
+Cape Verde,CPV,1995,No
+Cape Verde,CPV,1996,No
+Cape Verde,CPV,1997,No
+Cape Verde,CPV,1998,No
+Cape Verde,CPV,1999,No
+Cape Verde,CPV,2000,No
+Cape Verde,CPV,2001,No
+Cape Verde,CPV,2002,No
+Cape Verde,CPV,2003,No
+Cape Verde,CPV,2004,No
+Cape Verde,CPV,2005,No
+Cape Verde,CPV,2006,Yes
+Cape Verde,CPV,2007,Yes
+Cape Verde,CPV,2008,Yes
+Cape Verde,CPV,2009,Yes
+Cape Verde,CPV,2010,Yes
+Cape Verde,CPV,2011,Yes
+Cape Verde,CPV,2012,Yes
+Cape Verde,CPV,2013,Yes
+Cape Verde,CPV,2014,Yes
+Cape Verde,CPV,2015,Yes
+Cape Verde,CPV,2016,Yes
+Cape Verde,CPV,2017,Yes
+Cape Verde,CPV,2018,Yes
+Cape Verde,CPV,2019,Yes
+Cape Verde,CPV,2020,Yes
+Cape Verde,CPV,2021,Yes
+Central African Republic,CAF,1986,No
+Central African Republic,CAF,1987,No
+Central African Republic,CAF,1988,No
+Central African Republic,CAF,1989,No
+Central African Republic,CAF,1990,No
+Central African Republic,CAF,1991,No
+Central African Republic,CAF,1992,No
+Central African Republic,CAF,1993,No
+Central African Republic,CAF,1994,No
+Central African Republic,CAF,1995,No
+Central African Republic,CAF,1996,No
+Central African Republic,CAF,1997,No
+Central African Republic,CAF,1998,No
+Central African Republic,CAF,1999,No
+Central African Republic,CAF,2000,No
+Central African Republic,CAF,2001,No
+Central African Republic,CAF,2002,No
+Central African Republic,CAF,2003,No
+Central African Republic,CAF,2004,No
+Central African Republic,CAF,2005,Yes
+Central African Republic,CAF,2006,Yes
+Central African Republic,CAF,2007,Yes
+Central African Republic,CAF,2008,Yes
+Central African Republic,CAF,2009,Yes
+Central African Republic,CAF,2010,Yes
+Central African Republic,CAF,2011,Yes
+Central African Republic,CAF,2012,Yes
+Central African Republic,CAF,2013,Yes
+Central African Republic,CAF,2014,Yes
+Central African Republic,CAF,2015,Yes
+Central African Republic,CAF,2016,Yes
+Central African Republic,CAF,2017,Yes
+Central African Republic,CAF,2018,Yes
+Central African Republic,CAF,2019,Yes
+Central African Republic,CAF,2020,Yes
+Central African Republic,CAF,2021,Yes
+Chad,TCD,1986,No
+Chad,TCD,1987,No
+Chad,TCD,1988,No
+Chad,TCD,1989,No
+Chad,TCD,1990,No
+Chad,TCD,1991,No
+Chad,TCD,1992,No
+Chad,TCD,1993,No
+Chad,TCD,1994,No
+Chad,TCD,1995,No
+Chad,TCD,1996,No
+Chad,TCD,1997,No
+Chad,TCD,1998,No
+Chad,TCD,1999,No
+Chad,TCD,2000,No
+Chad,TCD,2001,No
+Chad,TCD,2002,No
+Chad,TCD,2003,No
+Chad,TCD,2004,No
+Chad,TCD,2005,Yes
+Chad,TCD,2006,Yes
+Chad,TCD,2007,Yes
+Chad,TCD,2008,Yes
+Chad,TCD,2009,Yes
+Chad,TCD,2010,Yes
+Chad,TCD,2011,Yes
+Chad,TCD,2012,Yes
+Chad,TCD,2013,Yes
+Chad,TCD,2014,Yes
+Chad,TCD,2015,Yes
+Chad,TCD,2016,Yes
+Chad,TCD,2017,Yes
+Chad,TCD,2018,Yes
+Chad,TCD,2019,Yes
+Chad,TCD,2020,Yes
+Chad,TCD,2021,Yes
+Chile,CHL,1986,No
+Chile,CHL,1987,No
+Chile,CHL,1988,No
+Chile,CHL,1989,No
+Chile,CHL,1990,No
+Chile,CHL,1991,No
+Chile,CHL,1992,No
+Chile,CHL,1993,No
+Chile,CHL,1994,No
+Chile,CHL,1995,No
+Chile,CHL,1996,No
+Chile,CHL,1997,No
+Chile,CHL,1998,No
+Chile,CHL,1999,No
+Chile,CHL,2000,No
+Chile,CHL,2001,Yes
+Chile,CHL,2002,Yes
+Chile,CHL,2003,Yes
+Chile,CHL,2004,Yes
+Chile,CHL,2005,Yes
+Chile,CHL,2006,Yes
+Chile,CHL,2007,Yes
+Chile,CHL,2008,Yes
+Chile,CHL,2009,Yes
+Chile,CHL,2010,Yes
+Chile,CHL,2011,Yes
+Chile,CHL,2012,Yes
+Chile,CHL,2013,Yes
+Chile,CHL,2014,Yes
+Chile,CHL,2015,Yes
+Chile,CHL,2016,Yes
+Chile,CHL,2017,Yes
+Chile,CHL,2018,Yes
+Chile,CHL,2019,Yes
+Chile,CHL,2020,Yes
+Chile,CHL,2021,Yes
+China,CHN,1986,No
+China,CHN,1987,No
+China,CHN,1988,No
+China,CHN,1989,No
+China,CHN,1990,No
+China,CHN,1991,No
+China,CHN,1992,No
+China,CHN,1993,No
+China,CHN,1994,No
+China,CHN,1995,No
+China,CHN,1996,No
+China,CHN,1997,No
+China,CHN,1998,No
+China,CHN,1999,No
+China,CHN,2000,Yes
+China,CHN,2001,Yes
+China,CHN,2002,Yes
+China,CHN,2003,Yes
+China,CHN,2004,Yes
+China,CHN,2005,Yes
+China,CHN,2006,Yes
+China,CHN,2007,Yes
+China,CHN,2008,Yes
+China,CHN,2009,Yes
+China,CHN,2010,Yes
+China,CHN,2011,Yes
+China,CHN,2012,Yes
+China,CHN,2013,Yes
+China,CHN,2014,Yes
+China,CHN,2015,Yes
+China,CHN,2016,Yes
+China,CHN,2017,Yes
+China,CHN,2018,Yes
+China,CHN,2019,Yes
+China,CHN,2020,Yes
+China,CHN,2021,Yes
+Colombia,COL,1986,No
+Colombia,COL,1987,No
+Colombia,COL,1988,No
+Colombia,COL,1989,No
+Colombia,COL,1990,No
+Colombia,COL,1991,Yes
+Colombia,COL,1992,Yes
+Colombia,COL,1993,Yes
+Colombia,COL,1994,Yes
+Colombia,COL,1995,Yes
+Colombia,COL,1996,Yes
+Colombia,COL,1997,Yes
+Colombia,COL,1998,Yes
+Colombia,COL,1999,Yes
+Colombia,COL,2000,Yes
+Colombia,COL,2001,Yes
+Colombia,COL,2002,Yes
+Colombia,COL,2003,Yes
+Colombia,COL,2004,Yes
+Colombia,COL,2005,Yes
+Colombia,COL,2006,Yes
+Colombia,COL,2007,Yes
+Colombia,COL,2008,Yes
+Colombia,COL,2009,Yes
+Colombia,COL,2010,Yes
+Colombia,COL,2011,Yes
+Colombia,COL,2012,Yes
+Colombia,COL,2013,Yes
+Colombia,COL,2014,Yes
+Colombia,COL,2015,Yes
+Colombia,COL,2016,Yes
+Colombia,COL,2017,Yes
+Colombia,COL,2018,Yes
+Colombia,COL,2019,Yes
+Colombia,COL,2020,Yes
+Colombia,COL,2021,Yes
+Comoros,COM,1986,No
+Comoros,COM,1987,No
+Comoros,COM,1988,No
+Comoros,COM,1989,No
+Comoros,COM,1990,No
+Comoros,COM,1991,No
+Comoros,COM,1992,No
+Comoros,COM,1993,No
+Comoros,COM,1994,No
+Comoros,COM,1995,No
+Comoros,COM,1996,No
+Comoros,COM,1997,No
+Comoros,COM,1998,No
+Comoros,COM,1999,No
+Comoros,COM,2000,No
+Comoros,COM,2001,No
+Comoros,COM,2002,No
+Comoros,COM,2003,No
+Comoros,COM,2004,No
+Comoros,COM,2005,No
+Comoros,COM,2006,Yes
+Comoros,COM,2007,Yes
+Comoros,COM,2008,Yes
+Comoros,COM,2009,Yes
+Comoros,COM,2010,Yes
+Comoros,COM,2011,Yes
+Comoros,COM,2012,Yes
+Comoros,COM,2013,Yes
+Comoros,COM,2014,Yes
+Comoros,COM,2015,Yes
+Comoros,COM,2016,Yes
+Comoros,COM,2017,Yes
+Comoros,COM,2018,Yes
+Comoros,COM,2019,Yes
+Comoros,COM,2020,Yes
+Comoros,COM,2021,Yes
+Congo,COG,1986,No
+Congo,COG,1987,No
+Congo,COG,1988,No
+Congo,COG,1989,No
+Congo,COG,1990,No
+Congo,COG,1991,No
+Congo,COG,1992,No
+Congo,COG,1993,No
+Congo,COG,1994,No
+Congo,COG,1995,No
+Congo,COG,1996,No
+Congo,COG,1997,No
+Congo,COG,1998,No
+Congo,COG,1999,No
+Congo,COG,2000,No
+Congo,COG,2001,No
+Congo,COG,2002,No
+Congo,COG,2003,No
+Congo,COG,2004,No
+Congo,COG,2005,Yes
+Congo,COG,2006,Yes
+Congo,COG,2007,Yes
+Congo,COG,2008,Yes
+Congo,COG,2009,Yes
+Congo,COG,2010,Yes
+Congo,COG,2011,Yes
+Congo,COG,2012,Yes
+Congo,COG,2013,Yes
+Congo,COG,2014,Yes
+Congo,COG,2015,Yes
+Congo,COG,2016,Yes
+Congo,COG,2017,Yes
+Congo,COG,2018,Yes
+Congo,COG,2019,Yes
+Congo,COG,2020,Yes
+Congo,COG,2021,Yes
+Cote d'Ivoire,CIV,1986,No
+Cote d'Ivoire,CIV,1987,No
+Cote d'Ivoire,CIV,1988,No
+Cote d'Ivoire,CIV,1989,No
+Cote d'Ivoire,CIV,1990,No
+Cote d'Ivoire,CIV,1991,No
+Cote d'Ivoire,CIV,1992,No
+Cote d'Ivoire,CIV,1993,No
+Cote d'Ivoire,CIV,1994,No
+Cote d'Ivoire,CIV,1995,No
+Cote d'Ivoire,CIV,1996,No
+Cote d'Ivoire,CIV,1997,No
+Cote d'Ivoire,CIV,1998,No
+Cote d'Ivoire,CIV,1999,No
+Cote d'Ivoire,CIV,2000,No
+Cote d'Ivoire,CIV,2001,No
+Cote d'Ivoire,CIV,2002,No
+Cote d'Ivoire,CIV,2003,No
+Cote d'Ivoire,CIV,2004,No
+Cote d'Ivoire,CIV,2005,Yes
+Cote d'Ivoire,CIV,2006,Yes
+Cote d'Ivoire,CIV,2007,Yes
+Cote d'Ivoire,CIV,2008,Yes
+Cote d'Ivoire,CIV,2009,Yes
+Cote d'Ivoire,CIV,2010,Yes
+Cote d'Ivoire,CIV,2011,Yes
+Cote d'Ivoire,CIV,2012,Yes
+Cote d'Ivoire,CIV,2013,Yes
+Cote d'Ivoire,CIV,2014,Yes
+Cote d'Ivoire,CIV,2015,Yes
+Cote d'Ivoire,CIV,2016,Yes
+Cote d'Ivoire,CIV,2017,Yes
+Cote d'Ivoire,CIV,2018,Yes
+Cote d'Ivoire,CIV,2019,Yes
+Cote d'Ivoire,CIV,2020,Yes
+Cote d'Ivoire,CIV,2021,Yes
+Croatia,HRV,1986,No
+Croatia,HRV,1987,No
+Croatia,HRV,1988,No
+Croatia,HRV,1989,No
+Croatia,HRV,1990,No
+Croatia,HRV,1991,No
+Croatia,HRV,1992,No
+Croatia,HRV,1993,No
+Croatia,HRV,1994,No
+Croatia,HRV,1995,No
+Croatia,HRV,1996,No
+Croatia,HRV,1997,No
+Croatia,HRV,1998,No
+Croatia,HRV,1999,No
+Croatia,HRV,2000,No
+Croatia,HRV,2001,No
+Croatia,HRV,2002,No
+Croatia,HRV,2003,No
+Croatia,HRV,2004,No
+Croatia,HRV,2005,No
+Croatia,HRV,2006,Yes
+Croatia,HRV,2007,Yes
+Croatia,HRV,2008,Yes
+Croatia,HRV,2009,Yes
+Croatia,HRV,2010,Yes
+Croatia,HRV,2011,Yes
+Croatia,HRV,2012,Yes
+Croatia,HRV,2013,Yes
+Croatia,HRV,2014,Yes
+Croatia,HRV,2015,Yes
+Croatia,HRV,2016,Yes
+Croatia,HRV,2017,Yes
+Croatia,HRV,2018,Yes
+Croatia,HRV,2019,Yes
+Croatia,HRV,2020,Yes
+Croatia,HRV,2021,Yes
+Czechia,CZE,1986,No
+Czechia,CZE,1987,No
+Czechia,CZE,1988,No
+Czechia,CZE,1989,No
+Czechia,CZE,1990,No
+Czechia,CZE,1991,No
+Czechia,CZE,1992,No
+Czechia,CZE,1993,No
+Czechia,CZE,1994,No
+Czechia,CZE,1995,No
+Czechia,CZE,1996,No
+Czechia,CZE,1997,No
+Czechia,CZE,1998,No
+Czechia,CZE,1999,No
+Czechia,CZE,2000,No
+Czechia,CZE,2001,Yes
+Czechia,CZE,2002,Yes
+Czechia,CZE,2003,Yes
+Czechia,CZE,2004,Yes
+Czechia,CZE,2005,Yes
+Czechia,CZE,2006,Yes
+Czechia,CZE,2007,Yes
+Czechia,CZE,2008,Yes
+Czechia,CZE,2009,Yes
+Czechia,CZE,2010,Yes
+Czechia,CZE,2011,Yes
+Czechia,CZE,2012,Yes
+Czechia,CZE,2013,Yes
+Czechia,CZE,2014,Yes
+Czechia,CZE,2015,Yes
+Czechia,CZE,2016,Yes
+Czechia,CZE,2017,Yes
+Czechia,CZE,2018,Yes
+Czechia,CZE,2019,Yes
+Czechia,CZE,2020,Yes
+Czechia,CZE,2021,Yes
+Democratic Republic of Congo,COD,1986,No
+Democratic Republic of Congo,COD,1987,No
+Democratic Republic of Congo,COD,1988,No
+Democratic Republic of Congo,COD,1989,No
+Democratic Republic of Congo,COD,1990,No
+Democratic Republic of Congo,COD,1991,No
+Democratic Republic of Congo,COD,1992,No
+Democratic Republic of Congo,COD,1993,No
+Democratic Republic of Congo,COD,1994,No
+Democratic Republic of Congo,COD,1995,No
+Democratic Republic of Congo,COD,1996,No
+Democratic Republic of Congo,COD,1997,No
+Democratic Republic of Congo,COD,1998,No
+Democratic Republic of Congo,COD,1999,No
+Democratic Republic of Congo,COD,2000,No
+Democratic Republic of Congo,COD,2001,No
+Democratic Republic of Congo,COD,2002,No
+Democratic Republic of Congo,COD,2003,No
+Democratic Republic of Congo,COD,2004,No
+Democratic Republic of Congo,COD,2005,Yes
+Democratic Republic of Congo,COD,2006,Yes
+Democratic Republic of Congo,COD,2007,Yes
+Democratic Republic of Congo,COD,2008,Yes
+Democratic Republic of Congo,COD,2009,Yes
+Democratic Republic of Congo,COD,2010,Yes
+Democratic Republic of Congo,COD,2011,Yes
+Democratic Republic of Congo,COD,2012,Yes
+Democratic Republic of Congo,COD,2013,Yes
+Democratic Republic of Congo,COD,2014,Yes
+Democratic Republic of Congo,COD,2015,Yes
+Democratic Republic of Congo,COD,2016,Yes
+Democratic Republic of Congo,COD,2017,Yes
+Democratic Republic of Congo,COD,2018,Yes
+Democratic Republic of Congo,COD,2019,Yes
+Democratic Republic of Congo,COD,2020,Yes
+Democratic Republic of Congo,COD,2021,Yes
+Denmark,DNK,1986,No
+Denmark,DNK,1987,No
+Denmark,DNK,1988,No
+Denmark,DNK,1989,No
+Denmark,DNK,1990,No
+Denmark,DNK,1991,No
+Denmark,DNK,1992,No
+Denmark,DNK,1993,No
+Denmark,DNK,1994,Yes
+Denmark,DNK,1995,Yes
+Denmark,DNK,1996,Yes
+Denmark,DNK,1997,Yes
+Denmark,DNK,1998,Yes
+Denmark,DNK,1999,Yes
+Denmark,DNK,2000,Yes
+Denmark,DNK,2001,Yes
+Denmark,DNK,2002,Yes
+Denmark,DNK,2003,Yes
+Denmark,DNK,2004,Yes
+Denmark,DNK,2005,Yes
+Denmark,DNK,2006,Yes
+Denmark,DNK,2007,Yes
+Denmark,DNK,2008,Yes
+Denmark,DNK,2009,Yes
+Denmark,DNK,2010,Yes
+Denmark,DNK,2011,Yes
+Denmark,DNK,2012,Yes
+Denmark,DNK,2013,Yes
+Denmark,DNK,2014,Yes
+Denmark,DNK,2015,Yes
+Denmark,DNK,2016,Yes
+Denmark,DNK,2017,Yes
+Denmark,DNK,2018,Yes
+Denmark,DNK,2019,Yes
+Denmark,DNK,2020,Yes
+Denmark,DNK,2021,Yes
+Ecuador,ECU,1986,No
+Ecuador,ECU,1987,No
+Ecuador,ECU,1988,No
+Ecuador,ECU,1989,No
+Ecuador,ECU,1990,No
+Ecuador,ECU,1991,No
+Ecuador,ECU,1992,No
+Ecuador,ECU,1993,No
+Ecuador,ECU,1994,No
+Ecuador,ECU,1995,No
+Ecuador,ECU,1996,No
+Ecuador,ECU,1997,Yes
+Ecuador,ECU,1998,Yes
+Ecuador,ECU,1999,Yes
+Ecuador,ECU,2000,Yes
+Ecuador,ECU,2001,Yes
+Ecuador,ECU,2002,Yes
+Ecuador,ECU,2003,Yes
+Ecuador,ECU,2004,Yes
+Ecuador,ECU,2005,Yes
+Ecuador,ECU,2006,Yes
+Ecuador,ECU,2007,Yes
+Ecuador,ECU,2008,Yes
+Ecuador,ECU,2009,Yes
+Ecuador,ECU,2010,Yes
+Ecuador,ECU,2011,Yes
+Ecuador,ECU,2012,Yes
+Ecuador,ECU,2013,Yes
+Ecuador,ECU,2014,Yes
+Ecuador,ECU,2015,Yes
+Ecuador,ECU,2016,Yes
+Ecuador,ECU,2017,Yes
+Ecuador,ECU,2018,Yes
+Ecuador,ECU,2019,Yes
+Ecuador,ECU,2020,Yes
+Ecuador,ECU,2021,Yes
+Equatorial Guinea,GNQ,1986,No
+Equatorial Guinea,GNQ,1987,No
+Equatorial Guinea,GNQ,1988,No
+Equatorial Guinea,GNQ,1989,No
+Equatorial Guinea,GNQ,1990,No
+Equatorial Guinea,GNQ,1991,No
+Equatorial Guinea,GNQ,1992,No
+Equatorial Guinea,GNQ,1993,No
+Equatorial Guinea,GNQ,1994,No
+Equatorial Guinea,GNQ,1995,No
+Equatorial Guinea,GNQ,1996,No
+Equatorial Guinea,GNQ,1997,No
+Equatorial Guinea,GNQ,1998,No
+Equatorial Guinea,GNQ,1999,No
+Equatorial Guinea,GNQ,2000,No
+Equatorial Guinea,GNQ,2001,No
+Equatorial Guinea,GNQ,2002,No
+Equatorial Guinea,GNQ,2003,No
+Equatorial Guinea,GNQ,2004,No
+Equatorial Guinea,GNQ,2005,No
+Equatorial Guinea,GNQ,2006,Yes
+Equatorial Guinea,GNQ,2007,Yes
+Equatorial Guinea,GNQ,2008,Yes
+Equatorial Guinea,GNQ,2009,Yes
+Equatorial Guinea,GNQ,2010,Yes
+Equatorial Guinea,GNQ,2011,Yes
+Equatorial Guinea,GNQ,2012,Yes
+Equatorial Guinea,GNQ,2013,Yes
+Equatorial Guinea,GNQ,2014,Yes
+Equatorial Guinea,GNQ,2015,Yes
+Equatorial Guinea,GNQ,2016,Yes
+Equatorial Guinea,GNQ,2017,Yes
+Equatorial Guinea,GNQ,2018,Yes
+Equatorial Guinea,GNQ,2019,Yes
+Equatorial Guinea,GNQ,2020,Yes
+Equatorial Guinea,GNQ,2021,Yes
+Eritrea,ERI,1986,No
+Eritrea,ERI,1987,No
+Eritrea,ERI,1988,No
+Eritrea,ERI,1989,No
+Eritrea,ERI,1990,No
+Eritrea,ERI,1991,No
+Eritrea,ERI,1992,No
+Eritrea,ERI,1993,No
+Eritrea,ERI,1994,No
+Eritrea,ERI,1995,No
+Eritrea,ERI,1996,No
+Eritrea,ERI,1997,No
+Eritrea,ERI,1998,No
+Eritrea,ERI,1999,No
+Eritrea,ERI,2000,No
+Eritrea,ERI,2001,No
+Eritrea,ERI,2002,No
+Eritrea,ERI,2003,No
+Eritrea,ERI,2004,Yes
+Eritrea,ERI,2005,Yes
+Eritrea,ERI,2006,Yes
+Eritrea,ERI,2007,Yes
+Eritrea,ERI,2008,Yes
+Eritrea,ERI,2009,Yes
+Eritrea,ERI,2010,Yes
+Eritrea,ERI,2011,Yes
+Eritrea,ERI,2012,Yes
+Eritrea,ERI,2013,Yes
+Eritrea,ERI,2014,Yes
+Eritrea,ERI,2015,Yes
+Eritrea,ERI,2016,Yes
+Eritrea,ERI,2017,Yes
+Eritrea,ERI,2018,Yes
+Eritrea,ERI,2019,Yes
+Eritrea,ERI,2020,Yes
+Eritrea,ERI,2021,Yes
+Estonia,EST,1986,No
+Estonia,EST,1987,No
+Estonia,EST,1988,No
+Estonia,EST,1989,No
+Estonia,EST,1990,No
+Estonia,EST,1991,No
+Estonia,EST,1992,No
+Estonia,EST,1993,No
+Estonia,EST,1994,No
+Estonia,EST,1995,No
+Estonia,EST,1996,No
+Estonia,EST,1997,No
+Estonia,EST,1998,No
+Estonia,EST,1999,No
+Estonia,EST,2000,No
+Estonia,EST,2001,Yes
+Estonia,EST,2002,Yes
+Estonia,EST,2003,Yes
+Estonia,EST,2004,Yes
+Estonia,EST,2005,Yes
+Estonia,EST,2006,Yes
+Estonia,EST,2007,Yes
+Estonia,EST,2008,Yes
+Estonia,EST,2009,Yes
+Estonia,EST,2010,Yes
+Estonia,EST,2011,Yes
+Estonia,EST,2012,Yes
+Estonia,EST,2013,Yes
+Estonia,EST,2014,Yes
+Estonia,EST,2015,Yes
+Estonia,EST,2016,Yes
+Estonia,EST,2017,Yes
+Estonia,EST,2018,Yes
+Estonia,EST,2019,Yes
+Estonia,EST,2020,Yes
+Estonia,EST,2021,Yes
+Eswatini,SWZ,1986,No
+Eswatini,SWZ,1987,No
+Eswatini,SWZ,1988,No
+Eswatini,SWZ,1989,No
+Eswatini,SWZ,1990,No
+Eswatini,SWZ,1991,No
+Eswatini,SWZ,1992,No
+Eswatini,SWZ,1993,No
+Eswatini,SWZ,1994,No
+Eswatini,SWZ,1995,No
+Eswatini,SWZ,1996,No
+Eswatini,SWZ,1997,No
+Eswatini,SWZ,1998,No
+Eswatini,SWZ,1999,No
+Eswatini,SWZ,2000,No
+Eswatini,SWZ,2001,No
+Eswatini,SWZ,2002,No
+Eswatini,SWZ,2003,No
+Eswatini,SWZ,2004,No
+Eswatini,SWZ,2005,No
+Eswatini,SWZ,2006,Yes
+Eswatini,SWZ,2007,Yes
+Eswatini,SWZ,2008,Yes
+Eswatini,SWZ,2009,Yes
+Eswatini,SWZ,2010,Yes
+Eswatini,SWZ,2011,Yes
+Eswatini,SWZ,2012,Yes
+Eswatini,SWZ,2013,Yes
+Eswatini,SWZ,2014,Yes
+Eswatini,SWZ,2015,Yes
+Eswatini,SWZ,2016,Yes
+Eswatini,SWZ,2017,Yes
+Eswatini,SWZ,2018,Yes
+Eswatini,SWZ,2019,Yes
+Eswatini,SWZ,2020,Yes
+Eswatini,SWZ,2021,Yes
+Ethiopia,ETH,1986,No
+Ethiopia,ETH,1987,No
+Ethiopia,ETH,1988,No
+Ethiopia,ETH,1989,No
+Ethiopia,ETH,1990,No
+Ethiopia,ETH,1991,No
+Ethiopia,ETH,1992,No
+Ethiopia,ETH,1993,No
+Ethiopia,ETH,1994,No
+Ethiopia,ETH,1995,No
+Ethiopia,ETH,1996,No
+Ethiopia,ETH,1997,No
+Ethiopia,ETH,1998,No
+Ethiopia,ETH,1999,No
+Ethiopia,ETH,2000,No
+Ethiopia,ETH,2001,No
+Ethiopia,ETH,2002,No
+Ethiopia,ETH,2003,No
+Ethiopia,ETH,2004,Yes
+Ethiopia,ETH,2005,Yes
+Ethiopia,ETH,2006,Yes
+Ethiopia,ETH,2007,Yes
+Ethiopia,ETH,2008,Yes
+Ethiopia,ETH,2009,Yes
+Ethiopia,ETH,2010,Yes
+Ethiopia,ETH,2011,Yes
+Ethiopia,ETH,2012,Yes
+Ethiopia,ETH,2013,Yes
+Ethiopia,ETH,2014,Yes
+Ethiopia,ETH,2015,Yes
+Ethiopia,ETH,2016,Yes
+Ethiopia,ETH,2017,Yes
+Ethiopia,ETH,2018,Yes
+Ethiopia,ETH,2019,Yes
+Ethiopia,ETH,2020,Yes
+Ethiopia,ETH,2021,Yes
+Finland,FIN,1986,No
+Finland,FIN,1987,No
+Finland,FIN,1988,No
+Finland,FIN,1989,No
+Finland,FIN,1990,No
+Finland,FIN,1991,No
+Finland,FIN,1992,No
+Finland,FIN,1993,No
+Finland,FIN,1994,Yes
+Finland,FIN,1995,Yes
+Finland,FIN,1996,Yes
+Finland,FIN,1997,Yes
+Finland,FIN,1998,Yes
+Finland,FIN,1999,Yes
+Finland,FIN,2000,Yes
+Finland,FIN,2001,Yes
+Finland,FIN,2002,Yes
+Finland,FIN,2003,Yes
+Finland,FIN,2004,Yes
+Finland,FIN,2005,Yes
+Finland,FIN,2006,Yes
+Finland,FIN,2007,Yes
+Finland,FIN,2008,Yes
+Finland,FIN,2009,Yes
+Finland,FIN,2010,Yes
+Finland,FIN,2011,Yes
+Finland,FIN,2012,Yes
+Finland,FIN,2013,Yes
+Finland,FIN,2014,Yes
+Finland,FIN,2015,Yes
+Finland,FIN,2016,Yes
+Finland,FIN,2017,Yes
+Finland,FIN,2018,Yes
+Finland,FIN,2019,Yes
+Finland,FIN,2020,Yes
+Finland,FIN,2021,Yes
+France,FRA,1986,No
+France,FRA,1987,No
+France,FRA,1988,No
+France,FRA,1989,No
+France,FRA,1990,No
+France,FRA,1991,No
+France,FRA,1992,No
+France,FRA,1993,No
+France,FRA,1994,No
+France,FRA,1995,No
+France,FRA,1996,No
+France,FRA,1997,No
+France,FRA,1998,No
+France,FRA,1999,No
+France,FRA,2000,Yes
+France,FRA,2001,Yes
+France,FRA,2002,Yes
+France,FRA,2003,Yes
+France,FRA,2004,Yes
+France,FRA,2005,Yes
+France,FRA,2006,Yes
+France,FRA,2007,Yes
+France,FRA,2008,Yes
+France,FRA,2009,Yes
+France,FRA,2010,Yes
+France,FRA,2011,Yes
+France,FRA,2012,Yes
+France,FRA,2013,Yes
+France,FRA,2014,Yes
+France,FRA,2015,Yes
+France,FRA,2016,Yes
+France,FRA,2017,Yes
+France,FRA,2018,Yes
+France,FRA,2019,Yes
+France,FRA,2020,Yes
+France,FRA,2021,Yes
+Gabon,GAB,1986,No
+Gabon,GAB,1987,No
+Gabon,GAB,1988,No
+Gabon,GAB,1989,No
+Gabon,GAB,1990,No
+Gabon,GAB,1991,No
+Gabon,GAB,1992,No
+Gabon,GAB,1993,No
+Gabon,GAB,1994,No
+Gabon,GAB,1995,No
+Gabon,GAB,1996,No
+Gabon,GAB,1997,No
+Gabon,GAB,1998,No
+Gabon,GAB,1999,No
+Gabon,GAB,2000,No
+Gabon,GAB,2001,No
+Gabon,GAB,2002,No
+Gabon,GAB,2003,No
+Gabon,GAB,2004,No
+Gabon,GAB,2005,No
+Gabon,GAB,2006,Yes
+Gabon,GAB,2007,Yes
+Gabon,GAB,2008,Yes
+Gabon,GAB,2009,Yes
+Gabon,GAB,2010,Yes
+Gabon,GAB,2011,Yes
+Gabon,GAB,2012,Yes
+Gabon,GAB,2013,Yes
+Gabon,GAB,2014,Yes
+Gabon,GAB,2015,Yes
+Gabon,GAB,2016,Yes
+Gabon,GAB,2017,Yes
+Gabon,GAB,2018,Yes
+Gabon,GAB,2019,Yes
+Gabon,GAB,2020,Yes
+Gabon,GAB,2021,Yes
+Georgia,GEO,1986,No
+Georgia,GEO,1987,No
+Georgia,GEO,1988,No
+Georgia,GEO,1989,No
+Georgia,GEO,1990,No
+Georgia,GEO,1991,No
+Georgia,GEO,1992,No
+Georgia,GEO,1993,No
+Georgia,GEO,1994,No
+Georgia,GEO,1995,No
+Georgia,GEO,1996,No
+Georgia,GEO,1997,No
+Georgia,GEO,1998,No
+Georgia,GEO,1999,No
+Georgia,GEO,2000,Yes
+Georgia,GEO,2001,Yes
+Georgia,GEO,2002,Yes
+Georgia,GEO,2003,Yes
+Georgia,GEO,2004,Yes
+Georgia,GEO,2005,Yes
+Georgia,GEO,2006,Yes
+Georgia,GEO,2007,Yes
+Georgia,GEO,2008,Yes
+Georgia,GEO,2009,Yes
+Georgia,GEO,2010,Yes
+Georgia,GEO,2011,Yes
+Georgia,GEO,2012,Yes
+Georgia,GEO,2013,Yes
+Georgia,GEO,2014,Yes
+Georgia,GEO,2015,Yes
+Georgia,GEO,2016,Yes
+Georgia,GEO,2017,Yes
+Georgia,GEO,2018,Yes
+Georgia,GEO,2019,Yes
+Georgia,GEO,2020,Yes
+Georgia,GEO,2021,Yes
+Germany,DEU,1986,No
+Germany,DEU,1987,No
+Germany,DEU,1988,No
+Germany,DEU,1989,No
+Germany,DEU,1990,No
+Germany,DEU,1991,No
+Germany,DEU,1992,No
+Germany,DEU,1993,No
+Germany,DEU,1994,No
+Germany,DEU,1995,No
+Germany,DEU,1996,Yes
+Germany,DEU,1997,Yes
+Germany,DEU,1998,Yes
+Germany,DEU,1999,Yes
+Germany,DEU,2000,Yes
+Germany,DEU,2001,Yes
+Germany,DEU,2002,Yes
+Germany,DEU,2003,Yes
+Germany,DEU,2004,Yes
+Germany,DEU,2005,Yes
+Germany,DEU,2006,Yes
+Germany,DEU,2007,Yes
+Germany,DEU,2008,Yes
+Germany,DEU,2009,Yes
+Germany,DEU,2010,Yes
+Germany,DEU,2011,Yes
+Germany,DEU,2012,Yes
+Germany,DEU,2013,Yes
+Germany,DEU,2014,Yes
+Germany,DEU,2015,Yes
+Germany,DEU,2016,Yes
+Germany,DEU,2017,Yes
+Germany,DEU,2018,Yes
+Germany,DEU,2019,Yes
+Germany,DEU,2020,Yes
+Germany,DEU,2021,Yes
+Ghana,GHA,1986,No
+Ghana,GHA,1987,No
+Ghana,GHA,1988,No
+Ghana,GHA,1989,No
+Ghana,GHA,1990,No
+Ghana,GHA,1991,No
+Ghana,GHA,1992,No
+Ghana,GHA,1993,No
+Ghana,GHA,1994,No
+Ghana,GHA,1995,No
+Ghana,GHA,1996,No
+Ghana,GHA,1997,No
+Ghana,GHA,1998,No
+Ghana,GHA,1999,No
+Ghana,GHA,2000,No
+Ghana,GHA,2001,No
+Ghana,GHA,2002,No
+Ghana,GHA,2003,No
+Ghana,GHA,2004,Yes
+Ghana,GHA,2005,Yes
+Ghana,GHA,2006,Yes
+Ghana,GHA,2007,Yes
+Ghana,GHA,2008,Yes
+Ghana,GHA,2009,Yes
+Ghana,GHA,2010,Yes
+Ghana,GHA,2011,Yes
+Ghana,GHA,2012,Yes
+Ghana,GHA,2013,Yes
+Ghana,GHA,2014,Yes
+Ghana,GHA,2015,Yes
+Ghana,GHA,2016,Yes
+Ghana,GHA,2017,Yes
+Ghana,GHA,2018,Yes
+Ghana,GHA,2019,Yes
+Ghana,GHA,2020,Yes
+Ghana,GHA,2021,Yes
+Greece,GRC,1986,No
+Greece,GRC,1987,No
+Greece,GRC,1988,No
+Greece,GRC,1989,No
+Greece,GRC,1990,No
+Greece,GRC,1991,No
+Greece,GRC,1992,No
+Greece,GRC,1993,No
+Greece,GRC,1994,No
+Greece,GRC,1995,No
+Greece,GRC,1996,No
+Greece,GRC,1997,No
+Greece,GRC,1998,No
+Greece,GRC,1999,No
+Greece,GRC,2000,No
+Greece,GRC,2001,No
+Greece,GRC,2002,Yes
+Greece,GRC,2003,Yes
+Greece,GRC,2004,Yes
+Greece,GRC,2005,Yes
+Greece,GRC,2006,Yes
+Greece,GRC,2007,Yes
+Greece,GRC,2008,Yes
+Greece,GRC,2009,Yes
+Greece,GRC,2010,Yes
+Greece,GRC,2011,Yes
+Greece,GRC,2012,Yes
+Greece,GRC,2013,Yes
+Greece,GRC,2014,Yes
+Greece,GRC,2015,Yes
+Greece,GRC,2016,Yes
+Greece,GRC,2017,Yes
+Greece,GRC,2018,Yes
+Greece,GRC,2019,Yes
+Greece,GRC,2020,Yes
+Greece,GRC,2021,Yes
+Guam,GUM,1986,No
+Guam,GUM,1987,No
+Guam,GUM,1988,No
+Guam,GUM,1989,No
+Guam,GUM,1990,No
+Guam,GUM,1991,No
+Guam,GUM,1992,No
+Guam,GUM,1993,No
+Guam,GUM,1994,No
+Guam,GUM,1995,No
+Guam,GUM,1996,Yes
+Guam,GUM,1997,Yes
+Guam,GUM,1998,Yes
+Guam,GUM,1999,Yes
+Guam,GUM,2000,Yes
+Guam,GUM,2001,Yes
+Guam,GUM,2002,Yes
+Guam,GUM,2003,Yes
+Guam,GUM,2004,Yes
+Guam,GUM,2005,Yes
+Guam,GUM,2006,Yes
+Guam,GUM,2007,Yes
+Guam,GUM,2008,Yes
+Guam,GUM,2009,Yes
+Guam,GUM,2010,Yes
+Guam,GUM,2011,Yes
+Guam,GUM,2012,Yes
+Guam,GUM,2013,Yes
+Guam,GUM,2014,Yes
+Guam,GUM,2015,Yes
+Guam,GUM,2016,Yes
+Guam,GUM,2017,Yes
+Guam,GUM,2018,Yes
+Guam,GUM,2019,Yes
+Guam,GUM,2020,Yes
+Guam,GUM,2021,Yes
+Guinea,GIN,1986,No
+Guinea,GIN,1987,No
+Guinea,GIN,1988,No
+Guinea,GIN,1989,No
+Guinea,GIN,1990,No
+Guinea,GIN,1991,No
+Guinea,GIN,1992,No
+Guinea,GIN,1993,No
+Guinea,GIN,1994,No
+Guinea,GIN,1995,No
+Guinea,GIN,1996,No
+Guinea,GIN,1997,No
+Guinea,GIN,1998,No
+Guinea,GIN,1999,No
+Guinea,GIN,2000,No
+Guinea,GIN,2001,No
+Guinea,GIN,2002,No
+Guinea,GIN,2003,No
+Guinea,GIN,2004,No
+Guinea,GIN,2005,No
+Guinea,GIN,2006,Yes
+Guinea,GIN,2007,Yes
+Guinea,GIN,2008,Yes
+Guinea,GIN,2009,Yes
+Guinea,GIN,2010,Yes
+Guinea,GIN,2011,Yes
+Guinea,GIN,2012,Yes
+Guinea,GIN,2013,Yes
+Guinea,GIN,2014,Yes
+Guinea,GIN,2015,Yes
+Guinea,GIN,2016,Yes
+Guinea,GIN,2017,Yes
+Guinea,GIN,2018,Yes
+Guinea,GIN,2019,Yes
+Guinea,GIN,2020,Yes
+Guinea,GIN,2021,Yes
+Guinea-Bissau,GNB,1986,No
+Guinea-Bissau,GNB,1987,No
+Guinea-Bissau,GNB,1988,No
+Guinea-Bissau,GNB,1989,No
+Guinea-Bissau,GNB,1990,No
+Guinea-Bissau,GNB,1991,No
+Guinea-Bissau,GNB,1992,No
+Guinea-Bissau,GNB,1993,No
+Guinea-Bissau,GNB,1994,No
+Guinea-Bissau,GNB,1995,No
+Guinea-Bissau,GNB,1996,No
+Guinea-Bissau,GNB,1997,No
+Guinea-Bissau,GNB,1998,No
+Guinea-Bissau,GNB,1999,No
+Guinea-Bissau,GNB,2000,No
+Guinea-Bissau,GNB,2001,No
+Guinea-Bissau,GNB,2002,No
+Guinea-Bissau,GNB,2003,No
+Guinea-Bissau,GNB,2004,No
+Guinea-Bissau,GNB,2005,No
+Guinea-Bissau,GNB,2006,Yes
+Guinea-Bissau,GNB,2007,Yes
+Guinea-Bissau,GNB,2008,Yes
+Guinea-Bissau,GNB,2009,Yes
+Guinea-Bissau,GNB,2010,Yes
+Guinea-Bissau,GNB,2011,Yes
+Guinea-Bissau,GNB,2012,Yes
+Guinea-Bissau,GNB,2013,Yes
+Guinea-Bissau,GNB,2014,Yes
+Guinea-Bissau,GNB,2015,Yes
+Guinea-Bissau,GNB,2016,Yes
+Guinea-Bissau,GNB,2017,Yes
+Guinea-Bissau,GNB,2018,Yes
+Guinea-Bissau,GNB,2019,Yes
+Guinea-Bissau,GNB,2020,Yes
+Guinea-Bissau,GNB,2021,Yes
+Hong Kong,HKG,1986,No
+Hong Kong,HKG,1987,No
+Hong Kong,HKG,1988,No
+Hong Kong,HKG,1989,No
+Hong Kong,HKG,1990,No
+Hong Kong,HKG,1991,No
+Hong Kong,HKG,1992,No
+Hong Kong,HKG,1993,No
+Hong Kong,HKG,1994,No
+Hong Kong,HKG,1995,No
+Hong Kong,HKG,1996,No
+Hong Kong,HKG,1997,No
+Hong Kong,HKG,1998,No
+Hong Kong,HKG,1999,Yes
+Hong Kong,HKG,2000,Yes
+Hong Kong,HKG,2001,Yes
+Hong Kong,HKG,2002,Yes
+Hong Kong,HKG,2003,Yes
+Hong Kong,HKG,2004,Yes
+Hong Kong,HKG,2005,Yes
+Hong Kong,HKG,2006,Yes
+Hong Kong,HKG,2007,Yes
+Hong Kong,HKG,2008,Yes
+Hong Kong,HKG,2009,Yes
+Hong Kong,HKG,2010,Yes
+Hong Kong,HKG,2011,Yes
+Hong Kong,HKG,2012,Yes
+Hong Kong,HKG,2013,Yes
+Hong Kong,HKG,2014,Yes
+Hong Kong,HKG,2015,Yes
+Hong Kong,HKG,2016,Yes
+Hong Kong,HKG,2017,Yes
+Hong Kong,HKG,2018,Yes
+Hong Kong,HKG,2019,Yes
+Hong Kong,HKG,2020,Yes
+Hong Kong,HKG,2021,Yes
+Hungary,HUN,1986,No
+Hungary,HUN,1987,No
+Hungary,HUN,1988,No
+Hungary,HUN,1989,No
+Hungary,HUN,1990,No
+Hungary,HUN,1991,No
+Hungary,HUN,1992,No
+Hungary,HUN,1993,No
+Hungary,HUN,1994,No
+Hungary,HUN,1995,No
+Hungary,HUN,1996,No
+Hungary,HUN,1997,No
+Hungary,HUN,1998,No
+Hungary,HUN,1999,Yes
+Hungary,HUN,2000,Yes
+Hungary,HUN,2001,Yes
+Hungary,HUN,2002,Yes
+Hungary,HUN,2003,Yes
+Hungary,HUN,2004,Yes
+Hungary,HUN,2005,Yes
+Hungary,HUN,2006,Yes
+Hungary,HUN,2007,Yes
+Hungary,HUN,2008,Yes
+Hungary,HUN,2009,Yes
+Hungary,HUN,2010,Yes
+Hungary,HUN,2011,Yes
+Hungary,HUN,2012,Yes
+Hungary,HUN,2013,Yes
+Hungary,HUN,2014,Yes
+Hungary,HUN,2015,Yes
+Hungary,HUN,2016,Yes
+Hungary,HUN,2017,Yes
+Hungary,HUN,2018,Yes
+Hungary,HUN,2019,Yes
+Hungary,HUN,2020,Yes
+Hungary,HUN,2021,Yes
+Iceland,ISL,1986,No
+Iceland,ISL,1987,No
+Iceland,ISL,1988,No
+Iceland,ISL,1989,No
+Iceland,ISL,1990,No
+Iceland,ISL,1991,No
+Iceland,ISL,1992,No
+Iceland,ISL,1993,No
+Iceland,ISL,1994,No
+Iceland,ISL,1995,No
+Iceland,ISL,1996,No
+Iceland,ISL,1997,No
+Iceland,ISL,1998,No
+Iceland,ISL,1999,No
+Iceland,ISL,2000,No
+Iceland,ISL,2001,Yes
+Iceland,ISL,2002,Yes
+Iceland,ISL,2003,Yes
+Iceland,ISL,2004,Yes
+Iceland,ISL,2005,Yes
+Iceland,ISL,2006,Yes
+Iceland,ISL,2007,Yes
+Iceland,ISL,2008,Yes
+Iceland,ISL,2009,Yes
+Iceland,ISL,2010,Yes
+Iceland,ISL,2011,Yes
+Iceland,ISL,2012,Yes
+Iceland,ISL,2013,Yes
+Iceland,ISL,2014,Yes
+Iceland,ISL,2015,Yes
+Iceland,ISL,2016,Yes
+Iceland,ISL,2017,Yes
+Iceland,ISL,2018,Yes
+Iceland,ISL,2019,Yes
+Iceland,ISL,2020,Yes
+Iceland,ISL,2021,Yes
+India,IND,1986,No
+India,IND,1987,No
+India,IND,1988,No
+India,IND,1989,No
+India,IND,1990,No
+India,IND,1991,No
+India,IND,1992,No
+India,IND,1993,No
+India,IND,1994,No
+India,IND,1995,No
+India,IND,1996,No
+India,IND,1997,No
+India,IND,1998,No
+India,IND,1999,No
+India,IND,2000,Yes
+India,IND,2001,Yes
+India,IND,2002,Yes
+India,IND,2003,Yes
+India,IND,2004,Yes
+India,IND,2005,Yes
+India,IND,2006,Yes
+India,IND,2007,Yes
+India,IND,2008,Yes
+India,IND,2009,Yes
+India,IND,2010,Yes
+India,IND,2011,Yes
+India,IND,2012,Yes
+India,IND,2013,Yes
+India,IND,2014,Yes
+India,IND,2015,Yes
+India,IND,2016,Yes
+India,IND,2017,Yes
+India,IND,2018,Yes
+India,IND,2019,Yes
+India,IND,2020,Yes
+India,IND,2021,Yes
+Indonesia,IDN,1986,No
+Indonesia,IDN,1987,No
+Indonesia,IDN,1988,No
+Indonesia,IDN,1989,No
+Indonesia,IDN,1990,No
+Indonesia,IDN,1991,No
+Indonesia,IDN,1992,No
+Indonesia,IDN,1993,No
+Indonesia,IDN,1994,No
+Indonesia,IDN,1995,No
+Indonesia,IDN,1996,No
+Indonesia,IDN,1997,No
+Indonesia,IDN,1998,No
+Indonesia,IDN,1999,No
+Indonesia,IDN,2000,No
+Indonesia,IDN,2001,No
+Indonesia,IDN,2002,No
+Indonesia,IDN,2003,No
+Indonesia,IDN,2004,No
+Indonesia,IDN,2005,No
+Indonesia,IDN,2006,Yes
+Indonesia,IDN,2007,Yes
+Indonesia,IDN,2008,Yes
+Indonesia,IDN,2009,Yes
+Indonesia,IDN,2010,Yes
+Indonesia,IDN,2011,Yes
+Indonesia,IDN,2012,Yes
+Indonesia,IDN,2013,Yes
+Indonesia,IDN,2014,Yes
+Indonesia,IDN,2015,Yes
+Indonesia,IDN,2016,Yes
+Indonesia,IDN,2017,Yes
+Indonesia,IDN,2018,Yes
+Indonesia,IDN,2019,Yes
+Indonesia,IDN,2020,Yes
+Indonesia,IDN,2021,Yes
+Iran,IRN,1986,No
+Iran,IRN,1987,No
+Iran,IRN,1988,No
+Iran,IRN,1989,No
+Iran,IRN,1990,No
+Iran,IRN,1991,No
+Iran,IRN,1992,No
+Iran,IRN,1993,No
+Iran,IRN,1994,No
+Iran,IRN,1995,No
+Iran,IRN,1996,No
+Iran,IRN,1997,No
+Iran,IRN,1998,No
+Iran,IRN,1999,No
+Iran,IRN,2000,No
+Iran,IRN,2001,No
+Iran,IRN,2002,No
+Iran,IRN,2003,Yes
+Iran,IRN,2004,Yes
+Iran,IRN,2005,Yes
+Iran,IRN,2006,Yes
+Iran,IRN,2007,Yes
+Iran,IRN,2008,Yes
+Iran,IRN,2009,Yes
+Iran,IRN,2010,Yes
+Iran,IRN,2011,Yes
+Iran,IRN,2012,Yes
+Iran,IRN,2013,Yes
+Iran,IRN,2014,Yes
+Iran,IRN,2015,Yes
+Iran,IRN,2016,Yes
+Iran,IRN,2017,Yes
+Iran,IRN,2018,Yes
+Iran,IRN,2019,Yes
+Iran,IRN,2020,Yes
+Iran,IRN,2021,Yes
+Iraq,IRQ,1986,No
+Iraq,IRQ,1987,No
+Iraq,IRQ,1988,No
+Iraq,IRQ,1989,No
+Iraq,IRQ,1990,No
+Iraq,IRQ,1991,No
+Iraq,IRQ,1992,No
+Iraq,IRQ,1993,No
+Iraq,IRQ,1994,No
+Iraq,IRQ,1995,No
+Iraq,IRQ,1996,No
+Iraq,IRQ,1997,No
+Iraq,IRQ,1998,No
+Iraq,IRQ,1999,No
+Iraq,IRQ,2000,No
+Iraq,IRQ,2001,No
+Iraq,IRQ,2002,No
+Iraq,IRQ,2003,No
+Iraq,IRQ,2004,No
+Iraq,IRQ,2005,No
+Iraq,IRQ,2006,No
+Iraq,IRQ,2007,No
+Iraq,IRQ,2008,No
+Iraq,IRQ,2009,No
+Iraq,IRQ,2010,No
+Iraq,IRQ,2011,No
+Iraq,IRQ,2012,No
+Iraq,IRQ,2013,No
+Iraq,IRQ,2014,No
+Iraq,IRQ,2015,No
+Iraq,IRQ,2016,No
+Iraq,IRQ,2017,No
+Iraq,IRQ,2018,Yes
+Iraq,IRQ,2019,Yes
+Iraq,IRQ,2020,Yes
+Iraq,IRQ,2021,Yes
+Ireland,IRL,1986,No
+Ireland,IRL,1987,No
+Ireland,IRL,1988,No
+Ireland,IRL,1989,No
+Ireland,IRL,1990,No
+Ireland,IRL,1991,No
+Ireland,IRL,1992,No
+Ireland,IRL,1993,No
+Ireland,IRL,1994,No
+Ireland,IRL,1995,No
+Ireland,IRL,1996,No
+Ireland,IRL,1997,No
+Ireland,IRL,1998,No
+Ireland,IRL,1999,No
+Ireland,IRL,2000,Yes
+Ireland,IRL,2001,Yes
+Ireland,IRL,2002,Yes
+Ireland,IRL,2003,Yes
+Ireland,IRL,2004,Yes
+Ireland,IRL,2005,Yes
+Ireland,IRL,2006,Yes
+Ireland,IRL,2007,Yes
+Ireland,IRL,2008,Yes
+Ireland,IRL,2009,Yes
+Ireland,IRL,2010,Yes
+Ireland,IRL,2011,Yes
+Ireland,IRL,2012,Yes
+Ireland,IRL,2013,Yes
+Ireland,IRL,2014,Yes
+Ireland,IRL,2015,Yes
+Ireland,IRL,2016,Yes
+Ireland,IRL,2017,Yes
+Ireland,IRL,2018,Yes
+Ireland,IRL,2019,Yes
+Ireland,IRL,2020,Yes
+Ireland,IRL,2021,Yes
+Italy,ITA,1986,No
+Italy,ITA,1987,No
+Italy,ITA,1988,No
+Italy,ITA,1989,No
+Italy,ITA,1990,No
+Italy,ITA,1991,No
+Italy,ITA,1992,No
+Italy,ITA,1993,No
+Italy,ITA,1994,No
+Italy,ITA,1995,No
+Italy,ITA,1996,No
+Italy,ITA,1997,No
+Italy,ITA,1998,No
+Italy,ITA,1999,No
+Italy,ITA,2000,No
+Italy,ITA,2001,No
+Italy,ITA,2002,Yes
+Italy,ITA,2003,Yes
+Italy,ITA,2004,Yes
+Italy,ITA,2005,Yes
+Italy,ITA,2006,Yes
+Italy,ITA,2007,Yes
+Italy,ITA,2008,Yes
+Italy,ITA,2009,Yes
+Italy,ITA,2010,Yes
+Italy,ITA,2011,Yes
+Italy,ITA,2012,Yes
+Italy,ITA,2013,Yes
+Italy,ITA,2014,Yes
+Italy,ITA,2015,Yes
+Italy,ITA,2016,Yes
+Italy,ITA,2017,Yes
+Italy,ITA,2018,Yes
+Italy,ITA,2019,Yes
+Italy,ITA,2020,Yes
+Italy,ITA,2021,Yes
+Japan,JPN,1986,Yes
+Japan,JPN,1987,Yes
+Japan,JPN,1988,Yes
+Japan,JPN,1989,Yes
+Japan,JPN,1990,Yes
+Japan,JPN,1991,Yes
+Japan,JPN,1992,Yes
+Japan,JPN,1993,Yes
+Japan,JPN,1994,Yes
+Japan,JPN,1995,Yes
+Japan,JPN,1996,Yes
+Japan,JPN,1997,Yes
+Japan,JPN,1998,Yes
+Japan,JPN,1999,Yes
+Japan,JPN,2000,Yes
+Japan,JPN,2001,Yes
+Japan,JPN,2002,Yes
+Japan,JPN,2003,Yes
+Japan,JPN,2004,Yes
+Japan,JPN,2005,Yes
+Japan,JPN,2006,Yes
+Japan,JPN,2007,Yes
+Japan,JPN,2008,Yes
+Japan,JPN,2009,Yes
+Japan,JPN,2010,Yes
+Japan,JPN,2011,Yes
+Japan,JPN,2012,Yes
+Japan,JPN,2013,Yes
+Japan,JPN,2014,Yes
+Japan,JPN,2015,Yes
+Japan,JPN,2016,Yes
+Japan,JPN,2017,Yes
+Japan,JPN,2018,Yes
+Japan,JPN,2019,Yes
+Japan,JPN,2020,Yes
+Japan,JPN,2021,Yes
+Kenya,KEN,1986,No
+Kenya,KEN,1987,No
+Kenya,KEN,1988,No
+Kenya,KEN,1989,No
+Kenya,KEN,1990,No
+Kenya,KEN,1991,No
+Kenya,KEN,1992,No
+Kenya,KEN,1993,No
+Kenya,KEN,1994,No
+Kenya,KEN,1995,No
+Kenya,KEN,1996,No
+Kenya,KEN,1997,No
+Kenya,KEN,1998,No
+Kenya,KEN,1999,No
+Kenya,KEN,2000,No
+Kenya,KEN,2001,No
+Kenya,KEN,2002,No
+Kenya,KEN,2003,No
+Kenya,KEN,2004,No
+Kenya,KEN,2005,No
+Kenya,KEN,2006,Yes
+Kenya,KEN,2007,Yes
+Kenya,KEN,2008,Yes
+Kenya,KEN,2009,Yes
+Kenya,KEN,2010,Yes
+Kenya,KEN,2011,Yes
+Kenya,KEN,2012,Yes
+Kenya,KEN,2013,Yes
+Kenya,KEN,2014,Yes
+Kenya,KEN,2015,Yes
+Kenya,KEN,2016,Yes
+Kenya,KEN,2017,Yes
+Kenya,KEN,2018,Yes
+Kenya,KEN,2019,Yes
+Kenya,KEN,2020,Yes
+Kenya,KEN,2021,Yes
+Kyrgyzstan,KGZ,1986,No
+Kyrgyzstan,KGZ,1987,No
+Kyrgyzstan,KGZ,1988,No
+Kyrgyzstan,KGZ,1989,No
+Kyrgyzstan,KGZ,1990,No
+Kyrgyzstan,KGZ,1991,No
+Kyrgyzstan,KGZ,1992,No
+Kyrgyzstan,KGZ,1993,No
+Kyrgyzstan,KGZ,1994,No
+Kyrgyzstan,KGZ,1995,No
+Kyrgyzstan,KGZ,1996,No
+Kyrgyzstan,KGZ,1997,No
+Kyrgyzstan,KGZ,1998,No
+Kyrgyzstan,KGZ,1999,No
+Kyrgyzstan,KGZ,2000,No
+Kyrgyzstan,KGZ,2001,No
+Kyrgyzstan,KGZ,2002,Yes
+Kyrgyzstan,KGZ,2003,Yes
+Kyrgyzstan,KGZ,2004,Yes
+Kyrgyzstan,KGZ,2005,Yes
+Kyrgyzstan,KGZ,2006,Yes
+Kyrgyzstan,KGZ,2007,Yes
+Kyrgyzstan,KGZ,2008,Yes
+Kyrgyzstan,KGZ,2009,Yes
+Kyrgyzstan,KGZ,2010,Yes
+Kyrgyzstan,KGZ,2011,Yes
+Kyrgyzstan,KGZ,2012,Yes
+Kyrgyzstan,KGZ,2013,Yes
+Kyrgyzstan,KGZ,2014,Yes
+Kyrgyzstan,KGZ,2015,Yes
+Kyrgyzstan,KGZ,2016,Yes
+Kyrgyzstan,KGZ,2017,Yes
+Kyrgyzstan,KGZ,2018,Yes
+Kyrgyzstan,KGZ,2019,Yes
+Kyrgyzstan,KGZ,2020,Yes
+Kyrgyzstan,KGZ,2021,Yes
+Latvia,LVA,1986,No
+Latvia,LVA,1987,No
+Latvia,LVA,1988,No
+Latvia,LVA,1989,No
+Latvia,LVA,1990,No
+Latvia,LVA,1991,No
+Latvia,LVA,1992,No
+Latvia,LVA,1993,No
+Latvia,LVA,1994,No
+Latvia,LVA,1995,No
+Latvia,LVA,1996,No
+Latvia,LVA,1997,No
+Latvia,LVA,1998,No
+Latvia,LVA,1999,No
+Latvia,LVA,2000,No
+Latvia,LVA,2001,Yes
+Latvia,LVA,2002,Yes
+Latvia,LVA,2003,Yes
+Latvia,LVA,2004,Yes
+Latvia,LVA,2005,Yes
+Latvia,LVA,2006,Yes
+Latvia,LVA,2007,Yes
+Latvia,LVA,2008,Yes
+Latvia,LVA,2009,Yes
+Latvia,LVA,2010,Yes
+Latvia,LVA,2011,Yes
+Latvia,LVA,2012,Yes
+Latvia,LVA,2013,Yes
+Latvia,LVA,2014,Yes
+Latvia,LVA,2015,Yes
+Latvia,LVA,2016,Yes
+Latvia,LVA,2017,Yes
+Latvia,LVA,2018,Yes
+Latvia,LVA,2019,Yes
+Latvia,LVA,2020,Yes
+Latvia,LVA,2021,Yes
+Lesotho,LSO,1986,No
+Lesotho,LSO,1987,No
+Lesotho,LSO,1988,No
+Lesotho,LSO,1989,No
+Lesotho,LSO,1990,No
+Lesotho,LSO,1991,No
+Lesotho,LSO,1992,No
+Lesotho,LSO,1993,No
+Lesotho,LSO,1994,No
+Lesotho,LSO,1995,No
+Lesotho,LSO,1996,No
+Lesotho,LSO,1997,No
+Lesotho,LSO,1998,No
+Lesotho,LSO,1999,No
+Lesotho,LSO,2000,No
+Lesotho,LSO,2001,No
+Lesotho,LSO,2002,No
+Lesotho,LSO,2003,No
+Lesotho,LSO,2004,No
+Lesotho,LSO,2005,No
+Lesotho,LSO,2006,Yes
+Lesotho,LSO,2007,Yes
+Lesotho,LSO,2008,Yes
+Lesotho,LSO,2009,Yes
+Lesotho,LSO,2010,Yes
+Lesotho,LSO,2011,Yes
+Lesotho,LSO,2012,Yes
+Lesotho,LSO,2013,Yes
+Lesotho,LSO,2014,Yes
+Lesotho,LSO,2015,Yes
+Lesotho,LSO,2016,Yes
+Lesotho,LSO,2017,Yes
+Lesotho,LSO,2018,Yes
+Lesotho,LSO,2019,Yes
+Lesotho,LSO,2020,Yes
+Lesotho,LSO,2021,Yes
+Liberia,LBR,1986,No
+Liberia,LBR,1987,No
+Liberia,LBR,1988,No
+Liberia,LBR,1989,No
+Liberia,LBR,1990,No
+Liberia,LBR,1991,No
+Liberia,LBR,1992,No
+Liberia,LBR,1993,No
+Liberia,LBR,1994,No
+Liberia,LBR,1995,No
+Liberia,LBR,1996,No
+Liberia,LBR,1997,No
+Liberia,LBR,1998,No
+Liberia,LBR,1999,No
+Liberia,LBR,2000,No
+Liberia,LBR,2001,No
+Liberia,LBR,2002,No
+Liberia,LBR,2003,No
+Liberia,LBR,2004,No
+Liberia,LBR,2005,No
+Liberia,LBR,2006,Yes
+Liberia,LBR,2007,Yes
+Liberia,LBR,2008,Yes
+Liberia,LBR,2009,Yes
+Liberia,LBR,2010,Yes
+Liberia,LBR,2011,Yes
+Liberia,LBR,2012,Yes
+Liberia,LBR,2013,Yes
+Liberia,LBR,2014,Yes
+Liberia,LBR,2015,Yes
+Liberia,LBR,2016,Yes
+Liberia,LBR,2017,Yes
+Liberia,LBR,2018,Yes
+Liberia,LBR,2019,Yes
+Liberia,LBR,2020,Yes
+Liberia,LBR,2021,Yes
+Lithuania,LTU,1986,No
+Lithuania,LTU,1987,No
+Lithuania,LTU,1988,No
+Lithuania,LTU,1989,No
+Lithuania,LTU,1990,No
+Lithuania,LTU,1991,No
+Lithuania,LTU,1992,No
+Lithuania,LTU,1993,No
+Lithuania,LTU,1994,No
+Lithuania,LTU,1995,No
+Lithuania,LTU,1996,No
+Lithuania,LTU,1997,No
+Lithuania,LTU,1998,No
+Lithuania,LTU,1999,No
+Lithuania,LTU,2000,No
+Lithuania,LTU,2001,Yes
+Lithuania,LTU,2002,Yes
+Lithuania,LTU,2003,Yes
+Lithuania,LTU,2004,Yes
+Lithuania,LTU,2005,Yes
+Lithuania,LTU,2006,Yes
+Lithuania,LTU,2007,Yes
+Lithuania,LTU,2008,Yes
+Lithuania,LTU,2009,Yes
+Lithuania,LTU,2010,Yes
+Lithuania,LTU,2011,Yes
+Lithuania,LTU,2012,Yes
+Lithuania,LTU,2013,Yes
+Lithuania,LTU,2014,Yes
+Lithuania,LTU,2015,Yes
+Lithuania,LTU,2016,Yes
+Lithuania,LTU,2017,Yes
+Lithuania,LTU,2018,Yes
+Lithuania,LTU,2019,Yes
+Lithuania,LTU,2020,Yes
+Lithuania,LTU,2021,Yes
+Madagascar,MDG,1986,No
+Madagascar,MDG,1987,No
+Madagascar,MDG,1988,No
+Madagascar,MDG,1989,No
+Madagascar,MDG,1990,No
+Madagascar,MDG,1991,No
+Madagascar,MDG,1992,No
+Madagascar,MDG,1993,No
+Madagascar,MDG,1994,No
+Madagascar,MDG,1995,No
+Madagascar,MDG,1996,No
+Madagascar,MDG,1997,No
+Madagascar,MDG,1998,No
+Madagascar,MDG,1999,No
+Madagascar,MDG,2000,No
+Madagascar,MDG,2001,No
+Madagascar,MDG,2002,No
+Madagascar,MDG,2003,No
+Madagascar,MDG,2004,No
+Madagascar,MDG,2005,No
+Madagascar,MDG,2006,Yes
+Madagascar,MDG,2007,Yes
+Madagascar,MDG,2008,Yes
+Madagascar,MDG,2009,Yes
+Madagascar,MDG,2010,Yes
+Madagascar,MDG,2011,Yes
+Madagascar,MDG,2012,Yes
+Madagascar,MDG,2013,Yes
+Madagascar,MDG,2014,Yes
+Madagascar,MDG,2015,Yes
+Madagascar,MDG,2016,Yes
+Madagascar,MDG,2017,Yes
+Madagascar,MDG,2018,Yes
+Madagascar,MDG,2019,Yes
+Madagascar,MDG,2020,Yes
+Madagascar,MDG,2021,Yes
+Malawi,MWI,1986,No
+Malawi,MWI,1987,No
+Malawi,MWI,1988,No
+Malawi,MWI,1989,No
+Malawi,MWI,1990,No
+Malawi,MWI,1991,No
+Malawi,MWI,1992,No
+Malawi,MWI,1993,No
+Malawi,MWI,1994,No
+Malawi,MWI,1995,No
+Malawi,MWI,1996,No
+Malawi,MWI,1997,No
+Malawi,MWI,1998,No
+Malawi,MWI,1999,No
+Malawi,MWI,2000,No
+Malawi,MWI,2001,No
+Malawi,MWI,2002,No
+Malawi,MWI,2003,No
+Malawi,MWI,2004,No
+Malawi,MWI,2005,No
+Malawi,MWI,2006,Yes
+Malawi,MWI,2007,Yes
+Malawi,MWI,2008,Yes
+Malawi,MWI,2009,Yes
+Malawi,MWI,2010,Yes
+Malawi,MWI,2011,Yes
+Malawi,MWI,2012,Yes
+Malawi,MWI,2013,Yes
+Malawi,MWI,2014,Yes
+Malawi,MWI,2015,Yes
+Malawi,MWI,2016,Yes
+Malawi,MWI,2017,Yes
+Malawi,MWI,2018,Yes
+Malawi,MWI,2019,Yes
+Malawi,MWI,2020,Yes
+Malawi,MWI,2021,Yes
+Malaysia,MYS,1986,No
+Malaysia,MYS,1987,No
+Malaysia,MYS,1988,No
+Malaysia,MYS,1989,No
+Malaysia,MYS,1990,No
+Malaysia,MYS,1991,No
+Malaysia,MYS,1992,No
+Malaysia,MYS,1993,No
+Malaysia,MYS,1994,No
+Malaysia,MYS,1995,No
+Malaysia,MYS,1996,No
+Malaysia,MYS,1997,No
+Malaysia,MYS,1998,No
+Malaysia,MYS,1999,No
+Malaysia,MYS,2000,Yes
+Malaysia,MYS,2001,Yes
+Malaysia,MYS,2002,Yes
+Malaysia,MYS,2003,Yes
+Malaysia,MYS,2004,Yes
+Malaysia,MYS,2005,Yes
+Malaysia,MYS,2006,Yes
+Malaysia,MYS,2007,Yes
+Malaysia,MYS,2008,Yes
+Malaysia,MYS,2009,Yes
+Malaysia,MYS,2010,Yes
+Malaysia,MYS,2011,Yes
+Malaysia,MYS,2012,Yes
+Malaysia,MYS,2013,Yes
+Malaysia,MYS,2014,Yes
+Malaysia,MYS,2015,Yes
+Malaysia,MYS,2016,Yes
+Malaysia,MYS,2017,Yes
+Malaysia,MYS,2018,Yes
+Malaysia,MYS,2019,Yes
+Malaysia,MYS,2020,Yes
+Malaysia,MYS,2021,Yes
+Mali,MLI,1986,No
+Mali,MLI,1987,No
+Mali,MLI,1988,No
+Mali,MLI,1989,No
+Mali,MLI,1990,No
+Mali,MLI,1991,No
+Mali,MLI,1992,No
+Mali,MLI,1993,No
+Mali,MLI,1994,No
+Mali,MLI,1995,No
+Mali,MLI,1996,No
+Mali,MLI,1997,No
+Mali,MLI,1998,No
+Mali,MLI,1999,No
+Mali,MLI,2000,No
+Mali,MLI,2001,No
+Mali,MLI,2002,No
+Mali,MLI,2003,No
+Mali,MLI,2004,No
+Mali,MLI,2005,No
+Mali,MLI,2006,Yes
+Mali,MLI,2007,Yes
+Mali,MLI,2008,Yes
+Mali,MLI,2009,Yes
+Mali,MLI,2010,Yes
+Mali,MLI,2011,Yes
+Mali,MLI,2012,Yes
+Mali,MLI,2013,Yes
+Mali,MLI,2014,Yes
+Mali,MLI,2015,Yes
+Mali,MLI,2016,Yes
+Mali,MLI,2017,Yes
+Mali,MLI,2018,Yes
+Mali,MLI,2019,Yes
+Mali,MLI,2020,Yes
+Mali,MLI,2021,Yes
+Malta,MLT,1986,No
+Malta,MLT,1987,No
+Malta,MLT,1988,No
+Malta,MLT,1989,No
+Malta,MLT,1990,No
+Malta,MLT,1991,No
+Malta,MLT,1992,No
+Malta,MLT,1993,No
+Malta,MLT,1994,No
+Malta,MLT,1995,No
+Malta,MLT,1996,No
+Malta,MLT,1997,No
+Malta,MLT,1998,No
+Malta,MLT,1999,No
+Malta,MLT,2000,No
+Malta,MLT,2001,No
+Malta,MLT,2002,No
+Malta,MLT,2003,Yes
+Malta,MLT,2004,Yes
+Malta,MLT,2005,Yes
+Malta,MLT,2006,Yes
+Malta,MLT,2007,Yes
+Malta,MLT,2008,Yes
+Malta,MLT,2009,Yes
+Malta,MLT,2010,Yes
+Malta,MLT,2011,Yes
+Malta,MLT,2012,Yes
+Malta,MLT,2013,Yes
+Malta,MLT,2014,Yes
+Malta,MLT,2015,Yes
+Malta,MLT,2016,Yes
+Malta,MLT,2017,Yes
+Malta,MLT,2018,Yes
+Malta,MLT,2019,Yes
+Malta,MLT,2020,Yes
+Malta,MLT,2021,Yes
+Mauritania,MRT,1986,No
+Mauritania,MRT,1987,No
+Mauritania,MRT,1988,No
+Mauritania,MRT,1989,No
+Mauritania,MRT,1990,No
+Mauritania,MRT,1991,No
+Mauritania,MRT,1992,No
+Mauritania,MRT,1993,No
+Mauritania,MRT,1994,No
+Mauritania,MRT,1995,No
+Mauritania,MRT,1996,No
+Mauritania,MRT,1997,No
+Mauritania,MRT,1998,No
+Mauritania,MRT,1999,No
+Mauritania,MRT,2000,No
+Mauritania,MRT,2001,No
+Mauritania,MRT,2002,No
+Mauritania,MRT,2003,No
+Mauritania,MRT,2004,Yes
+Mauritania,MRT,2005,Yes
+Mauritania,MRT,2006,Yes
+Mauritania,MRT,2007,Yes
+Mauritania,MRT,2008,Yes
+Mauritania,MRT,2009,Yes
+Mauritania,MRT,2010,Yes
+Mauritania,MRT,2011,Yes
+Mauritania,MRT,2012,Yes
+Mauritania,MRT,2013,Yes
+Mauritania,MRT,2014,Yes
+Mauritania,MRT,2015,Yes
+Mauritania,MRT,2016,Yes
+Mauritania,MRT,2017,Yes
+Mauritania,MRT,2018,Yes
+Mauritania,MRT,2019,Yes
+Mauritania,MRT,2020,Yes
+Mauritania,MRT,2021,Yes
+Mauritius,MUS,1986,No
+Mauritius,MUS,1987,No
+Mauritius,MUS,1988,No
+Mauritius,MUS,1989,No
+Mauritius,MUS,1990,No
+Mauritius,MUS,1991,No
+Mauritius,MUS,1992,No
+Mauritius,MUS,1993,No
+Mauritius,MUS,1994,No
+Mauritius,MUS,1995,No
+Mauritius,MUS,1996,No
+Mauritius,MUS,1997,No
+Mauritius,MUS,1998,No
+Mauritius,MUS,1999,No
+Mauritius,MUS,2000,No
+Mauritius,MUS,2001,No
+Mauritius,MUS,2002,No
+Mauritius,MUS,2003,No
+Mauritius,MUS,2004,No
+Mauritius,MUS,2005,No
+Mauritius,MUS,2006,Yes
+Mauritius,MUS,2007,Yes
+Mauritius,MUS,2008,Yes
+Mauritius,MUS,2009,Yes
+Mauritius,MUS,2010,Yes
+Mauritius,MUS,2011,Yes
+Mauritius,MUS,2012,Yes
+Mauritius,MUS,2013,Yes
+Mauritius,MUS,2014,Yes
+Mauritius,MUS,2015,Yes
+Mauritius,MUS,2016,Yes
+Mauritius,MUS,2017,Yes
+Mauritius,MUS,2018,Yes
+Mauritius,MUS,2019,Yes
+Mauritius,MUS,2020,Yes
+Mauritius,MUS,2021,Yes
+Mexico,MEX,1986,No
+Mexico,MEX,1987,No
+Mexico,MEX,1988,No
+Mexico,MEX,1989,No
+Mexico,MEX,1990,No
+Mexico,MEX,1991,No
+Mexico,MEX,1992,No
+Mexico,MEX,1993,No
+Mexico,MEX,1994,No
+Mexico,MEX,1995,No
+Mexico,MEX,1996,No
+Mexico,MEX,1997,No
+Mexico,MEX,1998,Yes
+Mexico,MEX,1999,Yes
+Mexico,MEX,2000,Yes
+Mexico,MEX,2001,Yes
+Mexico,MEX,2002,Yes
+Mexico,MEX,2003,Yes
+Mexico,MEX,2004,Yes
+Mexico,MEX,2005,Yes
+Mexico,MEX,2006,Yes
+Mexico,MEX,2007,Yes
+Mexico,MEX,2008,Yes
+Mexico,MEX,2009,Yes
+Mexico,MEX,2010,Yes
+Mexico,MEX,2011,Yes
+Mexico,MEX,2012,Yes
+Mexico,MEX,2013,Yes
+Mexico,MEX,2014,Yes
+Mexico,MEX,2015,Yes
+Mexico,MEX,2016,Yes
+Mexico,MEX,2017,Yes
+Mexico,MEX,2018,Yes
+Mexico,MEX,2019,Yes
+Mexico,MEX,2020,Yes
+Mexico,MEX,2021,Yes
+Monaco,MCO,1986,No
+Monaco,MCO,1987,No
+Monaco,MCO,1988,No
+Monaco,MCO,1989,No
+Monaco,MCO,1990,No
+Monaco,MCO,1991,No
+Monaco,MCO,1992,No
+Monaco,MCO,1993,No
+Monaco,MCO,1994,No
+Monaco,MCO,1995,No
+Monaco,MCO,1996,No
+Monaco,MCO,1997,No
+Monaco,MCO,1998,No
+Monaco,MCO,1999,No
+Monaco,MCO,2000,Yes
+Monaco,MCO,2001,Yes
+Monaco,MCO,2002,Yes
+Monaco,MCO,2003,Yes
+Monaco,MCO,2004,Yes
+Monaco,MCO,2005,Yes
+Monaco,MCO,2006,Yes
+Monaco,MCO,2007,Yes
+Monaco,MCO,2008,Yes
+Monaco,MCO,2009,Yes
+Monaco,MCO,2010,Yes
+Monaco,MCO,2011,Yes
+Monaco,MCO,2012,Yes
+Monaco,MCO,2013,Yes
+Monaco,MCO,2014,Yes
+Monaco,MCO,2015,Yes
+Monaco,MCO,2016,Yes
+Monaco,MCO,2017,Yes
+Monaco,MCO,2018,Yes
+Monaco,MCO,2019,Yes
+Monaco,MCO,2020,Yes
+Monaco,MCO,2021,Yes
+Morocco,MAR,1986,No
+Morocco,MAR,1987,No
+Morocco,MAR,1988,No
+Morocco,MAR,1989,No
+Morocco,MAR,1990,No
+Morocco,MAR,1991,No
+Morocco,MAR,1992,No
+Morocco,MAR,1993,No
+Morocco,MAR,1994,No
+Morocco,MAR,1995,No
+Morocco,MAR,1996,No
+Morocco,MAR,1997,No
+Morocco,MAR,1998,No
+Morocco,MAR,1999,No
+Morocco,MAR,2000,No
+Morocco,MAR,2001,No
+Morocco,MAR,2002,No
+Morocco,MAR,2003,No
+Morocco,MAR,2004,No
+Morocco,MAR,2005,No
+Morocco,MAR,2006,Yes
+Morocco,MAR,2007,Yes
+Morocco,MAR,2008,Yes
+Morocco,MAR,2009,Yes
+Morocco,MAR,2010,Yes
+Morocco,MAR,2011,Yes
+Morocco,MAR,2012,Yes
+Morocco,MAR,2013,Yes
+Morocco,MAR,2014,Yes
+Morocco,MAR,2015,Yes
+Morocco,MAR,2016,Yes
+Morocco,MAR,2017,Yes
+Morocco,MAR,2018,Yes
+Morocco,MAR,2019,Yes
+Morocco,MAR,2020,Yes
+Morocco,MAR,2021,Yes
+Mozambique,MOZ,1986,No
+Mozambique,MOZ,1987,No
+Mozambique,MOZ,1988,No
+Mozambique,MOZ,1989,No
+Mozambique,MOZ,1990,No
+Mozambique,MOZ,1991,No
+Mozambique,MOZ,1992,No
+Mozambique,MOZ,1993,No
+Mozambique,MOZ,1994,No
+Mozambique,MOZ,1995,No
+Mozambique,MOZ,1996,No
+Mozambique,MOZ,1997,No
+Mozambique,MOZ,1998,No
+Mozambique,MOZ,1999,No
+Mozambique,MOZ,2000,No
+Mozambique,MOZ,2001,No
+Mozambique,MOZ,2002,No
+Mozambique,MOZ,2003,No
+Mozambique,MOZ,2004,No
+Mozambique,MOZ,2005,No
+Mozambique,MOZ,2006,Yes
+Mozambique,MOZ,2007,Yes
+Mozambique,MOZ,2008,Yes
+Mozambique,MOZ,2009,Yes
+Mozambique,MOZ,2010,Yes
+Mozambique,MOZ,2011,Yes
+Mozambique,MOZ,2012,Yes
+Mozambique,MOZ,2013,Yes
+Mozambique,MOZ,2014,Yes
+Mozambique,MOZ,2015,Yes
+Mozambique,MOZ,2016,Yes
+Mozambique,MOZ,2017,Yes
+Mozambique,MOZ,2018,Yes
+Mozambique,MOZ,2019,Yes
+Mozambique,MOZ,2020,Yes
+Mozambique,MOZ,2021,Yes
+Myanmar,MMR,1986,No
+Myanmar,MMR,1987,No
+Myanmar,MMR,1988,No
+Myanmar,MMR,1989,No
+Myanmar,MMR,1990,No
+Myanmar,MMR,1991,No
+Myanmar,MMR,1992,No
+Myanmar,MMR,1993,No
+Myanmar,MMR,1994,No
+Myanmar,MMR,1995,No
+Myanmar,MMR,1996,No
+Myanmar,MMR,1997,No
+Myanmar,MMR,1998,No
+Myanmar,MMR,1999,No
+Myanmar,MMR,2000,No
+Myanmar,MMR,2001,No
+Myanmar,MMR,2002,No
+Myanmar,MMR,2003,No
+Myanmar,MMR,2004,No
+Myanmar,MMR,2005,No
+Myanmar,MMR,2006,No
+Myanmar,MMR,2007,No
+Myanmar,MMR,2008,No
+Myanmar,MMR,2009,No
+Myanmar,MMR,2010,No
+Myanmar,MMR,2011,No
+Myanmar,MMR,2012,No
+Myanmar,MMR,2013,No
+Myanmar,MMR,2014,No
+Myanmar,MMR,2015,No
+Myanmar,MMR,2016,Yes
+Myanmar,MMR,2017,Yes
+Myanmar,MMR,2018,Yes
+Myanmar,MMR,2019,Yes
+Myanmar,MMR,2020,Yes
+Myanmar,MMR,2021,Yes
+Namibia,NAM,1986,No
+Namibia,NAM,1987,No
+Namibia,NAM,1988,No
+Namibia,NAM,1989,No
+Namibia,NAM,1990,No
+Namibia,NAM,1991,No
+Namibia,NAM,1992,No
+Namibia,NAM,1993,No
+Namibia,NAM,1994,No
+Namibia,NAM,1995,No
+Namibia,NAM,1996,No
+Namibia,NAM,1997,No
+Namibia,NAM,1998,No
+Namibia,NAM,1999,No
+Namibia,NAM,2000,No
+Namibia,NAM,2001,No
+Namibia,NAM,2002,No
+Namibia,NAM,2003,No
+Namibia,NAM,2004,No
+Namibia,NAM,2005,No
+Namibia,NAM,2006,Yes
+Namibia,NAM,2007,Yes
+Namibia,NAM,2008,Yes
+Namibia,NAM,2009,Yes
+Namibia,NAM,2010,Yes
+Namibia,NAM,2011,Yes
+Namibia,NAM,2012,Yes
+Namibia,NAM,2013,Yes
+Namibia,NAM,2014,Yes
+Namibia,NAM,2015,Yes
+Namibia,NAM,2016,Yes
+Namibia,NAM,2017,Yes
+Namibia,NAM,2018,Yes
+Namibia,NAM,2019,Yes
+Namibia,NAM,2020,Yes
+Namibia,NAM,2021,Yes
+Nepal,NPL,1986,No
+Nepal,NPL,1987,No
+Nepal,NPL,1988,No
+Nepal,NPL,1989,No
+Nepal,NPL,1990,No
+Nepal,NPL,1991,No
+Nepal,NPL,1992,No
+Nepal,NPL,1993,No
+Nepal,NPL,1994,No
+Nepal,NPL,1995,No
+Nepal,NPL,1996,No
+Nepal,NPL,1997,No
+Nepal,NPL,1998,No
+Nepal,NPL,1999,No
+Nepal,NPL,2000,Yes
+Nepal,NPL,2001,Yes
+Nepal,NPL,2002,Yes
+Nepal,NPL,2003,Yes
+Nepal,NPL,2004,Yes
+Nepal,NPL,2005,Yes
+Nepal,NPL,2006,Yes
+Nepal,NPL,2007,Yes
+Nepal,NPL,2008,Yes
+Nepal,NPL,2009,Yes
+Nepal,NPL,2010,Yes
+Nepal,NPL,2011,Yes
+Nepal,NPL,2012,Yes
+Nepal,NPL,2013,Yes
+Nepal,NPL,2014,Yes
+Nepal,NPL,2015,Yes
+Nepal,NPL,2016,Yes
+Nepal,NPL,2017,Yes
+Nepal,NPL,2018,Yes
+Nepal,NPL,2019,Yes
+Nepal,NPL,2020,Yes
+Nepal,NPL,2021,Yes
+Netherlands,NLD,1986,No
+Netherlands,NLD,1987,No
+Netherlands,NLD,1988,No
+Netherlands,NLD,1989,No
+Netherlands,NLD,1990,No
+Netherlands,NLD,1991,No
+Netherlands,NLD,1992,No
+Netherlands,NLD,1993,No
+Netherlands,NLD,1994,No
+Netherlands,NLD,1995,No
+Netherlands,NLD,1996,No
+Netherlands,NLD,1997,No
+Netherlands,NLD,1998,Yes
+Netherlands,NLD,1999,Yes
+Netherlands,NLD,2000,Yes
+Netherlands,NLD,2001,Yes
+Netherlands,NLD,2002,Yes
+Netherlands,NLD,2003,Yes
+Netherlands,NLD,2004,Yes
+Netherlands,NLD,2005,Yes
+Netherlands,NLD,2006,Yes
+Netherlands,NLD,2007,Yes
+Netherlands,NLD,2008,Yes
+Netherlands,NLD,2009,Yes
+Netherlands,NLD,2010,Yes
+Netherlands,NLD,2011,Yes
+Netherlands,NLD,2012,Yes
+Netherlands,NLD,2013,Yes
+Netherlands,NLD,2014,Yes
+Netherlands,NLD,2015,Yes
+Netherlands,NLD,2016,Yes
+Netherlands,NLD,2017,Yes
+Netherlands,NLD,2018,Yes
+Netherlands,NLD,2019,Yes
+Netherlands,NLD,2020,Yes
+Netherlands,NLD,2021,Yes
+New Zealand,NZL,1986,No
+New Zealand,NZL,1987,No
+New Zealand,NZL,1988,No
+New Zealand,NZL,1989,No
+New Zealand,NZL,1990,No
+New Zealand,NZL,1991,No
+New Zealand,NZL,1992,No
+New Zealand,NZL,1993,No
+New Zealand,NZL,1994,No
+New Zealand,NZL,1995,No
+New Zealand,NZL,1996,Yes
+New Zealand,NZL,1997,Yes
+New Zealand,NZL,1998,Yes
+New Zealand,NZL,1999,Yes
+New Zealand,NZL,2000,Yes
+New Zealand,NZL,2001,Yes
+New Zealand,NZL,2002,Yes
+New Zealand,NZL,2003,Yes
+New Zealand,NZL,2004,Yes
+New Zealand,NZL,2005,Yes
+New Zealand,NZL,2006,Yes
+New Zealand,NZL,2007,Yes
+New Zealand,NZL,2008,Yes
+New Zealand,NZL,2009,Yes
+New Zealand,NZL,2010,Yes
+New Zealand,NZL,2011,Yes
+New Zealand,NZL,2012,Yes
+New Zealand,NZL,2013,Yes
+New Zealand,NZL,2014,Yes
+New Zealand,NZL,2015,Yes
+New Zealand,NZL,2016,Yes
+New Zealand,NZL,2017,Yes
+New Zealand,NZL,2018,Yes
+New Zealand,NZL,2019,Yes
+New Zealand,NZL,2020,Yes
+New Zealand,NZL,2021,Yes
+Niger,NER,1986,No
+Niger,NER,1987,No
+Niger,NER,1988,No
+Niger,NER,1989,No
+Niger,NER,1990,No
+Niger,NER,1991,No
+Niger,NER,1992,No
+Niger,NER,1993,No
+Niger,NER,1994,No
+Niger,NER,1995,No
+Niger,NER,1996,No
+Niger,NER,1997,No
+Niger,NER,1998,No
+Niger,NER,1999,No
+Niger,NER,2000,No
+Niger,NER,2001,No
+Niger,NER,2002,No
+Niger,NER,2003,No
+Niger,NER,2004,No
+Niger,NER,2005,No
+Niger,NER,2006,Yes
+Niger,NER,2007,Yes
+Niger,NER,2008,Yes
+Niger,NER,2009,Yes
+Niger,NER,2010,Yes
+Niger,NER,2011,Yes
+Niger,NER,2012,Yes
+Niger,NER,2013,Yes
+Niger,NER,2014,Yes
+Niger,NER,2015,Yes
+Niger,NER,2016,Yes
+Niger,NER,2017,Yes
+Niger,NER,2018,Yes
+Niger,NER,2019,Yes
+Niger,NER,2020,Yes
+Niger,NER,2021,Yes
+Nigeria,NGA,1986,No
+Nigeria,NGA,1987,No
+Nigeria,NGA,1988,No
+Nigeria,NGA,1989,No
+Nigeria,NGA,1990,No
+Nigeria,NGA,1991,No
+Nigeria,NGA,1992,No
+Nigeria,NGA,1993,No
+Nigeria,NGA,1994,No
+Nigeria,NGA,1995,No
+Nigeria,NGA,1996,No
+Nigeria,NGA,1997,No
+Nigeria,NGA,1998,No
+Nigeria,NGA,1999,No
+Nigeria,NGA,2000,No
+Nigeria,NGA,2001,No
+Nigeria,NGA,2002,No
+Nigeria,NGA,2003,No
+Nigeria,NGA,2004,Yes
+Nigeria,NGA,2005,Yes
+Nigeria,NGA,2006,Yes
+Nigeria,NGA,2007,Yes
+Nigeria,NGA,2008,Yes
+Nigeria,NGA,2009,Yes
+Nigeria,NGA,2010,Yes
+Nigeria,NGA,2011,Yes
+Nigeria,NGA,2012,Yes
+Nigeria,NGA,2013,Yes
+Nigeria,NGA,2014,Yes
+Nigeria,NGA,2015,Yes
+Nigeria,NGA,2016,Yes
+Nigeria,NGA,2017,Yes
+Nigeria,NGA,2018,Yes
+Nigeria,NGA,2019,Yes
+Nigeria,NGA,2020,Yes
+Nigeria,NGA,2021,Yes
+North Korea,PRK,1986,No
+North Korea,PRK,1987,No
+North Korea,PRK,1988,No
+North Korea,PRK,1989,No
+North Korea,PRK,1990,No
+North Korea,PRK,1991,No
+North Korea,PRK,1992,No
+North Korea,PRK,1993,No
+North Korea,PRK,1994,No
+North Korea,PRK,1995,No
+North Korea,PRK,1996,No
+North Korea,PRK,1997,No
+North Korea,PRK,1998,No
+North Korea,PRK,1999,No
+North Korea,PRK,2000,No
+North Korea,PRK,2001,No
+North Korea,PRK,2002,No
+North Korea,PRK,2003,No
+North Korea,PRK,2004,No
+North Korea,PRK,2005,No
+North Korea,PRK,2006,No
+North Korea,PRK,2007,No
+North Korea,PRK,2008,No
+North Korea,PRK,2009,No
+North Korea,PRK,2010,No
+North Korea,PRK,2011,No
+North Korea,PRK,2012,No
+North Korea,PRK,2013,No
+North Korea,PRK,2014,No
+North Korea,PRK,2015,No
+North Korea,PRK,2016,Yes
+North Korea,PRK,2017,Yes
+North Korea,PRK,2018,Yes
+North Korea,PRK,2019,Yes
+North Korea,PRK,2020,Yes
+North Korea,PRK,2021,Yes
+Norway,NOR,1986,No
+Norway,NOR,1987,No
+Norway,NOR,1988,No
+Norway,NOR,1989,No
+Norway,NOR,1990,No
+Norway,NOR,1991,No
+Norway,NOR,1992,No
+Norway,NOR,1993,No
+Norway,NOR,1994,No
+Norway,NOR,1995,No
+Norway,NOR,1996,No
+Norway,NOR,1997,Yes
+Norway,NOR,1998,Yes
+Norway,NOR,1999,Yes
+Norway,NOR,2000,Yes
+Norway,NOR,2001,Yes
+Norway,NOR,2002,Yes
+Norway,NOR,2003,Yes
+Norway,NOR,2004,Yes
+Norway,NOR,2005,Yes
+Norway,NOR,2006,Yes
+Norway,NOR,2007,Yes
+Norway,NOR,2008,Yes
+Norway,NOR,2009,Yes
+Norway,NOR,2010,Yes
+Norway,NOR,2011,Yes
+Norway,NOR,2012,Yes
+Norway,NOR,2013,Yes
+Norway,NOR,2014,Yes
+Norway,NOR,2015,Yes
+Norway,NOR,2016,Yes
+Norway,NOR,2017,Yes
+Norway,NOR,2018,Yes
+Norway,NOR,2019,Yes
+Norway,NOR,2020,Yes
+Norway,NOR,2021,Yes
+Oman,OMN,1986,No
+Oman,OMN,1987,No
+Oman,OMN,1988,No
+Oman,OMN,1989,No
+Oman,OMN,1990,No
+Oman,OMN,1991,No
+Oman,OMN,1992,No
+Oman,OMN,1993,No
+Oman,OMN,1994,No
+Oman,OMN,1995,No
+Oman,OMN,1996,No
+Oman,OMN,1997,No
+Oman,OMN,1998,No
+Oman,OMN,1999,No
+Oman,OMN,2000,No
+Oman,OMN,2001,Yes
+Oman,OMN,2002,Yes
+Oman,OMN,2003,Yes
+Oman,OMN,2004,Yes
+Oman,OMN,2005,Yes
+Oman,OMN,2006,Yes
+Oman,OMN,2007,Yes
+Oman,OMN,2008,Yes
+Oman,OMN,2009,Yes
+Oman,OMN,2010,Yes
+Oman,OMN,2011,Yes
+Oman,OMN,2012,Yes
+Oman,OMN,2013,Yes
+Oman,OMN,2014,Yes
+Oman,OMN,2015,Yes
+Oman,OMN,2016,Yes
+Oman,OMN,2017,Yes
+Oman,OMN,2018,Yes
+Oman,OMN,2019,Yes
+Oman,OMN,2020,Yes
+Oman,OMN,2021,Yes
+Pakistan,PAK,1986,No
+Pakistan,PAK,1987,No
+Pakistan,PAK,1988,No
+Pakistan,PAK,1989,No
+Pakistan,PAK,1990,No
+Pakistan,PAK,1991,No
+Pakistan,PAK,1992,No
+Pakistan,PAK,1993,No
+Pakistan,PAK,1994,No
+Pakistan,PAK,1995,No
+Pakistan,PAK,1996,No
+Pakistan,PAK,1997,No
+Pakistan,PAK,1998,No
+Pakistan,PAK,1999,No
+Pakistan,PAK,2000,No
+Pakistan,PAK,2001,Yes
+Pakistan,PAK,2002,Yes
+Pakistan,PAK,2003,Yes
+Pakistan,PAK,2004,Yes
+Pakistan,PAK,2005,Yes
+Pakistan,PAK,2006,Yes
+Pakistan,PAK,2007,Yes
+Pakistan,PAK,2008,Yes
+Pakistan,PAK,2009,Yes
+Pakistan,PAK,2010,Yes
+Pakistan,PAK,2011,Yes
+Pakistan,PAK,2012,Yes
+Pakistan,PAK,2013,Yes
+Pakistan,PAK,2014,Yes
+Pakistan,PAK,2015,Yes
+Pakistan,PAK,2016,Yes
+Pakistan,PAK,2017,Yes
+Pakistan,PAK,2018,Yes
+Pakistan,PAK,2019,Yes
+Pakistan,PAK,2020,Yes
+Pakistan,PAK,2021,Yes
+Peru,PER,1986,No
+Peru,PER,1987,No
+Peru,PER,1988,No
+Peru,PER,1989,No
+Peru,PER,1990,No
+Peru,PER,1991,No
+Peru,PER,1992,No
+Peru,PER,1993,No
+Peru,PER,1994,No
+Peru,PER,1995,No
+Peru,PER,1996,No
+Peru,PER,1997,No
+Peru,PER,1998,No
+Peru,PER,1999,No
+Peru,PER,2000,No
+Peru,PER,2001,No
+Peru,PER,2002,No
+Peru,PER,2003,No
+Peru,PER,2004,Yes
+Peru,PER,2005,Yes
+Peru,PER,2006,Yes
+Peru,PER,2007,Yes
+Peru,PER,2008,Yes
+Peru,PER,2009,Yes
+Peru,PER,2010,Yes
+Peru,PER,2011,Yes
+Peru,PER,2012,Yes
+Peru,PER,2013,Yes
+Peru,PER,2014,Yes
+Peru,PER,2015,Yes
+Peru,PER,2016,Yes
+Peru,PER,2017,Yes
+Peru,PER,2018,Yes
+Peru,PER,2019,Yes
+Peru,PER,2020,Yes
+Peru,PER,2021,Yes
+Philippines,PHL,1986,No
+Philippines,PHL,1987,No
+Philippines,PHL,1988,No
+Philippines,PHL,1989,No
+Philippines,PHL,1990,No
+Philippines,PHL,1991,No
+Philippines,PHL,1992,No
+Philippines,PHL,1993,No
+Philippines,PHL,1994,No
+Philippines,PHL,1995,No
+Philippines,PHL,1996,No
+Philippines,PHL,1997,No
+Philippines,PHL,1998,No
+Philippines,PHL,1999,No
+Philippines,PHL,2000,Yes
+Philippines,PHL,2001,Yes
+Philippines,PHL,2002,Yes
+Philippines,PHL,2003,Yes
+Philippines,PHL,2004,Yes
+Philippines,PHL,2005,Yes
+Philippines,PHL,2006,Yes
+Philippines,PHL,2007,Yes
+Philippines,PHL,2008,Yes
+Philippines,PHL,2009,Yes
+Philippines,PHL,2010,Yes
+Philippines,PHL,2011,Yes
+Philippines,PHL,2012,Yes
+Philippines,PHL,2013,Yes
+Philippines,PHL,2014,Yes
+Philippines,PHL,2015,Yes
+Philippines,PHL,2016,Yes
+Philippines,PHL,2017,Yes
+Philippines,PHL,2018,Yes
+Philippines,PHL,2019,Yes
+Philippines,PHL,2020,Yes
+Philippines,PHL,2021,Yes
+Poland,POL,1986,No
+Poland,POL,1987,No
+Poland,POL,1988,No
+Poland,POL,1989,No
+Poland,POL,1990,No
+Poland,POL,1991,No
+Poland,POL,1992,No
+Poland,POL,1993,No
+Poland,POL,1994,No
+Poland,POL,1995,No
+Poland,POL,1996,No
+Poland,POL,1997,No
+Poland,POL,1998,No
+Poland,POL,1999,No
+Poland,POL,2000,Yes
+Poland,POL,2001,Yes
+Poland,POL,2002,Yes
+Poland,POL,2003,Yes
+Poland,POL,2004,Yes
+Poland,POL,2005,Yes
+Poland,POL,2006,Yes
+Poland,POL,2007,Yes
+Poland,POL,2008,Yes
+Poland,POL,2009,Yes
+Poland,POL,2010,Yes
+Poland,POL,2011,Yes
+Poland,POL,2012,Yes
+Poland,POL,2013,Yes
+Poland,POL,2014,Yes
+Poland,POL,2015,Yes
+Poland,POL,2016,Yes
+Poland,POL,2017,Yes
+Poland,POL,2018,Yes
+Poland,POL,2019,Yes
+Poland,POL,2020,Yes
+Poland,POL,2021,Yes
+Portugal,PRT,1986,No
+Portugal,PRT,1987,No
+Portugal,PRT,1988,No
+Portugal,PRT,1989,No
+Portugal,PRT,1990,No
+Portugal,PRT,1991,No
+Portugal,PRT,1992,No
+Portugal,PRT,1993,No
+Portugal,PRT,1994,No
+Portugal,PRT,1995,No
+Portugal,PRT,1996,No
+Portugal,PRT,1997,No
+Portugal,PRT,1998,No
+Portugal,PRT,1999,Yes
+Portugal,PRT,2000,Yes
+Portugal,PRT,2001,Yes
+Portugal,PRT,2002,Yes
+Portugal,PRT,2003,Yes
+Portugal,PRT,2004,Yes
+Portugal,PRT,2005,Yes
+Portugal,PRT,2006,Yes
+Portugal,PRT,2007,Yes
+Portugal,PRT,2008,Yes
+Portugal,PRT,2009,Yes
+Portugal,PRT,2010,Yes
+Portugal,PRT,2011,Yes
+Portugal,PRT,2012,Yes
+Portugal,PRT,2013,Yes
+Portugal,PRT,2014,Yes
+Portugal,PRT,2015,Yes
+Portugal,PRT,2016,Yes
+Portugal,PRT,2017,Yes
+Portugal,PRT,2018,Yes
+Portugal,PRT,2019,Yes
+Portugal,PRT,2020,Yes
+Portugal,PRT,2021,Yes
+Romania,ROU,1986,No
+Romania,ROU,1987,No
+Romania,ROU,1988,No
+Romania,ROU,1989,No
+Romania,ROU,1990,No
+Romania,ROU,1991,No
+Romania,ROU,1992,No
+Romania,ROU,1993,No
+Romania,ROU,1994,No
+Romania,ROU,1995,No
+Romania,ROU,1996,No
+Romania,ROU,1997,No
+Romania,ROU,1998,No
+Romania,ROU,1999,No
+Romania,ROU,2000,No
+Romania,ROU,2001,No
+Romania,ROU,2002,No
+Romania,ROU,2003,No
+Romania,ROU,2004,No
+Romania,ROU,2005,Yes
+Romania,ROU,2006,Yes
+Romania,ROU,2007,Yes
+Romania,ROU,2008,Yes
+Romania,ROU,2009,Yes
+Romania,ROU,2010,Yes
+Romania,ROU,2011,Yes
+Romania,ROU,2012,Yes
+Romania,ROU,2013,Yes
+Romania,ROU,2014,Yes
+Romania,ROU,2015,Yes
+Romania,ROU,2016,Yes
+Romania,ROU,2017,Yes
+Romania,ROU,2018,Yes
+Romania,ROU,2019,Yes
+Romania,ROU,2020,Yes
+Romania,ROU,2021,Yes
+Russia,RUS,1986,No
+Russia,RUS,1987,No
+Russia,RUS,1988,No
+Russia,RUS,1989,No
+Russia,RUS,1990,No
+Russia,RUS,1991,No
+Russia,RUS,1992,No
+Russia,RUS,1993,No
+Russia,RUS,1994,No
+Russia,RUS,1995,No
+Russia,RUS,1996,No
+Russia,RUS,1997,No
+Russia,RUS,1998,No
+Russia,RUS,1999,No
+Russia,RUS,2000,No
+Russia,RUS,2001,No
+Russia,RUS,2002,No
+Russia,RUS,2003,Yes
+Russia,RUS,2004,Yes
+Russia,RUS,2005,Yes
+Russia,RUS,2006,Yes
+Russia,RUS,2007,Yes
+Russia,RUS,2008,Yes
+Russia,RUS,2009,Yes
+Russia,RUS,2010,Yes
+Russia,RUS,2011,Yes
+Russia,RUS,2012,Yes
+Russia,RUS,2013,Yes
+Russia,RUS,2014,Yes
+Russia,RUS,2015,Yes
+Russia,RUS,2016,Yes
+Russia,RUS,2017,Yes
+Russia,RUS,2018,Yes
+Russia,RUS,2019,Yes
+Russia,RUS,2020,Yes
+Russia,RUS,2021,Yes
+Rwanda,RWA,1986,No
+Rwanda,RWA,1987,No
+Rwanda,RWA,1988,No
+Rwanda,RWA,1989,No
+Rwanda,RWA,1990,No
+Rwanda,RWA,1991,No
+Rwanda,RWA,1992,No
+Rwanda,RWA,1993,No
+Rwanda,RWA,1994,No
+Rwanda,RWA,1995,No
+Rwanda,RWA,1996,No
+Rwanda,RWA,1997,No
+Rwanda,RWA,1998,No
+Rwanda,RWA,1999,No
+Rwanda,RWA,2000,No
+Rwanda,RWA,2001,No
+Rwanda,RWA,2002,No
+Rwanda,RWA,2003,No
+Rwanda,RWA,2004,Yes
+Rwanda,RWA,2005,Yes
+Rwanda,RWA,2006,Yes
+Rwanda,RWA,2007,Yes
+Rwanda,RWA,2008,Yes
+Rwanda,RWA,2009,Yes
+Rwanda,RWA,2010,Yes
+Rwanda,RWA,2011,Yes
+Rwanda,RWA,2012,Yes
+Rwanda,RWA,2013,Yes
+Rwanda,RWA,2014,Yes
+Rwanda,RWA,2015,Yes
+Rwanda,RWA,2016,Yes
+Rwanda,RWA,2017,Yes
+Rwanda,RWA,2018,Yes
+Rwanda,RWA,2019,Yes
+Rwanda,RWA,2020,Yes
+Rwanda,RWA,2021,Yes
+Sao Tome and Principe,STP,1986,No
+Sao Tome and Principe,STP,1987,No
+Sao Tome and Principe,STP,1988,No
+Sao Tome and Principe,STP,1989,No
+Sao Tome and Principe,STP,1990,No
+Sao Tome and Principe,STP,1991,No
+Sao Tome and Principe,STP,1992,No
+Sao Tome and Principe,STP,1993,No
+Sao Tome and Principe,STP,1994,No
+Sao Tome and Principe,STP,1995,No
+Sao Tome and Principe,STP,1996,No
+Sao Tome and Principe,STP,1997,No
+Sao Tome and Principe,STP,1998,No
+Sao Tome and Principe,STP,1999,No
+Sao Tome and Principe,STP,2000,No
+Sao Tome and Principe,STP,2001,No
+Sao Tome and Principe,STP,2002,No
+Sao Tome and Principe,STP,2003,No
+Sao Tome and Principe,STP,2004,No
+Sao Tome and Principe,STP,2005,No
+Sao Tome and Principe,STP,2006,Yes
+Sao Tome and Principe,STP,2007,Yes
+Sao Tome and Principe,STP,2008,Yes
+Sao Tome and Principe,STP,2009,Yes
+Sao Tome and Principe,STP,2010,Yes
+Sao Tome and Principe,STP,2011,Yes
+Sao Tome and Principe,STP,2012,Yes
+Sao Tome and Principe,STP,2013,Yes
+Sao Tome and Principe,STP,2014,Yes
+Sao Tome and Principe,STP,2015,Yes
+Sao Tome and Principe,STP,2016,Yes
+Sao Tome and Principe,STP,2017,Yes
+Sao Tome and Principe,STP,2018,Yes
+Sao Tome and Principe,STP,2019,Yes
+Sao Tome and Principe,STP,2020,Yes
+Sao Tome and Principe,STP,2021,Yes
+Saudi Arabia,SAU,1986,No
+Saudi Arabia,SAU,1987,No
+Saudi Arabia,SAU,1988,No
+Saudi Arabia,SAU,1989,No
+Saudi Arabia,SAU,1990,No
+Saudi Arabia,SAU,1991,No
+Saudi Arabia,SAU,1992,No
+Saudi Arabia,SAU,1993,No
+Saudi Arabia,SAU,1994,No
+Saudi Arabia,SAU,1995,No
+Saudi Arabia,SAU,1996,No
+Saudi Arabia,SAU,1997,No
+Saudi Arabia,SAU,1998,No
+Saudi Arabia,SAU,1999,No
+Saudi Arabia,SAU,2000,No
+Saudi Arabia,SAU,2001,Yes
+Saudi Arabia,SAU,2002,Yes
+Saudi Arabia,SAU,2003,Yes
+Saudi Arabia,SAU,2004,Yes
+Saudi Arabia,SAU,2005,Yes
+Saudi Arabia,SAU,2006,Yes
+Saudi Arabia,SAU,2007,Yes
+Saudi Arabia,SAU,2008,Yes
+Saudi Arabia,SAU,2009,Yes
+Saudi Arabia,SAU,2010,Yes
+Saudi Arabia,SAU,2011,Yes
+Saudi Arabia,SAU,2012,Yes
+Saudi Arabia,SAU,2013,Yes
+Saudi Arabia,SAU,2014,Yes
+Saudi Arabia,SAU,2015,Yes
+Saudi Arabia,SAU,2016,Yes
+Saudi Arabia,SAU,2017,Yes
+Saudi Arabia,SAU,2018,Yes
+Saudi Arabia,SAU,2019,Yes
+Saudi Arabia,SAU,2020,Yes
+Saudi Arabia,SAU,2021,Yes
+Senegal,SEN,1986,No
+Senegal,SEN,1987,No
+Senegal,SEN,1988,No
+Senegal,SEN,1989,No
+Senegal,SEN,1990,No
+Senegal,SEN,1991,No
+Senegal,SEN,1992,No
+Senegal,SEN,1993,No
+Senegal,SEN,1994,No
+Senegal,SEN,1995,No
+Senegal,SEN,1996,No
+Senegal,SEN,1997,No
+Senegal,SEN,1998,No
+Senegal,SEN,1999,No
+Senegal,SEN,2000,No
+Senegal,SEN,2001,No
+Senegal,SEN,2002,No
+Senegal,SEN,2003,No
+Senegal,SEN,2004,No
+Senegal,SEN,2005,Yes
+Senegal,SEN,2006,Yes
+Senegal,SEN,2007,Yes
+Senegal,SEN,2008,Yes
+Senegal,SEN,2009,Yes
+Senegal,SEN,2010,Yes
+Senegal,SEN,2011,Yes
+Senegal,SEN,2012,Yes
+Senegal,SEN,2013,Yes
+Senegal,SEN,2014,Yes
+Senegal,SEN,2015,Yes
+Senegal,SEN,2016,Yes
+Senegal,SEN,2017,Yes
+Senegal,SEN,2018,Yes
+Senegal,SEN,2019,Yes
+Senegal,SEN,2020,Yes
+Senegal,SEN,2021,Yes
+Serbia,SRB,1986,No
+Serbia,SRB,1987,No
+Serbia,SRB,1988,No
+Serbia,SRB,1989,No
+Serbia,SRB,1990,No
+Serbia,SRB,1991,No
+Serbia,SRB,1992,No
+Serbia,SRB,1993,No
+Serbia,SRB,1994,No
+Serbia,SRB,1995,No
+Serbia,SRB,1996,No
+Serbia,SRB,1997,No
+Serbia,SRB,1998,No
+Serbia,SRB,1999,No
+Serbia,SRB,2000,No
+Serbia,SRB,2001,No
+Serbia,SRB,2002,No
+Serbia,SRB,2003,No
+Serbia,SRB,2004,No
+Serbia,SRB,2005,No
+Serbia,SRB,2006,No
+Serbia,SRB,2007,No
+Serbia,SRB,2008,No
+Serbia,SRB,2009,No
+Serbia,SRB,2010,Yes
+Serbia,SRB,2011,Yes
+Serbia,SRB,2012,Yes
+Serbia,SRB,2013,Yes
+Serbia,SRB,2014,Yes
+Serbia,SRB,2015,Yes
+Serbia,SRB,2016,Yes
+Serbia,SRB,2017,Yes
+Serbia,SRB,2018,Yes
+Serbia,SRB,2019,Yes
+Serbia,SRB,2020,Yes
+Serbia,SRB,2021,Yes
+Seychelles,SYC,1986,No
+Seychelles,SYC,1987,No
+Seychelles,SYC,1988,No
+Seychelles,SYC,1989,No
+Seychelles,SYC,1990,No
+Seychelles,SYC,1991,No
+Seychelles,SYC,1992,No
+Seychelles,SYC,1993,No
+Seychelles,SYC,1994,No
+Seychelles,SYC,1995,No
+Seychelles,SYC,1996,No
+Seychelles,SYC,1997,No
+Seychelles,SYC,1998,No
+Seychelles,SYC,1999,No
+Seychelles,SYC,2000,No
+Seychelles,SYC,2001,No
+Seychelles,SYC,2002,No
+Seychelles,SYC,2003,No
+Seychelles,SYC,2004,No
+Seychelles,SYC,2005,No
+Seychelles,SYC,2006,Yes
+Seychelles,SYC,2007,Yes
+Seychelles,SYC,2008,Yes
+Seychelles,SYC,2009,Yes
+Seychelles,SYC,2010,Yes
+Seychelles,SYC,2011,Yes
+Seychelles,SYC,2012,Yes
+Seychelles,SYC,2013,Yes
+Seychelles,SYC,2014,Yes
+Seychelles,SYC,2015,Yes
+Seychelles,SYC,2016,Yes
+Seychelles,SYC,2017,Yes
+Seychelles,SYC,2018,Yes
+Seychelles,SYC,2019,Yes
+Seychelles,SYC,2020,Yes
+Seychelles,SYC,2021,Yes
+Sierra Leone,SLE,1986,No
+Sierra Leone,SLE,1987,No
+Sierra Leone,SLE,1988,No
+Sierra Leone,SLE,1989,No
+Sierra Leone,SLE,1990,No
+Sierra Leone,SLE,1991,No
+Sierra Leone,SLE,1992,No
+Sierra Leone,SLE,1993,No
+Sierra Leone,SLE,1994,No
+Sierra Leone,SLE,1995,No
+Sierra Leone,SLE,1996,No
+Sierra Leone,SLE,1997,No
+Sierra Leone,SLE,1998,No
+Sierra Leone,SLE,1999,No
+Sierra Leone,SLE,2000,No
+Sierra Leone,SLE,2001,No
+Sierra Leone,SLE,2002,No
+Sierra Leone,SLE,2003,No
+Sierra Leone,SLE,2004,No
+Sierra Leone,SLE,2005,No
+Sierra Leone,SLE,2006,Yes
+Sierra Leone,SLE,2007,Yes
+Sierra Leone,SLE,2008,Yes
+Sierra Leone,SLE,2009,Yes
+Sierra Leone,SLE,2010,Yes
+Sierra Leone,SLE,2011,Yes
+Sierra Leone,SLE,2012,Yes
+Sierra Leone,SLE,2013,Yes
+Sierra Leone,SLE,2014,Yes
+Sierra Leone,SLE,2015,Yes
+Sierra Leone,SLE,2016,Yes
+Sierra Leone,SLE,2017,Yes
+Sierra Leone,SLE,2018,Yes
+Sierra Leone,SLE,2019,Yes
+Sierra Leone,SLE,2020,Yes
+Sierra Leone,SLE,2021,Yes
+Singapore,SGP,1986,No
+Singapore,SGP,1987,No
+Singapore,SGP,1988,No
+Singapore,SGP,1989,No
+Singapore,SGP,1990,No
+Singapore,SGP,1991,No
+Singapore,SGP,1992,No
+Singapore,SGP,1993,No
+Singapore,SGP,1994,No
+Singapore,SGP,1995,No
+Singapore,SGP,1996,No
+Singapore,SGP,1997,No
+Singapore,SGP,1998,Yes
+Singapore,SGP,1999,Yes
+Singapore,SGP,2000,Yes
+Singapore,SGP,2001,Yes
+Singapore,SGP,2002,Yes
+Singapore,SGP,2003,Yes
+Singapore,SGP,2004,Yes
+Singapore,SGP,2005,Yes
+Singapore,SGP,2006,Yes
+Singapore,SGP,2007,Yes
+Singapore,SGP,2008,Yes
+Singapore,SGP,2009,Yes
+Singapore,SGP,2010,Yes
+Singapore,SGP,2011,Yes
+Singapore,SGP,2012,Yes
+Singapore,SGP,2013,Yes
+Singapore,SGP,2014,Yes
+Singapore,SGP,2015,Yes
+Singapore,SGP,2016,Yes
+Singapore,SGP,2017,Yes
+Singapore,SGP,2018,Yes
+Singapore,SGP,2019,Yes
+Singapore,SGP,2020,Yes
+Singapore,SGP,2021,Yes
+Slovakia,SVK,1986,No
+Slovakia,SVK,1987,No
+Slovakia,SVK,1988,No
+Slovakia,SVK,1989,No
+Slovakia,SVK,1990,No
+Slovakia,SVK,1991,No
+Slovakia,SVK,1992,No
+Slovakia,SVK,1993,No
+Slovakia,SVK,1994,No
+Slovakia,SVK,1995,Yes
+Slovakia,SVK,1996,Yes
+Slovakia,SVK,1997,Yes
+Slovakia,SVK,1998,Yes
+Slovakia,SVK,1999,Yes
+Slovakia,SVK,2000,Yes
+Slovakia,SVK,2001,Yes
+Slovakia,SVK,2002,Yes
+Slovakia,SVK,2003,Yes
+Slovakia,SVK,2004,Yes
+Slovakia,SVK,2005,Yes
+Slovakia,SVK,2006,Yes
+Slovakia,SVK,2007,Yes
+Slovakia,SVK,2008,Yes
+Slovakia,SVK,2009,Yes
+Slovakia,SVK,2010,Yes
+Slovakia,SVK,2011,Yes
+Slovakia,SVK,2012,Yes
+Slovakia,SVK,2013,Yes
+Slovakia,SVK,2014,Yes
+Slovakia,SVK,2015,Yes
+Slovakia,SVK,2016,Yes
+Slovakia,SVK,2017,Yes
+Slovakia,SVK,2018,Yes
+Slovakia,SVK,2019,Yes
+Slovakia,SVK,2020,Yes
+Slovakia,SVK,2021,Yes
+Slovenia,SVN,1986,No
+Slovenia,SVN,1987,No
+Slovenia,SVN,1988,No
+Slovenia,SVN,1989,No
+Slovenia,SVN,1990,No
+Slovenia,SVN,1991,No
+Slovenia,SVN,1992,No
+Slovenia,SVN,1993,No
+Slovenia,SVN,1994,No
+Slovenia,SVN,1995,No
+Slovenia,SVN,1996,No
+Slovenia,SVN,1997,No
+Slovenia,SVN,1998,No
+Slovenia,SVN,1999,No
+Slovenia,SVN,2000,No
+Slovenia,SVN,2001,Yes
+Slovenia,SVN,2002,Yes
+Slovenia,SVN,2003,Yes
+Slovenia,SVN,2004,Yes
+Slovenia,SVN,2005,Yes
+Slovenia,SVN,2006,Yes
+Slovenia,SVN,2007,Yes
+Slovenia,SVN,2008,Yes
+Slovenia,SVN,2009,Yes
+Slovenia,SVN,2010,Yes
+Slovenia,SVN,2011,Yes
+Slovenia,SVN,2012,Yes
+Slovenia,SVN,2013,Yes
+Slovenia,SVN,2014,Yes
+Slovenia,SVN,2015,Yes
+Slovenia,SVN,2016,Yes
+Slovenia,SVN,2017,Yes
+Slovenia,SVN,2018,Yes
+Slovenia,SVN,2019,Yes
+Slovenia,SVN,2020,Yes
+Slovenia,SVN,2021,Yes
+Somalia,SOM,1986,No
+Somalia,SOM,1987,No
+Somalia,SOM,1988,No
+Somalia,SOM,1989,No
+Somalia,SOM,1990,No
+Somalia,SOM,1991,No
+Somalia,SOM,1992,No
+Somalia,SOM,1993,No
+Somalia,SOM,1994,No
+Somalia,SOM,1995,No
+Somalia,SOM,1996,No
+Somalia,SOM,1997,No
+Somalia,SOM,1998,No
+Somalia,SOM,1999,No
+Somalia,SOM,2000,No
+Somalia,SOM,2001,No
+Somalia,SOM,2002,No
+Somalia,SOM,2003,No
+Somalia,SOM,2004,No
+Somalia,SOM,2005,No
+Somalia,SOM,2006,Yes
+Somalia,SOM,2007,Yes
+Somalia,SOM,2008,Yes
+Somalia,SOM,2009,Yes
+Somalia,SOM,2010,Yes
+Somalia,SOM,2011,Yes
+Somalia,SOM,2012,Yes
+Somalia,SOM,2013,Yes
+Somalia,SOM,2014,Yes
+Somalia,SOM,2015,Yes
+Somalia,SOM,2016,Yes
+Somalia,SOM,2017,Yes
+Somalia,SOM,2018,Yes
+Somalia,SOM,2019,Yes
+Somalia,SOM,2020,Yes
+Somalia,SOM,2021,Yes
+South Africa,ZAF,1986,No
+South Africa,ZAF,1987,No
+South Africa,ZAF,1988,No
+South Africa,ZAF,1989,No
+South Africa,ZAF,1990,No
+South Africa,ZAF,1991,No
+South Africa,ZAF,1992,No
+South Africa,ZAF,1993,No
+South Africa,ZAF,1994,No
+South Africa,ZAF,1995,No
+South Africa,ZAF,1996,No
+South Africa,ZAF,1997,No
+South Africa,ZAF,1998,No
+South Africa,ZAF,1999,No
+South Africa,ZAF,2000,No
+South Africa,ZAF,2001,No
+South Africa,ZAF,2002,No
+South Africa,ZAF,2003,No
+South Africa,ZAF,2004,No
+South Africa,ZAF,2005,No
+South Africa,ZAF,2006,Yes
+South Africa,ZAF,2007,Yes
+South Africa,ZAF,2008,Yes
+South Africa,ZAF,2009,Yes
+South Africa,ZAF,2010,Yes
+South Africa,ZAF,2011,Yes
+South Africa,ZAF,2012,Yes
+South Africa,ZAF,2013,Yes
+South Africa,ZAF,2014,Yes
+South Africa,ZAF,2015,Yes
+South Africa,ZAF,2016,Yes
+South Africa,ZAF,2017,Yes
+South Africa,ZAF,2018,Yes
+South Africa,ZAF,2019,Yes
+South Africa,ZAF,2020,Yes
+South Africa,ZAF,2021,Yes
+South Korea,KOR,1986,No
+South Korea,KOR,1987,No
+South Korea,KOR,1988,No
+South Korea,KOR,1989,No
+South Korea,KOR,1990,No
+South Korea,KOR,1991,No
+South Korea,KOR,1992,No
+South Korea,KOR,1993,Yes
+South Korea,KOR,1994,Yes
+South Korea,KOR,1995,Yes
+South Korea,KOR,1996,Yes
+South Korea,KOR,1997,Yes
+South Korea,KOR,1998,Yes
+South Korea,KOR,1999,Yes
+South Korea,KOR,2000,Yes
+South Korea,KOR,2001,Yes
+South Korea,KOR,2002,Yes
+South Korea,KOR,2003,Yes
+South Korea,KOR,2004,Yes
+South Korea,KOR,2005,Yes
+South Korea,KOR,2006,Yes
+South Korea,KOR,2007,Yes
+South Korea,KOR,2008,Yes
+South Korea,KOR,2009,Yes
+South Korea,KOR,2010,Yes
+South Korea,KOR,2011,Yes
+South Korea,KOR,2012,Yes
+South Korea,KOR,2013,Yes
+South Korea,KOR,2014,Yes
+South Korea,KOR,2015,Yes
+South Korea,KOR,2016,Yes
+South Korea,KOR,2017,Yes
+South Korea,KOR,2018,Yes
+South Korea,KOR,2019,Yes
+South Korea,KOR,2020,Yes
+South Korea,KOR,2021,Yes
+South Sudan,SSD,1986,No
+South Sudan,SSD,1987,No
+South Sudan,SSD,1988,No
+South Sudan,SSD,1989,No
+South Sudan,SSD,1990,No
+South Sudan,SSD,1991,No
+South Sudan,SSD,1992,No
+South Sudan,SSD,1993,No
+South Sudan,SSD,1994,No
+South Sudan,SSD,1995,No
+South Sudan,SSD,1996,No
+South Sudan,SSD,1997,No
+South Sudan,SSD,1998,No
+South Sudan,SSD,1999,No
+South Sudan,SSD,2000,Yes
+South Sudan,SSD,2001,Yes
+South Sudan,SSD,2002,Yes
+South Sudan,SSD,2003,Yes
+South Sudan,SSD,2004,Yes
+South Sudan,SSD,2005,Yes
+South Sudan,SSD,2006,Yes
+South Sudan,SSD,2007,Yes
+South Sudan,SSD,2008,Yes
+South Sudan,SSD,2009,Yes
+South Sudan,SSD,2010,Yes
+South Sudan,SSD,2011,Yes
+South Sudan,SSD,2012,Yes
+South Sudan,SSD,2013,Yes
+South Sudan,SSD,2014,Yes
+South Sudan,SSD,2015,Yes
+South Sudan,SSD,2016,Yes
+South Sudan,SSD,2017,Yes
+South Sudan,SSD,2018,Yes
+South Sudan,SSD,2019,Yes
+South Sudan,SSD,2020,Yes
+South Sudan,SSD,2021,Yes
+Spain,ESP,1986,No
+Spain,ESP,1987,No
+Spain,ESP,1988,No
+Spain,ESP,1989,No
+Spain,ESP,1990,No
+Spain,ESP,1991,No
+Spain,ESP,1992,No
+Spain,ESP,1993,No
+Spain,ESP,1994,No
+Spain,ESP,1995,No
+Spain,ESP,1996,No
+Spain,ESP,1997,No
+Spain,ESP,1998,No
+Spain,ESP,1999,No
+Spain,ESP,2000,No
+Spain,ESP,2001,Yes
+Spain,ESP,2002,Yes
+Spain,ESP,2003,Yes
+Spain,ESP,2004,Yes
+Spain,ESP,2005,Yes
+Spain,ESP,2006,Yes
+Spain,ESP,2007,Yes
+Spain,ESP,2008,Yes
+Spain,ESP,2009,Yes
+Spain,ESP,2010,Yes
+Spain,ESP,2011,Yes
+Spain,ESP,2012,Yes
+Spain,ESP,2013,Yes
+Spain,ESP,2014,Yes
+Spain,ESP,2015,Yes
+Spain,ESP,2016,Yes
+Spain,ESP,2017,Yes
+Spain,ESP,2018,Yes
+Spain,ESP,2019,Yes
+Spain,ESP,2020,Yes
+Spain,ESP,2021,Yes
+Sri Lanka,LKA,1986,No
+Sri Lanka,LKA,1987,No
+Sri Lanka,LKA,1988,No
+Sri Lanka,LKA,1989,No
+Sri Lanka,LKA,1990,No
+Sri Lanka,LKA,1991,No
+Sri Lanka,LKA,1992,No
+Sri Lanka,LKA,1993,No
+Sri Lanka,LKA,1994,No
+Sri Lanka,LKA,1995,No
+Sri Lanka,LKA,1996,No
+Sri Lanka,LKA,1997,No
+Sri Lanka,LKA,1998,No
+Sri Lanka,LKA,1999,Yes
+Sri Lanka,LKA,2000,Yes
+Sri Lanka,LKA,2001,Yes
+Sri Lanka,LKA,2002,Yes
+Sri Lanka,LKA,2003,Yes
+Sri Lanka,LKA,2004,Yes
+Sri Lanka,LKA,2005,Yes
+Sri Lanka,LKA,2006,Yes
+Sri Lanka,LKA,2007,Yes
+Sri Lanka,LKA,2008,Yes
+Sri Lanka,LKA,2009,Yes
+Sri Lanka,LKA,2010,Yes
+Sri Lanka,LKA,2011,Yes
+Sri Lanka,LKA,2012,Yes
+Sri Lanka,LKA,2013,Yes
+Sri Lanka,LKA,2014,Yes
+Sri Lanka,LKA,2015,Yes
+Sri Lanka,LKA,2016,Yes
+Sri Lanka,LKA,2017,Yes
+Sri Lanka,LKA,2018,Yes
+Sri Lanka,LKA,2019,Yes
+Sri Lanka,LKA,2020,Yes
+Sri Lanka,LKA,2021,Yes
+Sudan,SDN,1986,No
+Sudan,SDN,1987,No
+Sudan,SDN,1988,No
+Sudan,SDN,1989,No
+Sudan,SDN,1990,No
+Sudan,SDN,1991,No
+Sudan,SDN,1992,No
+Sudan,SDN,1993,No
+Sudan,SDN,1994,No
+Sudan,SDN,1995,No
+Sudan,SDN,1996,No
+Sudan,SDN,1997,No
+Sudan,SDN,1998,No
+Sudan,SDN,1999,No
+Sudan,SDN,2000,Yes
+Sudan,SDN,2001,Yes
+Sudan,SDN,2002,Yes
+Sudan,SDN,2003,Yes
+Sudan,SDN,2004,Yes
+Sudan,SDN,2005,Yes
+Sudan,SDN,2006,Yes
+Sudan,SDN,2007,Yes
+Sudan,SDN,2008,Yes
+Sudan,SDN,2009,Yes
+Sudan,SDN,2010,Yes
+Sudan,SDN,2011,Yes
+Sudan,SDN,2012,Yes
+Sudan,SDN,2013,Yes
+Sudan,SDN,2014,Yes
+Sudan,SDN,2015,Yes
+Sudan,SDN,2016,Yes
+Sudan,SDN,2017,Yes
+Sudan,SDN,2018,Yes
+Sudan,SDN,2019,Yes
+Sudan,SDN,2020,Yes
+Sudan,SDN,2021,Yes
+Sweden,SWE,1986,No
+Sweden,SWE,1987,No
+Sweden,SWE,1988,No
+Sweden,SWE,1989,No
+Sweden,SWE,1990,No
+Sweden,SWE,1991,No
+Sweden,SWE,1992,Yes
+Sweden,SWE,1993,Yes
+Sweden,SWE,1994,Yes
+Sweden,SWE,1995,Yes
+Sweden,SWE,1996,Yes
+Sweden,SWE,1997,Yes
+Sweden,SWE,1998,Yes
+Sweden,SWE,1999,Yes
+Sweden,SWE,2000,Yes
+Sweden,SWE,2001,Yes
+Sweden,SWE,2002,Yes
+Sweden,SWE,2003,Yes
+Sweden,SWE,2004,Yes
+Sweden,SWE,2005,Yes
+Sweden,SWE,2006,Yes
+Sweden,SWE,2007,Yes
+Sweden,SWE,2008,Yes
+Sweden,SWE,2009,Yes
+Sweden,SWE,2010,Yes
+Sweden,SWE,2011,Yes
+Sweden,SWE,2012,Yes
+Sweden,SWE,2013,Yes
+Sweden,SWE,2014,Yes
+Sweden,SWE,2015,Yes
+Sweden,SWE,2016,Yes
+Sweden,SWE,2017,Yes
+Sweden,SWE,2018,Yes
+Sweden,SWE,2019,Yes
+Sweden,SWE,2020,Yes
+Sweden,SWE,2021,Yes
+Switzerland,CHE,1986,No
+Switzerland,CHE,1987,No
+Switzerland,CHE,1988,No
+Switzerland,CHE,1989,No
+Switzerland,CHE,1990,No
+Switzerland,CHE,1991,No
+Switzerland,CHE,1992,No
+Switzerland,CHE,1993,No
+Switzerland,CHE,1994,No
+Switzerland,CHE,1995,No
+Switzerland,CHE,1996,No
+Switzerland,CHE,1997,No
+Switzerland,CHE,1998,No
+Switzerland,CHE,1999,No
+Switzerland,CHE,2000,Yes
+Switzerland,CHE,2001,Yes
+Switzerland,CHE,2002,Yes
+Switzerland,CHE,2003,Yes
+Switzerland,CHE,2004,Yes
+Switzerland,CHE,2005,Yes
+Switzerland,CHE,2006,Yes
+Switzerland,CHE,2007,Yes
+Switzerland,CHE,2008,Yes
+Switzerland,CHE,2009,Yes
+Switzerland,CHE,2010,Yes
+Switzerland,CHE,2011,Yes
+Switzerland,CHE,2012,Yes
+Switzerland,CHE,2013,Yes
+Switzerland,CHE,2014,Yes
+Switzerland,CHE,2015,Yes
+Switzerland,CHE,2016,Yes
+Switzerland,CHE,2017,Yes
+Switzerland,CHE,2018,Yes
+Switzerland,CHE,2019,Yes
+Switzerland,CHE,2020,Yes
+Switzerland,CHE,2021,Yes
+Taiwan,TWN,1986,No
+Taiwan,TWN,1987,No
+Taiwan,TWN,1988,No
+Taiwan,TWN,1989,No
+Taiwan,TWN,1990,No
+Taiwan,TWN,1991,No
+Taiwan,TWN,1992,No
+Taiwan,TWN,1993,No
+Taiwan,TWN,1994,No
+Taiwan,TWN,1995,No
+Taiwan,TWN,1996,No
+Taiwan,TWN,1997,No
+Taiwan,TWN,1998,No
+Taiwan,TWN,1999,No
+Taiwan,TWN,2000,Yes
+Taiwan,TWN,2001,Yes
+Taiwan,TWN,2002,Yes
+Taiwan,TWN,2003,Yes
+Taiwan,TWN,2004,Yes
+Taiwan,TWN,2005,Yes
+Taiwan,TWN,2006,Yes
+Taiwan,TWN,2007,Yes
+Taiwan,TWN,2008,Yes
+Taiwan,TWN,2009,Yes
+Taiwan,TWN,2010,Yes
+Taiwan,TWN,2011,Yes
+Taiwan,TWN,2012,Yes
+Taiwan,TWN,2013,Yes
+Taiwan,TWN,2014,Yes
+Taiwan,TWN,2015,Yes
+Taiwan,TWN,2016,Yes
+Taiwan,TWN,2017,Yes
+Taiwan,TWN,2018,Yes
+Taiwan,TWN,2019,Yes
+Taiwan,TWN,2020,Yes
+Taiwan,TWN,2021,Yes
+Tanzania,TZA,1986,No
+Tanzania,TZA,1987,No
+Tanzania,TZA,1988,No
+Tanzania,TZA,1989,No
+Tanzania,TZA,1990,No
+Tanzania,TZA,1991,No
+Tanzania,TZA,1992,No
+Tanzania,TZA,1993,No
+Tanzania,TZA,1994,No
+Tanzania,TZA,1995,No
+Tanzania,TZA,1996,No
+Tanzania,TZA,1997,No
+Tanzania,TZA,1998,No
+Tanzania,TZA,1999,No
+Tanzania,TZA,2000,No
+Tanzania,TZA,2001,No
+Tanzania,TZA,2002,No
+Tanzania,TZA,2003,No
+Tanzania,TZA,2004,No
+Tanzania,TZA,2005,No
+Tanzania,TZA,2006,Yes
+Tanzania,TZA,2007,Yes
+Tanzania,TZA,2008,Yes
+Tanzania,TZA,2009,Yes
+Tanzania,TZA,2010,Yes
+Tanzania,TZA,2011,Yes
+Tanzania,TZA,2012,Yes
+Tanzania,TZA,2013,Yes
+Tanzania,TZA,2014,Yes
+Tanzania,TZA,2015,Yes
+Tanzania,TZA,2016,Yes
+Tanzania,TZA,2017,Yes
+Tanzania,TZA,2018,Yes
+Tanzania,TZA,2019,Yes
+Tanzania,TZA,2020,Yes
+Tanzania,TZA,2021,Yes
+Thailand,THA,1986,No
+Thailand,THA,1987,No
+Thailand,THA,1988,No
+Thailand,THA,1989,No
+Thailand,THA,1990,No
+Thailand,THA,1991,No
+Thailand,THA,1992,No
+Thailand,THA,1993,No
+Thailand,THA,1994,No
+Thailand,THA,1995,No
+Thailand,THA,1996,Yes
+Thailand,THA,1997,Yes
+Thailand,THA,1998,Yes
+Thailand,THA,1999,Yes
+Thailand,THA,2000,Yes
+Thailand,THA,2001,Yes
+Thailand,THA,2002,Yes
+Thailand,THA,2003,Yes
+Thailand,THA,2004,Yes
+Thailand,THA,2005,Yes
+Thailand,THA,2006,Yes
+Thailand,THA,2007,Yes
+Thailand,THA,2008,Yes
+Thailand,THA,2009,Yes
+Thailand,THA,2010,Yes
+Thailand,THA,2011,Yes
+Thailand,THA,2012,Yes
+Thailand,THA,2013,Yes
+Thailand,THA,2014,Yes
+Thailand,THA,2015,Yes
+Thailand,THA,2016,Yes
+Thailand,THA,2017,Yes
+Thailand,THA,2018,Yes
+Thailand,THA,2019,Yes
+Thailand,THA,2020,Yes
+Thailand,THA,2021,Yes
+Togo,TGO,1986,No
+Togo,TGO,1987,No
+Togo,TGO,1988,No
+Togo,TGO,1989,No
+Togo,TGO,1990,No
+Togo,TGO,1991,No
+Togo,TGO,1992,No
+Togo,TGO,1993,No
+Togo,TGO,1994,No
+Togo,TGO,1995,No
+Togo,TGO,1996,No
+Togo,TGO,1997,No
+Togo,TGO,1998,No
+Togo,TGO,1999,No
+Togo,TGO,2000,No
+Togo,TGO,2001,No
+Togo,TGO,2002,No
+Togo,TGO,2003,No
+Togo,TGO,2004,No
+Togo,TGO,2005,Yes
+Togo,TGO,2006,Yes
+Togo,TGO,2007,Yes
+Togo,TGO,2008,Yes
+Togo,TGO,2009,Yes
+Togo,TGO,2010,Yes
+Togo,TGO,2011,Yes
+Togo,TGO,2012,Yes
+Togo,TGO,2013,Yes
+Togo,TGO,2014,Yes
+Togo,TGO,2015,Yes
+Togo,TGO,2016,Yes
+Togo,TGO,2017,Yes
+Togo,TGO,2018,Yes
+Togo,TGO,2019,Yes
+Togo,TGO,2020,Yes
+Togo,TGO,2021,Yes
+Trinidad and Tobago,TTO,1986,No
+Trinidad and Tobago,TTO,1987,No
+Trinidad and Tobago,TTO,1988,No
+Trinidad and Tobago,TTO,1989,No
+Trinidad and Tobago,TTO,1990,No
+Trinidad and Tobago,TTO,1991,No
+Trinidad and Tobago,TTO,1992,No
+Trinidad and Tobago,TTO,1993,No
+Trinidad and Tobago,TTO,1994,No
+Trinidad and Tobago,TTO,1995,No
+Trinidad and Tobago,TTO,1996,No
+Trinidad and Tobago,TTO,1997,No
+Trinidad and Tobago,TTO,1998,No
+Trinidad and Tobago,TTO,1999,No
+Trinidad and Tobago,TTO,2000,Yes
+Trinidad and Tobago,TTO,2001,Yes
+Trinidad and Tobago,TTO,2002,Yes
+Trinidad and Tobago,TTO,2003,Yes
+Trinidad and Tobago,TTO,2004,Yes
+Trinidad and Tobago,TTO,2005,Yes
+Trinidad and Tobago,TTO,2006,Yes
+Trinidad and Tobago,TTO,2007,Yes
+Trinidad and Tobago,TTO,2008,Yes
+Trinidad and Tobago,TTO,2009,Yes
+Trinidad and Tobago,TTO,2010,Yes
+Trinidad and Tobago,TTO,2011,Yes
+Trinidad and Tobago,TTO,2012,Yes
+Trinidad and Tobago,TTO,2013,Yes
+Trinidad and Tobago,TTO,2014,Yes
+Trinidad and Tobago,TTO,2015,Yes
+Trinidad and Tobago,TTO,2016,Yes
+Trinidad and Tobago,TTO,2017,Yes
+Trinidad and Tobago,TTO,2018,Yes
+Trinidad and Tobago,TTO,2019,Yes
+Trinidad and Tobago,TTO,2020,Yes
+Trinidad and Tobago,TTO,2021,Yes
+Turkey,TUR,1986,No
+Turkey,TUR,1987,No
+Turkey,TUR,1988,No
+Turkey,TUR,1989,No
+Turkey,TUR,1990,No
+Turkey,TUR,1991,No
+Turkey,TUR,1992,No
+Turkey,TUR,1993,No
+Turkey,TUR,1994,No
+Turkey,TUR,1995,No
+Turkey,TUR,1996,No
+Turkey,TUR,1997,No
+Turkey,TUR,1998,No
+Turkey,TUR,1999,No
+Turkey,TUR,2000,No
+Turkey,TUR,2001,No
+Turkey,TUR,2002,No
+Turkey,TUR,2003,No
+Turkey,TUR,2004,No
+Turkey,TUR,2005,No
+Turkey,TUR,2006,Yes
+Turkey,TUR,2007,Yes
+Turkey,TUR,2008,Yes
+Turkey,TUR,2009,Yes
+Turkey,TUR,2010,Yes
+Turkey,TUR,2011,Yes
+Turkey,TUR,2012,Yes
+Turkey,TUR,2013,Yes
+Turkey,TUR,2014,Yes
+Turkey,TUR,2015,Yes
+Turkey,TUR,2016,Yes
+Turkey,TUR,2017,Yes
+Turkey,TUR,2018,Yes
+Turkey,TUR,2019,Yes
+Turkey,TUR,2020,Yes
+Turkey,TUR,2021,Yes
+Uganda,UGA,1986,No
+Uganda,UGA,1987,No
+Uganda,UGA,1988,No
+Uganda,UGA,1989,No
+Uganda,UGA,1990,No
+Uganda,UGA,1991,No
+Uganda,UGA,1992,No
+Uganda,UGA,1993,No
+Uganda,UGA,1994,No
+Uganda,UGA,1995,No
+Uganda,UGA,1996,No
+Uganda,UGA,1997,No
+Uganda,UGA,1998,No
+Uganda,UGA,1999,No
+Uganda,UGA,2000,No
+Uganda,UGA,2001,No
+Uganda,UGA,2002,No
+Uganda,UGA,2003,No
+Uganda,UGA,2004,No
+Uganda,UGA,2005,No
+Uganda,UGA,2006,Yes
+Uganda,UGA,2007,Yes
+Uganda,UGA,2008,Yes
+Uganda,UGA,2009,Yes
+Uganda,UGA,2010,Yes
+Uganda,UGA,2011,Yes
+Uganda,UGA,2012,Yes
+Uganda,UGA,2013,Yes
+Uganda,UGA,2014,Yes
+Uganda,UGA,2015,Yes
+Uganda,UGA,2016,Yes
+Uganda,UGA,2017,Yes
+Uganda,UGA,2018,Yes
+Uganda,UGA,2019,Yes
+Uganda,UGA,2020,Yes
+Uganda,UGA,2021,Yes
+Ukraine,UKR,1986,No
+Ukraine,UKR,1987,No
+Ukraine,UKR,1988,No
+Ukraine,UKR,1989,No
+Ukraine,UKR,1990,No
+Ukraine,UKR,1991,No
+Ukraine,UKR,1992,No
+Ukraine,UKR,1993,No
+Ukraine,UKR,1994,No
+Ukraine,UKR,1995,No
+Ukraine,UKR,1996,No
+Ukraine,UKR,1997,No
+Ukraine,UKR,1998,No
+Ukraine,UKR,1999,No
+Ukraine,UKR,2000,No
+Ukraine,UKR,2001,No
+Ukraine,UKR,2002,No
+Ukraine,UKR,2003,Yes
+Ukraine,UKR,2004,Yes
+Ukraine,UKR,2005,Yes
+Ukraine,UKR,2006,Yes
+Ukraine,UKR,2007,Yes
+Ukraine,UKR,2008,Yes
+Ukraine,UKR,2009,Yes
+Ukraine,UKR,2010,Yes
+Ukraine,UKR,2011,Yes
+Ukraine,UKR,2012,Yes
+Ukraine,UKR,2013,Yes
+Ukraine,UKR,2014,Yes
+Ukraine,UKR,2015,Yes
+Ukraine,UKR,2016,Yes
+Ukraine,UKR,2017,Yes
+Ukraine,UKR,2018,Yes
+Ukraine,UKR,2019,Yes
+Ukraine,UKR,2020,Yes
+Ukraine,UKR,2021,Yes
+United Arab Emirates,ARE,1986,No
+United Arab Emirates,ARE,1987,No
+United Arab Emirates,ARE,1988,No
+United Arab Emirates,ARE,1989,No
+United Arab Emirates,ARE,1990,No
+United Arab Emirates,ARE,1991,No
+United Arab Emirates,ARE,1992,No
+United Arab Emirates,ARE,1993,No
+United Arab Emirates,ARE,1994,No
+United Arab Emirates,ARE,1995,No
+United Arab Emirates,ARE,1996,No
+United Arab Emirates,ARE,1997,No
+United Arab Emirates,ARE,1998,No
+United Arab Emirates,ARE,1999,No
+United Arab Emirates,ARE,2000,No
+United Arab Emirates,ARE,2001,No
+United Arab Emirates,ARE,2002,No
+United Arab Emirates,ARE,2003,Yes
+United Arab Emirates,ARE,2004,Yes
+United Arab Emirates,ARE,2005,Yes
+United Arab Emirates,ARE,2006,Yes
+United Arab Emirates,ARE,2007,Yes
+United Arab Emirates,ARE,2008,Yes
+United Arab Emirates,ARE,2009,Yes
+United Arab Emirates,ARE,2010,Yes
+United Arab Emirates,ARE,2011,Yes
+United Arab Emirates,ARE,2012,Yes
+United Arab Emirates,ARE,2013,Yes
+United Arab Emirates,ARE,2014,Yes
+United Arab Emirates,ARE,2015,Yes
+United Arab Emirates,ARE,2016,Yes
+United Arab Emirates,ARE,2017,Yes
+United Arab Emirates,ARE,2018,Yes
+United Arab Emirates,ARE,2019,Yes
+United Arab Emirates,ARE,2020,Yes
+United Arab Emirates,ARE,2021,Yes
+United Kingdom,GBR,1986,No
+United Kingdom,GBR,1987,No
+United Kingdom,GBR,1988,No
+United Kingdom,GBR,1989,No
+United Kingdom,GBR,1990,No
+United Kingdom,GBR,1991,No
+United Kingdom,GBR,1992,No
+United Kingdom,GBR,1993,No
+United Kingdom,GBR,1994,No
+United Kingdom,GBR,1995,No
+United Kingdom,GBR,1996,No
+United Kingdom,GBR,1997,No
+United Kingdom,GBR,1998,No
+United Kingdom,GBR,1999,No
+United Kingdom,GBR,2000,Yes
+United Kingdom,GBR,2001,Yes
+United Kingdom,GBR,2002,Yes
+United Kingdom,GBR,2003,Yes
+United Kingdom,GBR,2004,Yes
+United Kingdom,GBR,2005,Yes
+United Kingdom,GBR,2006,Yes
+United Kingdom,GBR,2007,Yes
+United Kingdom,GBR,2008,Yes
+United Kingdom,GBR,2009,Yes
+United Kingdom,GBR,2010,Yes
+United Kingdom,GBR,2011,Yes
+United Kingdom,GBR,2012,Yes
+United Kingdom,GBR,2013,Yes
+United Kingdom,GBR,2014,Yes
+United Kingdom,GBR,2015,Yes
+United Kingdom,GBR,2016,Yes
+United Kingdom,GBR,2017,Yes
+United Kingdom,GBR,2018,Yes
+United Kingdom,GBR,2019,Yes
+United Kingdom,GBR,2020,Yes
+United Kingdom,GBR,2021,Yes
+United States,USA,1986,No
+United States,USA,1987,No
+United States,USA,1988,No
+United States,USA,1989,No
+United States,USA,1990,No
+United States,USA,1991,No
+United States,USA,1992,No
+United States,USA,1993,No
+United States,USA,1994,No
+United States,USA,1995,No
+United States,USA,1996,Yes
+United States,USA,1997,Yes
+United States,USA,1998,Yes
+United States,USA,1999,Yes
+United States,USA,2000,Yes
+United States,USA,2001,Yes
+United States,USA,2002,Yes
+United States,USA,2003,Yes
+United States,USA,2004,Yes
+United States,USA,2005,Yes
+United States,USA,2006,Yes
+United States,USA,2007,Yes
+United States,USA,2008,Yes
+United States,USA,2009,Yes
+United States,USA,2010,Yes
+United States,USA,2011,Yes
+United States,USA,2012,Yes
+United States,USA,2013,Yes
+United States,USA,2014,Yes
+United States,USA,2015,Yes
+United States,USA,2016,Yes
+United States,USA,2017,Yes
+United States,USA,2018,Yes
+United States,USA,2019,Yes
+United States,USA,2020,Yes
+United States,USA,2021,Yes
+Uruguay,URY,1986,No
+Uruguay,URY,1987,No
+Uruguay,URY,1988,No
+Uruguay,URY,1989,No
+Uruguay,URY,1990,No
+Uruguay,URY,1991,No
+Uruguay,URY,1992,No
+Uruguay,URY,1993,No
+Uruguay,URY,1994,No
+Uruguay,URY,1995,No
+Uruguay,URY,1996,No
+Uruguay,URY,1997,No
+Uruguay,URY,1998,No
+Uruguay,URY,1999,No
+Uruguay,URY,2000,No
+Uruguay,URY,2001,No
+Uruguay,URY,2002,No
+Uruguay,URY,2003,No
+Uruguay,URY,2004,Yes
+Uruguay,URY,2005,Yes
+Uruguay,URY,2006,Yes
+Uruguay,URY,2007,Yes
+Uruguay,URY,2008,Yes
+Uruguay,URY,2009,Yes
+Uruguay,URY,2010,Yes
+Uruguay,URY,2011,Yes
+Uruguay,URY,2012,Yes
+Uruguay,URY,2013,Yes
+Uruguay,URY,2014,Yes
+Uruguay,URY,2015,Yes
+Uruguay,URY,2016,Yes
+Uruguay,URY,2017,Yes
+Uruguay,URY,2018,Yes
+Uruguay,URY,2019,Yes
+Uruguay,URY,2020,Yes
+Uruguay,URY,2021,Yes
+Venezuela,VEN,1986,No
+Venezuela,VEN,1987,No
+Venezuela,VEN,1988,No
+Venezuela,VEN,1989,No
+Venezuela,VEN,1990,No
+Venezuela,VEN,1991,No
+Venezuela,VEN,1992,No
+Venezuela,VEN,1993,No
+Venezuela,VEN,1994,No
+Venezuela,VEN,1995,No
+Venezuela,VEN,1996,No
+Venezuela,VEN,1997,No
+Venezuela,VEN,1998,No
+Venezuela,VEN,1999,No
+Venezuela,VEN,2000,No
+Venezuela,VEN,2001,No
+Venezuela,VEN,2002,No
+Venezuela,VEN,2003,No
+Venezuela,VEN,2004,No
+Venezuela,VEN,2005,Yes
+Venezuela,VEN,2006,Yes
+Venezuela,VEN,2007,Yes
+Venezuela,VEN,2008,Yes
+Venezuela,VEN,2009,Yes
+Venezuela,VEN,2010,Yes
+Venezuela,VEN,2011,Yes
+Venezuela,VEN,2012,Yes
+Venezuela,VEN,2013,Yes
+Venezuela,VEN,2014,Yes
+Venezuela,VEN,2015,Yes
+Venezuela,VEN,2016,Yes
+Venezuela,VEN,2017,Yes
+Venezuela,VEN,2018,Yes
+Venezuela,VEN,2019,Yes
+Venezuela,VEN,2020,Yes
+Venezuela,VEN,2021,Yes
+Vietnam,VNM,1986,No
+Vietnam,VNM,1987,No
+Vietnam,VNM,1988,No
+Vietnam,VNM,1989,No
+Vietnam,VNM,1990,No
+Vietnam,VNM,1991,No
+Vietnam,VNM,1992,No
+Vietnam,VNM,1993,No
+Vietnam,VNM,1994,No
+Vietnam,VNM,1995,No
+Vietnam,VNM,1996,No
+Vietnam,VNM,1997,No
+Vietnam,VNM,1998,No
+Vietnam,VNM,1999,No
+Vietnam,VNM,2000,No
+Vietnam,VNM,2001,Yes
+Vietnam,VNM,2002,Yes
+Vietnam,VNM,2003,Yes
+Vietnam,VNM,2004,Yes
+Vietnam,VNM,2005,Yes
+Vietnam,VNM,2006,Yes
+Vietnam,VNM,2007,Yes
+Vietnam,VNM,2008,Yes
+Vietnam,VNM,2009,Yes
+Vietnam,VNM,2010,Yes
+Vietnam,VNM,2011,Yes
+Vietnam,VNM,2012,Yes
+Vietnam,VNM,2013,Yes
+Vietnam,VNM,2014,Yes
+Vietnam,VNM,2015,Yes
+Vietnam,VNM,2016,Yes
+Vietnam,VNM,2017,Yes
+Vietnam,VNM,2018,Yes
+Vietnam,VNM,2019,Yes
+Vietnam,VNM,2020,Yes
+Vietnam,VNM,2021,Yes
+Yemen,YEM,1986,No
+Yemen,YEM,1987,No
+Yemen,YEM,1988,No
+Yemen,YEM,1989,No
+Yemen,YEM,1990,No
+Yemen,YEM,1991,No
+Yemen,YEM,1992,No
+Yemen,YEM,1993,No
+Yemen,YEM,1994,No
+Yemen,YEM,1995,No
+Yemen,YEM,1996,No
+Yemen,YEM,1997,No
+Yemen,YEM,1998,No
+Yemen,YEM,1999,No
+Yemen,YEM,2000,No
+Yemen,YEM,2001,No
+Yemen,YEM,2002,No
+Yemen,YEM,2003,No
+Yemen,YEM,2004,No
+Yemen,YEM,2005,No
+Yemen,YEM,2006,No
+Yemen,YEM,2007,No
+Yemen,YEM,2008,No
+Yemen,YEM,2009,No
+Yemen,YEM,2010,No
+Yemen,YEM,2011,No
+Yemen,YEM,2012,No
+Yemen,YEM,2013,No
+Yemen,YEM,2014,No
+Yemen,YEM,2015,No
+Yemen,YEM,2016,No
+Yemen,YEM,2017,No
+Yemen,YEM,2018,Yes
+Yemen,YEM,2019,Yes
+Yemen,YEM,2020,Yes
+Yemen,YEM,2021,Yes
+Zambia,ZMB,1986,No
+Zambia,ZMB,1987,No
+Zambia,ZMB,1988,No
+Zambia,ZMB,1989,No
+Zambia,ZMB,1990,No
+Zambia,ZMB,1991,No
+Zambia,ZMB,1992,No
+Zambia,ZMB,1993,No
+Zambia,ZMB,1994,No
+Zambia,ZMB,1995,No
+Zambia,ZMB,1996,No
+Zambia,ZMB,1997,No
+Zambia,ZMB,1998,No
+Zambia,ZMB,1999,No
+Zambia,ZMB,2000,No
+Zambia,ZMB,2001,No
+Zambia,ZMB,2002,No
+Zambia,ZMB,2003,No
+Zambia,ZMB,2004,No
+Zambia,ZMB,2005,No
+Zambia,ZMB,2006,Yes
+Zambia,ZMB,2007,Yes
+Zambia,ZMB,2008,Yes
+Zambia,ZMB,2009,Yes
+Zambia,ZMB,2010,Yes
+Zambia,ZMB,2011,Yes
+Zambia,ZMB,2012,Yes
+Zambia,ZMB,2013,Yes
+Zambia,ZMB,2014,Yes
+Zambia,ZMB,2015,Yes
+Zambia,ZMB,2016,Yes
+Zambia,ZMB,2017,Yes
+Zambia,ZMB,2018,Yes
+Zambia,ZMB,2019,Yes
+Zambia,ZMB,2020,Yes
+Zambia,ZMB,2021,Yes
+Zimbabwe,ZWE,1986,No
+Zimbabwe,ZWE,1987,No
+Zimbabwe,ZWE,1988,No
+Zimbabwe,ZWE,1989,No
+Zimbabwe,ZWE,1990,No
+Zimbabwe,ZWE,1991,No
+Zimbabwe,ZWE,1992,No
+Zimbabwe,ZWE,1993,No
+Zimbabwe,ZWE,1994,No
+Zimbabwe,ZWE,1995,No
+Zimbabwe,ZWE,1996,No
+Zimbabwe,ZWE,1997,No
+Zimbabwe,ZWE,1998,No
+Zimbabwe,ZWE,1999,No
+Zimbabwe,ZWE,2000,No
+Zimbabwe,ZWE,2001,No
+Zimbabwe,ZWE,2002,No
+Zimbabwe,ZWE,2003,No
+Zimbabwe,ZWE,2004,No
+Zimbabwe,ZWE,2005,No
+Zimbabwe,ZWE,2006,Yes
+Zimbabwe,ZWE,2007,Yes
+Zimbabwe,ZWE,2008,Yes
+Zimbabwe,ZWE,2009,Yes
+Zimbabwe,ZWE,2010,Yes
+Zimbabwe,ZWE,2011,Yes
+Zimbabwe,ZWE,2012,Yes
+Zimbabwe,ZWE,2013,Yes
+Zimbabwe,ZWE,2014,Yes
+Zimbabwe,ZWE,2015,Yes
+Zimbabwe,ZWE,2016,Yes
+Zimbabwe,ZWE,2017,Yes
+Zimbabwe,ZWE,2018,Yes
+Zimbabwe,ZWE,2019,Yes
+Zimbabwe,ZWE,2020,Yes
+Zimbabwe,ZWE,2021,Yes
