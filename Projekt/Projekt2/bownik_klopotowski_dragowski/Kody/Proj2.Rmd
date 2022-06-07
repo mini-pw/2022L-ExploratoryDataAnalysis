@@ -1,0 +1,102 @@
+---
+title: "Impact of food production on the world"
+author: "Paweł Drągowski & Katarzyna Bownik & Krzysztof Kłopotowski"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: united
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, echo = FALSE, warning = FALSE, message = FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      include = TRUE,
+                      eval = TRUE,
+                      warning = FALSE)
+library(dplyr)
+library(ggplot2)
+library(plotly)
+library(readxl)
+library(tidyr)
+```
+
+# Aim of the project
+
+In this report, we asked ourselves what impact has food production on various
+aspects of environment, such as land use, water use and greenhouse gas
+emissions. While visualizing our data, we put special emphasis on comparison
+between different food products, such as meats, oats, vegetables and others.
+
+# Overall production of food classes in each continent
+
+```{r, file="production.R"}
+figprod
+```
+
+From the interactive plot we conclude, that cereals are by far most popular type
+of food in the world, rivaled only by rice in Asia; its easy to see why, cereals
+are excellent source of carbohydrates and many minerals, while being relatively
+easy to farm and grow in intermediate climate. Milk is also very prevalent,
+especially in northern hemisphere where cows are common. It may seem as a surprise
+that chicken and pig meat is comparably popular, mostly due to the appeal of 
+swine in east Asian cuisine.
+
+# How damaging for the environment are different food products?
+
+```{r, file="foods.R"}
+figcol
+```
+
+## Description
+
+In our comparison amount of pollution was measured in three ways: most basic and
+intuitive one is measurement by kilograms, but it isn't very indicative of how
+resourceful product is for our organism. For that reason, we also evaluated 
+impact of products by kilocalories and proteins, since those are easily the most
+important statistics for healthy and nutritional diet.  
+Each products impact was weighed in three categories: in grams of eutrophying 
+emissions (that is effects of enriching bodies of water in minerals during food
+production), in square meters of land and liters of water used for production.
+
+## Conclusions
+
+By analysing our plot we reach several conclusions:  
+1. Meat production, especially red meat and fishes emits large portions of 
+phosphates into atmosphere. Most of animals which place high on land used are
+raised in open-field system, which counts for small percent of total output 
+of meat. Only poultries can be considered somewhat eco-friendly, with their
+intermediate usage of water and emissions.  
+2. Rice, as expected is very water-hungry, over twice more than its counterparts
+- wheat and rye.  
+3. Potatoes, root vegetables and tofu overally score greatly in all categories.
+
+# Where in the world emissions from food production are largest?
+
+```{r, file="map.R"}
+figmap
+```
+
+## Reading the plot
+
+On hover, each country displays its percentage share to global emissions (that 
+means the sum of those percentages equals 100). Countries which did not exist
+before year 2015 were ignored.
+
+## Conclusions
+
+First result which we can note is that USA, Brazil, Indonesia and China in total 
+are responsible for around 25 to 30 percent of emissions in the world. This is
+pessimistic result, as in those countries reside only around 800 million people, 
+around tenth of global population. Although country with the highest emissions 
+from food production is China, it has a huge population of 1.4 billion to feed.
+Even so, a comparable in population country of India has half as much emissions,
+on one hand thanks to its more plant based cuisine, but on the other as an effect
+of undernourishment and poverty problems there.
+
+# Bibliography
+
+1. [https://www.fao.org/faostat/en/#data](https://www.fao.org/faostat/en/#data)
+2. [https://ourworldindata.org/environmental-impacts-of-food](https://ourworldindata.org/environmental-impacts-of-food)
+3. [https://www.science.org/doi/10.1126/science.aaq0216](https://www.science.org/doi/10.1126/science.aaq0216)
