@@ -1,0 +1,1037 @@
+Entity,Code,Year,Agricultural area (crops & grazing) (HYDE (2017))
+Africa,,-10000,0
+Africa,,-9000,0
+Africa,,-8000,0
+Africa,,-7000,7711.773
+Africa,,-6000,164918.4
+Africa,,-5000,6684508.59
+Africa,,-4000,15603257.81
+Africa,,-3000,25924796.84
+Africa,,-2000,39830446.18
+Africa,,-1000,67005750.67
+Africa,,0,102177741.7
+Africa,,100,108938341.9
+Africa,,200,115541857
+Africa,,300,121653956.4
+Africa,,400,128935487
+Africa,,500,138110525.3
+Africa,,600,149082209.2
+Africa,,700,162779692.9
+Africa,,800,179625683.7
+Africa,,900,193540250.8
+Africa,,1000,206982254.2
+Africa,,1100,218397039.8
+Africa,,1200,229665287.4
+Africa,,1300,248181267.7
+Africa,,1400,265493492.4
+Africa,,1500,275777007.3
+Africa,,1600,303318030.2
+Africa,,1700,358251271.5
+Africa,,1710,351484325.4
+Africa,,1720,356771174.9
+Africa,,1730,362310154.9
+Africa,,1740,368044645.9
+Africa,,1750,374107403
+Africa,,1760,380594642.3
+Africa,,1770,387674304.1
+Africa,,1780,395644721.7
+Africa,,1790,405068370.6
+Africa,,1800,417092461.6
+Africa,,1810,434802730.5
+Africa,,1820,444173786.4
+Africa,,1830,460429583.4
+Africa,,1840,470650615.8
+Africa,,1850,482492862.6
+Africa,,1860,495117488.2
+Africa,,1870,508332527.5
+Africa,,1880,529842961
+Africa,,1890,546398819
+Africa,,1900,569480922
+Africa,,1910,596117972
+Africa,,1920,627145792
+Africa,,1930,669531992
+Africa,,1940,737211703
+Africa,,1950,885308650
+Africa,,1960,1041511930
+Africa,,1970,1055254500
+Africa,,1980,1069108550
+Africa,,1990,1092594180
+Africa,,2000,1104185870
+Africa,,2001,1108987090
+Africa,,2002,1113223060
+Africa,,2003,1120581760
+Africa,,2004,1124755200
+Africa,,2005,1133412290
+Africa,,2006,1137461340
+Africa,,2007,1139463190
+Africa,,2008,1141221800
+Africa,,2009,1143073310
+Africa,,2010,1148295500
+Africa,,2011,1154025970
+Africa,,2012,1162770690
+Africa,,2013,1166089000
+Africa,,2014,1172966720
+Africa,,2015,1179159707
+Africa,,2016,1185060090
+Brazil,BRA,-10000,0
+Brazil,BRA,-9000,0
+Brazil,BRA,-8000,0
+Brazil,BRA,-7000,0
+Brazil,BRA,-6000,0
+Brazil,BRA,-5000,0
+Brazil,BRA,-4000,8300.002
+Brazil,BRA,-3000,17200.08
+Brazil,BRA,-2000,33700.01
+Brazil,BRA,-1000,67800.18
+Brazil,BRA,0,135200.6
+Brazil,BRA,100,144700.1
+Brazil,BRA,200,154399.8
+Brazil,BRA,300,165100.2
+Brazil,BRA,400,176600.1
+Brazil,BRA,500,188799.7
+Brazil,BRA,600,201800.1
+Brazil,BRA,700,215501
+Brazil,BRA,800,230301.5
+Brazil,BRA,900,234302.2
+Brazil,BRA,1000,238401.9
+Brazil,BRA,1100,264001.8
+Brazil,BRA,1200,289801.8
+Brazil,BRA,1300,315602.3
+Brazil,BRA,1400,341303.4
+Brazil,BRA,1500,393903.5
+Brazil,BRA,1600,592153.5
+Brazil,BRA,1700,1112080.6
+Brazil,BRA,1710,1210831.8
+Brazil,BRA,1720,1318447.6
+Brazil,BRA,1730,1437482.3
+Brazil,BRA,1740,1568549.4
+Brazil,BRA,1750,1713480.6
+Brazil,BRA,1760,1874563
+Brazil,BRA,1770,2053280.7
+Brazil,BRA,1780,2253230.7
+Brazil,BRA,1790,2477151.3
+Brazil,BRA,1800,2904073.4
+Brazil,BRA,1810,3521109
+Brazil,BRA,1820,4832890.5
+Brazil,BRA,1830,6209060.1
+Brazil,BRA,1840,7715778.4
+Brazil,BRA,1850,9587852.6
+Brazil,BRA,1860,11931569
+Brazil,BRA,1870,14890926
+Brazil,BRA,1880,18657019
+Brazil,BRA,1890,23698987
+Brazil,BRA,1900,30265678
+Brazil,BRA,1910,39118949
+Brazil,BRA,1920,54727005
+Brazil,BRA,1930,76725530
+Brazil,BRA,1940,106256270
+Brazil,BRA,1950,127374510
+Brazil,BRA,1960,150536570
+Brazil,BRA,1970,195402000
+Brazil,BRA,1980,223993240
+Brazil,BRA,1990,241611410
+Brazil,BRA,2000,261412620
+Brazil,BRA,2001,263472800
+Brazil,BRA,2002,265874000
+Brazil,BRA,2003,268469340
+Brazil,BRA,2004,272133510
+Brazil,BRA,2005,272433610
+Brazil,BRA,2006,272783210
+Brazil,BRA,2007,271640060
+Brazil,BRA,2008,273498460
+Brazil,BRA,2009,273537580
+Brazil,BRA,2010,273461540
+Brazil,BRA,2011,275379760
+Brazil,BRA,2012,275591850
+Brazil,BRA,2013,276096860
+Brazil,BRA,2014,277009970
+Brazil,BRA,2015,277860660
+Brazil,BRA,2016,278304000
+Canada,CAN,-10000,0
+Canada,CAN,-9000,0
+Canada,CAN,-8000,0
+Canada,CAN,-7000,0
+Canada,CAN,-6000,0
+Canada,CAN,-5000,0
+Canada,CAN,-4000,0
+Canada,CAN,-3000,0
+Canada,CAN,-2000,0
+Canada,CAN,-1000,0
+Canada,CAN,0,0
+Canada,CAN,100,0
+Canada,CAN,200,0
+Canada,CAN,300,0
+Canada,CAN,400,0
+Canada,CAN,500,0
+Canada,CAN,600,0
+Canada,CAN,700,0
+Canada,CAN,800,0
+Canada,CAN,900,0
+Canada,CAN,1000,0
+Canada,CAN,1100,0
+Canada,CAN,1200,0
+Canada,CAN,1300,0
+Canada,CAN,1400,0
+Canada,CAN,1500,999.9996
+Canada,CAN,1600,999.9993
+Canada,CAN,1700,22503.2
+Canada,CAN,1710,29551.96
+Canada,CAN,1720,39420.53
+Canada,CAN,1730,51666.65
+Canada,CAN,1740,69021.09
+Canada,CAN,1750,91443.15
+Canada,CAN,1760,122193.3
+Canada,CAN,1770,204844.58
+Canada,CAN,1780,281646.74
+Canada,CAN,1790,389983.86
+Canada,CAN,1800,572471
+Canada,CAN,1810,819363.4
+Canada,CAN,1820,1153941.8
+Canada,CAN,1830,1633037.8
+Canada,CAN,1840,2324127.3
+Canada,CAN,1850,3319564
+Canada,CAN,1860,5253041
+Canada,CAN,1870,7482740
+Canada,CAN,1880,9225268
+Canada,CAN,1890,11648001
+Canada,CAN,1900,12436455
+Canada,CAN,1910,20345144
+Canada,CAN,1920,29871818
+Canada,CAN,1930,35890550
+Canada,CAN,1940,48916430
+Canada,CAN,1950,58493430
+Canada,CAN,1960,69367720
+Canada,CAN,1970,68666120
+Canada,CAN,1980,66216230
+Canada,CAN,1990,67656930
+Canada,CAN,2000,67600300
+Canada,CAN,2001,67500560
+Canada,CAN,2002,67516420
+Canada,CAN,2003,67533660
+Canada,CAN,2004,67550470
+Canada,CAN,2005,67567630
+Canada,CAN,2006,67585620
+Canada,CAN,2007,67442110
+Canada,CAN,2008,67294250
+Canada,CAN,2009,67146670
+Canada,CAN,2010,63267550
+Canada,CAN,2011,62596340
+Canada,CAN,2012,65344770
+Canada,CAN,2013,62588990
+Canada,CAN,2014,62071920
+Canada,CAN,2015,62450770
+Canada,CAN,2016,61942520
+China,CHN,-10000,0
+China,CHN,-9000,0
+China,CHN,-8000,693.7143
+China,CHN,-7000,30821.84
+China,CHN,-6000,5614629.9
+China,CHN,-5000,13200292.8
+China,CHN,-4000,21508804
+China,CHN,-3000,35171004
+China,CHN,-2000,57868518
+China,CHN,-1000,67478790
+China,CHN,0,117758600
+China,CHN,100,67704270
+China,CHN,200,61367850
+China,CHN,300,42463470
+China,CHN,400,51710670
+China,CHN,500,60345880
+China,CHN,600,74823260
+China,CHN,700,68206740
+China,CHN,800,61102470
+China,CHN,900,70397990
+China,CHN,1000,70085230
+China,CHN,1100,136820350
+China,CHN,1200,162586620
+China,CHN,1300,144201150
+China,CHN,1400,119669530
+China,CHN,1500,143370140
+China,CHN,1600,152860800
+China,CHN,1700,157522280
+China,CHN,1710,163519460
+China,CHN,1720,175894580
+China,CHN,1730,182598610
+China,CHN,1740,193046910
+China,CHN,1750,214247430
+China,CHN,1760,226360000
+China,CHN,1770,240969280
+China,CHN,1780,273607270
+China,CHN,1790,289613670
+China,CHN,1800,289940420
+China,CHN,1810,321233740
+China,CHN,1820,331241220
+China,CHN,1830,353358920
+China,CHN,1840,368472450
+China,CHN,1850,381523240
+China,CHN,1860,381103370
+China,CHN,1870,344863750
+China,CHN,1880,345628320
+China,CHN,1890,357968660
+China,CHN,1900,377408240
+China,CHN,1910,397464850
+China,CHN,1920,415110790
+China,CHN,1930,416994100
+China,CHN,1940,419538300
+China,CHN,1950,415277700
+China,CHN,1960,473293500
+China,CHN,1970,507656200
+China,CHN,1980,563326000
+China,CHN,1990,657412500
+China,CHN,2000,650415500
+China,CHN,2001,652724300
+China,CHN,2002,651731400
+China,CHN,2003,636584000
+China,CHN,2004,642380100
+China,CHN,2005,638617500
+China,CHN,2006,639380700
+China,CHN,2007,631058900
+China,CHN,2008,630926800
+China,CHN,2009,632472900
+China,CHN,2010,630262600
+China,CHN,2011,630177800
+China,CHN,2012,630059300
+China,CHN,2013,629571400
+China,CHN,2014,628705000
+China,CHN,2015,628639600
+China,CHN,2016,628102300
+Europe (excl. Russia),,-10000,0
+Europe (excl. Russia),,-9000,0
+Europe (excl. Russia),,-8000,0
+Europe (excl. Russia),,-7000,97443.7047
+Europe (excl. Russia),,-6000,551490.559
+Europe (excl. Russia),,-5000,2920582.67
+Europe (excl. Russia),,-4000,5369040.1
+Europe (excl. Russia),,-3000,9929879.2
+Europe (excl. Russia),,-2000,20113302
+Europe (excl. Russia),,-1000,34662481.2
+Europe (excl. Russia),,0,67712198.5
+Europe (excl. Russia),,100,71407859
+Europe (excl. Russia),,200,73069809.5
+Europe (excl. Russia),,300,67877271.6
+Europe (excl. Russia),,400,62543263.1
+Europe (excl. Russia),,500,54421552.1
+Europe (excl. Russia),,600,46988290.5
+Europe (excl. Russia),,700,57619729.1
+Europe (excl. Russia),,800,73141825.3
+Europe (excl. Russia),,900,93596516.9
+Europe (excl. Russia),,1000,106869829.3
+Europe (excl. Russia),,1100,137307949
+Europe (excl. Russia),,1200,168150944
+Europe (excl. Russia),,1300,189286617
+Europe (excl. Russia),,1400,142511180
+Europe (excl. Russia),,1500,156772375
+Europe (excl. Russia),,1600,175777823
+Europe (excl. Russia),,1700,191598243
+Europe (excl. Russia),,1710,194717526
+Europe (excl. Russia),,1720,195137709
+Europe (excl. Russia),,1730,195224361
+Europe (excl. Russia),,1740,194896732
+Europe (excl. Russia),,1750,196385863
+Europe (excl. Russia),,1760,199451789
+Europe (excl. Russia),,1770,202374592
+Europe (excl. Russia),,1780,205609931
+Europe (excl. Russia),,1790,208800926
+Europe (excl. Russia),,1800,212214253
+Europe (excl. Russia),,1810,217030331
+Europe (excl. Russia),,1820,225621816
+Europe (excl. Russia),,1830,235009510
+Europe (excl. Russia),,1840,245915718
+Europe (excl. Russia),,1850,256335767
+Europe (excl. Russia),,1860,265018681
+Europe (excl. Russia),,1870,274592594
+Europe (excl. Russia),,1880,286175542
+Europe (excl. Russia),,1890,296063538
+Europe (excl. Russia),,1900,308366564
+Europe (excl. Russia),,1910,322569248
+Europe (excl. Russia),,1920,321718556
+Europe (excl. Russia),,1930,329403496
+Europe (excl. Russia),,1940,335538832
+Europe (excl. Russia),,1950,338243640
+Europe (excl. Russia),,1960,341622612
+Europe (excl. Russia),,1970,335695590
+Europe (excl. Russia),,1980,328578700
+Europe (excl. Russia),,1990,324249360
+Europe (excl. Russia),,2000,308199180
+Europe (excl. Russia),,2001,306407800
+Europe (excl. Russia),,2002,304610940
+Europe (excl. Russia),,2003,301237460
+Europe (excl. Russia),,2004,301071890
+Europe (excl. Russia),,2005,299969410
+Europe (excl. Russia),,2006,299552410
+Europe (excl. Russia),,2007,296549490
+Europe (excl. Russia),,2008,296877950
+Europe (excl. Russia),,2009,295175390
+Europe (excl. Russia),,2010,294264220
+Europe (excl. Russia),,2011,292400670
+Europe (excl. Russia),,2012,291650250
+Europe (excl. Russia),,2013,289753340
+Europe (excl. Russia),,2014,288288100
+Europe (excl. Russia),,2015,286615140
+Europe (excl. Russia),,2016,285009370
+Greenland,GRL,-10000,0
+Greenland,GRL,-9000,0
+Greenland,GRL,-8000,0
+Greenland,GRL,-7000,0
+Greenland,GRL,-6000,0
+Greenland,GRL,-5000,0
+Greenland,GRL,-4000,0
+Greenland,GRL,-3000,0
+Greenland,GRL,-2000,0
+Greenland,GRL,-1000,0
+Greenland,GRL,0,0
+Greenland,GRL,100,0
+Greenland,GRL,200,0
+Greenland,GRL,300,0
+Greenland,GRL,400,0
+Greenland,GRL,500,0
+Greenland,GRL,600,0
+Greenland,GRL,700,0
+Greenland,GRL,800,0
+Greenland,GRL,900,0
+Greenland,GRL,1000,0
+Greenland,GRL,1100,0
+Greenland,GRL,1200,0
+Greenland,GRL,1300,0
+Greenland,GRL,1400,0
+Greenland,GRL,1500,0
+Greenland,GRL,1600,0
+Greenland,GRL,1700,0
+Greenland,GRL,1710,0
+Greenland,GRL,1720,0
+Greenland,GRL,1730,0
+Greenland,GRL,1740,0
+Greenland,GRL,1750,0
+Greenland,GRL,1760,0
+Greenland,GRL,1770,0
+Greenland,GRL,1780,0
+Greenland,GRL,1790,0
+Greenland,GRL,1800,0
+Greenland,GRL,1810,0
+Greenland,GRL,1820,0
+Greenland,GRL,1830,0
+Greenland,GRL,1840,0
+Greenland,GRL,1850,0
+Greenland,GRL,1860,0
+Greenland,GRL,1870,0
+Greenland,GRL,1880,0
+Greenland,GRL,1890,0
+Greenland,GRL,1900,0
+Greenland,GRL,1910,0
+Greenland,GRL,1920,0
+Greenland,GRL,1930,0
+Greenland,GRL,1940,0
+Greenland,GRL,1950,0
+Greenland,GRL,1960,0
+Greenland,GRL,1970,0
+Greenland,GRL,1980,0
+Greenland,GRL,1990,0
+Greenland,GRL,2000,0
+Greenland,GRL,2001,0
+Greenland,GRL,2002,0
+Greenland,GRL,2003,0
+Greenland,GRL,2004,0
+Greenland,GRL,2005,0
+Greenland,GRL,2006,0
+Greenland,GRL,2007,0
+Greenland,GRL,2008,0
+Greenland,GRL,2009,0
+Greenland,GRL,2010,0
+Greenland,GRL,2011,0
+Greenland,GRL,2012,0
+Greenland,GRL,2013,0
+Greenland,GRL,2014,0
+Greenland,GRL,2015,0
+Greenland,GRL,2016,0
+India,IND,-10000,0
+India,IND,-9000,0
+India,IND,-8000,0
+India,IND,-7000,1440736
+India,IND,-6000,2581365
+India,IND,-5000,4625072
+India,IND,-4000,8286811
+India,IND,-3000,14933596.87
+India,IND,-2000,26774384.2
+India,IND,-1000,48007480.1
+India,IND,0,86085387.3
+India,IND,100,82892107
+India,IND,200,79076027
+India,IND,300,75292764
+India,IND,400,71567112
+India,IND,500,67921254
+India,IND,600,64371333
+India,IND,700,60931041
+India,IND,800,57610744
+India,IND,900,54417184
+India,IND,1000,51354695
+India,IND,1100,48426976
+India,IND,1200,45635309
+India,IND,1300,42979729
+India,IND,1400,40459090
+India,IND,1500,38071184
+India,IND,1600,35814299
+India,IND,1700,40055150
+India,IND,1710,42916934
+India,IND,1720,45989120
+India,IND,1730,49287891
+India,IND,1740,52829943
+India,IND,1750,56633843
+India,IND,1760,60719832
+India,IND,1770,65107662
+India,IND,1780,69821289
+India,IND,1790,74884784
+India,IND,1800,80325302
+India,IND,1810,86169818
+India,IND,1820,92380285
+India,IND,1830,99256083
+India,IND,1840,106372638
+India,IND,1850,114449873
+India,IND,1860,116249745
+India,IND,1870,118072111
+India,IND,1880,119789019
+India,IND,1890,121884620
+India,IND,1900,123671269
+India,IND,1910,125016364
+India,IND,1920,126748956
+India,IND,1930,135984577
+India,IND,1940,145413659
+India,IND,1950,155016880
+India,IND,1960,171010340
+India,IND,1970,174054630
+India,IND,1980,176281720
+India,IND,1990,176936910
+India,IND,2000,178599350
+India,IND,2001,180453940
+India,IND,2002,180065690
+India,IND,2003,180320030
+India,IND,2004,180147740
+India,IND,2005,179898710
+India,IND,2006,179968440
+India,IND,2007,179706140
+India,IND,2008,179686150
+India,IND,2009,179970700
+India,IND,2010,179575200
+India,IND,2011,179678820
+India,IND,2012,179303830
+India,IND,2013,179326430
+India,IND,2014,179103240
+India,IND,2015,179008370
+India,IND,2016,178821450
+Latin America and the Caribbean (excl. Brazil),,-10000,0
+Latin America and the Caribbean (excl. Brazil),,-9000,0
+Latin America and the Caribbean (excl. Brazil),,-8000,0
+Latin America and the Caribbean (excl. Brazil),,-7000,0
+Latin America and the Caribbean (excl. Brazil),,-6000,27757.26
+Latin America and the Caribbean (excl. Brazil),,-5000,318058.01
+Latin America and the Caribbean (excl. Brazil),,-4000,1091133.2
+Latin America and the Caribbean (excl. Brazil),,-3000,3764848.9
+Latin America and the Caribbean (excl. Brazil),,-2000,5414913.7
+Latin America and the Caribbean (excl. Brazil),,-1000,6227657.5
+Latin America and the Caribbean (excl. Brazil),,0,7124872.6
+Latin America and the Caribbean (excl. Brazil),,100,7557522.6
+Latin America and the Caribbean (excl. Brazil),,200,8014401.5
+Latin America and the Caribbean (excl. Brazil),,300,8498467.5
+Latin America and the Caribbean (excl. Brazil),,400,9011528.5
+Latin America and the Caribbean (excl. Brazil),,500,9555250.4
+Latin America and the Caribbean (excl. Brazil),,600,10131503.7
+Latin America and the Caribbean (excl. Brazil),,700,10742338
+Latin America and the Caribbean (excl. Brazil),,800,11389708
+Latin America and the Caribbean (excl. Brazil),,900,12864135
+Latin America and the Caribbean (excl. Brazil),,1000,14336070
+Latin America and the Caribbean (excl. Brazil),,1100,15871529
+Latin America and the Caribbean (excl. Brazil),,1200,17407428
+Latin America and the Caribbean (excl. Brazil),,1300,18946806
+Latin America and the Caribbean (excl. Brazil),,1400,20483108
+Latin America and the Caribbean (excl. Brazil),,1500,25291489.99
+Latin America and the Caribbean (excl. Brazil),,1600,24721809.5
+Latin America and the Caribbean (excl. Brazil),,1700,37600727.7
+Latin America and the Caribbean (excl. Brazil),,1710,39547970.4
+Latin America and the Caribbean (excl. Brazil),,1720,41515827.5
+Latin America and the Caribbean (excl. Brazil),,1730,43514837.7
+Latin America and the Caribbean (excl. Brazil),,1740,45549590.8
+Latin America and the Caribbean (excl. Brazil),,1750,47625071
+Latin America and the Caribbean (excl. Brazil),,1760,49752666.5
+Latin America and the Caribbean (excl. Brazil),,1770,51933199.9
+Latin America and the Caribbean (excl. Brazil),,1780,54192660.1
+Latin America and the Caribbean (excl. Brazil),,1790,56528860
+Latin America and the Caribbean (excl. Brazil),,1800,58949492
+Latin America and the Caribbean (excl. Brazil),,1810,60745549
+Latin America and the Caribbean (excl. Brazil),,1820,64803564
+Latin America and the Caribbean (excl. Brazil),,1830,71925221
+Latin America and the Caribbean (excl. Brazil),,1840,77674847
+Latin America and the Caribbean (excl. Brazil),,1850,84641544
+Latin America and the Caribbean (excl. Brazil),,1860,94036046
+Latin America and the Caribbean (excl. Brazil),,1870,99801039
+Latin America and the Caribbean (excl. Brazil),,1880,108372408
+Latin America and the Caribbean (excl. Brazil),,1890,133304585
+Latin America and the Caribbean (excl. Brazil),,1900,155547654
+Latin America and the Caribbean (excl. Brazil),,1910,186215092
+Latin America and the Caribbean (excl. Brazil),,1920,213603216
+Latin America and the Caribbean (excl. Brazil),,1930,251260829
+Latin America and the Caribbean (excl. Brazil),,1940,285832774
+Latin America and the Caribbean (excl. Brazil),,1950,326086033
+Latin America and the Caribbean (excl. Brazil),,1960,409704650
+Latin America and the Caribbean (excl. Brazil),,1970,410649990
+Latin America and the Caribbean (excl. Brazil),,1980,426411920
+Latin America and the Caribbean (excl. Brazil),,1990,442753350
+Latin America and the Caribbean (excl. Brazil),,2000,454046930
+Latin America and the Caribbean (excl. Brazil),,2001,451034210
+Latin America and the Caribbean (excl. Brazil),,2002,450706520
+Latin America and the Caribbean (excl. Brazil),,2003,451868230
+Latin America and the Caribbean (excl. Brazil),,2004,455223500
+Latin America and the Caribbean (excl. Brazil),,2005,456626170
+Latin America and the Caribbean (excl. Brazil),,2006,458466170
+Latin America and the Caribbean (excl. Brazil),,2007,462529050
+Latin America and the Caribbean (excl. Brazil),,2008,463769390
+Latin America and the Caribbean (excl. Brazil),,2009,464300770
+Latin America and the Caribbean (excl. Brazil),,2010,470385550
+Latin America and the Caribbean (excl. Brazil),,2011,470575360
+Latin America and the Caribbean (excl. Brazil),,2012,473607500
+Latin America and the Caribbean (excl. Brazil),,2013,476269880
+Latin America and the Caribbean (excl. Brazil),,2014,478936200
+Latin America and the Caribbean (excl. Brazil),,2015,480648090
+Latin America and the Caribbean (excl. Brazil),,2016,483501830
+Middle East,,-10000,0
+Middle East,,-9000,0
+Middle East,,-8000,9975.359
+Middle East,,-7000,422695.41
+Middle East,,-6000,1075907.8
+Middle East,,-5000,2860067
+Middle East,,-4000,10028371
+Middle East,,-3000,12363799
+Middle East,,-2000,12503346
+Middle East,,-1000,14912271
+Middle East,,0,21218955
+Middle East,,100,23910370
+Middle East,,200,27462690
+Middle East,,300,32137600
+Middle East,,400,30577210
+Middle East,,500,30928750
+Middle East,,600,35106065
+Middle East,,700,33484680
+Middle East,,800,32171577
+Middle East,,900,34550466
+Middle East,,1000,30377351
+Middle East,,1100,29882307
+Middle East,,1200,30674165
+Middle East,,1300,26441283
+Middle East,,1400,25524348
+Middle East,,1500,27455612
+Middle East,,1600,32633464
+Middle East,,1700,31257841
+Middle East,,1710,32253073
+Middle East,,1720,33161373
+Middle East,,1730,34195694
+Middle East,,1740,35386331
+Middle East,,1750,36773828
+Middle East,,1760,38408839
+Middle East,,1770,40337283
+Middle East,,1780,42647987
+Middle East,,1790,45427683
+Middle East,,1800,48800494
+Middle East,,1810,55519940
+Middle East,,1820,60598380
+Middle East,,1830,68443560
+Middle East,,1840,77832960
+Middle East,,1850,89410720
+Middle East,,1860,91898930
+Middle East,,1870,94548350
+Middle East,,1880,101122850
+Middle East,,1890,107899410
+Middle East,,1900,113206370
+Middle East,,1910,118571880
+Middle East,,1920,124295780
+Middle East,,1930,131332860
+Middle East,,1940,143462580
+Middle East,,1950,154293890
+Middle East,,1960,196102110
+Middle East,,1970,195690990
+Middle East,,1980,195368970
+Middle East,,1990,235478470
+Middle East,,2000,251705330
+Middle East,,2001,252609290
+Middle East,,2002,253550390
+Middle East,,2003,253611560
+Middle East,,2004,253975460
+Middle East,,2005,237086290
+Middle East,,2006,236998040
+Middle East,,2007,237386720
+Middle East,,2008,237478230
+Middle East,,2009,236991260
+Middle East,,2010,236190100
+Middle East,,2011,236297340
+Middle East,,2012,236515930
+Middle East,,2013,235995610
+Middle East,,2014,235967250
+Middle East,,2015,235969390
+Middle East,,2016,235785730
+Oceania,,-10000,0
+Oceania,,-9000,0
+Oceania,,-8000,0
+Oceania,,-7000,0
+Oceania,,-6000,0
+Oceania,,-5000,0
+Oceania,,-4000,999.9997
+Oceania,,-3000,1667.4366
+Oceania,,-2000,4238.442
+Oceania,,-1000,14395.651
+Oceania,,0,22264.145
+Oceania,,100,24962.268
+Oceania,,200,26729.391
+Oceania,,300,29557.88
+Oceania,,400,33443.09
+Oceania,,500,36411.41
+Oceania,,600,40446.7
+Oceania,,700,43565.31
+Oceania,,800,48775.82
+Oceania,,900,53089.58
+Oceania,,1000,58521.37
+Oceania,,1100,65093.64
+Oceania,,1200,154920.11
+Oceania,,1300,185645.96
+Oceania,,1400,194981.11
+Oceania,,1500,526123.86
+Oceania,,1600,859323.64
+Oceania,,1700,1196812.5
+Oceania,,1710,1138153.94
+Oceania,,1720,1135682.89
+Oceania,,1730,1133429.99
+Oceania,,1740,1132425.1
+Oceania,,1750,1132715.78
+Oceania,,1760,1132353.56
+Oceania,,1770,1134395.59
+Oceania,,1780,1135928.7
+Oceania,,1790,1380399.98
+Oceania,,1800,1531196.06
+Oceania,,1810,2070965.9
+Oceania,,1820,2931291.6
+Oceania,,1830,4409060.6
+Oceania,,1840,7053424.5
+Oceania,,1850,11966147.5
+Oceania,,1860,21262122.5
+Oceania,,1870,33109114
+Oceania,,1880,47552742
+Oceania,,1890,71903490
+Oceania,,1900,103064857
+Oceania,,1910,140250023
+Oceania,,1920,185290406
+Oceania,,1930,239739090
+Oceania,,1940,292580230
+Oceania,,1950,352293650
+Oceania,,1960,427273980
+Oceania,,1970,439330740
+Oceania,,1980,441344590
+Oceania,,1990,433142640
+Oceania,,2000,427981280
+Oceania,,2001,428634620
+Oceania,,2002,420682530
+Oceania,,2003,416653880
+Oceania,,2004,417129180
+Oceania,,2005,419752980
+Oceania,,2006,414088510
+Oceania,,2007,408817480
+Oceania,,2008,404728290
+Oceania,,2009,402255270
+Oceania,,2010,392031050
+Oceania,,2011,401723680
+Oceania,,2012,398219270
+Oceania,,2013,394880400
+Oceania,,2014,395215180
+Oceania,,2015,396276670
+Oceania,,2016,393032110
+Rest of Asia (excl. India & China),,-10000,0
+Rest of Asia (excl. India & China),,-9000,0
+Rest of Asia (excl. India & China),,-8000,0
+Rest of Asia (excl. India & China),,-7000,183767.868
+Rest of Asia (excl. India & China),,-6000,6018599.277
+Rest of Asia (excl. India & China),,-5000,8096680.168
+Rest of Asia (excl. India & China),,-4000,10113767.52
+Rest of Asia (excl. India & China),,-3000,14019773.16
+Rest of Asia (excl. India & China),,-2000,17336203.4
+Rest of Asia (excl. India & China),,-1000,21629593.66
+Rest of Asia (excl. India & China),,0,28196018.23
+Rest of Asia (excl. India & China),,100,30766890.42
+Rest of Asia (excl. India & China),,200,33075357.81
+Rest of Asia (excl. India & China),,300,35736753.8
+Rest of Asia (excl. India & China),,400,39417507.9
+Rest of Asia (excl. India & China),,500,45205814
+Rest of Asia (excl. India & China),,600,47393298.4
+Rest of Asia (excl. India & China),,700,49939884.2
+Rest of Asia (excl. India & China),,800,52461150.2
+Rest of Asia (excl. India & China),,900,54014082.2
+Rest of Asia (excl. India & China),,1000,54978656.9
+Rest of Asia (excl. India & China),,1100,57496576
+Rest of Asia (excl. India & China),,1200,60136380.5
+Rest of Asia (excl. India & China),,1300,58880473.5
+Rest of Asia (excl. India & China),,1400,64518350.9
+Rest of Asia (excl. India & China),,1500,69980513.3
+Rest of Asia (excl. India & China),,1600,81037766.6
+Rest of Asia (excl. India & China),,1700,89995449.1
+Rest of Asia (excl. India & China),,1710,92523140.9
+Rest of Asia (excl. India & China),,1720,94292927.1
+Rest of Asia (excl. India & China),,1730,96147399
+Rest of Asia (excl. India & China),,1740,98090219
+Rest of Asia (excl. India & China),,1750,100110186
+Rest of Asia (excl. India & China),,1760,102447151
+Rest of Asia (excl. India & China),,1770,104881431
+Rest of Asia (excl. India & China),,1780,107422160
+Rest of Asia (excl. India & China),,1790,110070128
+Rest of Asia (excl. India & China),,1800,112834713
+Rest of Asia (excl. India & China),,1810,115829310
+Rest of Asia (excl. India & China),,1820,119187508
+Rest of Asia (excl. India & China),,1830,122362319
+Rest of Asia (excl. India & China),,1840,126685820
+Rest of Asia (excl. India & China),,1850,130171854
+Rest of Asia (excl. India & China),,1860,136184668
+Rest of Asia (excl. India & China),,1870,142124994
+Rest of Asia (excl. India & China),,1880,156102474
+Rest of Asia (excl. India & China),,1890,169813887
+Rest of Asia (excl. India & China),,1900,192643825
+Rest of Asia (excl. India & China),,1910,218471877
+Rest of Asia (excl. India & China),,1920,255345306
+Rest of Asia (excl. India & China),,1930,279890604
+Rest of Asia (excl. India & China),,1940,326872174
+Rest of Asia (excl. India & China),,1950,333774400
+Rest of Asia (excl. India & China),,1960,416739060
+Rest of Asia (excl. India & China),,1970,432081832.8
+Rest of Asia (excl. India & China),,1980,444414728.8
+Rest of Asia (excl. India & China),,1990,462318128.5
+Rest of Asia (excl. India & China),,2000,486746884.6
+Rest of Asia (excl. India & China),,2001,488866589.2
+Rest of Asia (excl. India & China),,2002,489660846.5
+Rest of Asia (excl. India & China),,2003,491989229.1
+Rest of Asia (excl. India & China),,2004,494607175.9
+Rest of Asia (excl. India & China),,2005,492963557
+Rest of Asia (excl. India & China),,2006,494494375.7
+Rest of Asia (excl. India & China),,2007,495054081.4
+Rest of Asia (excl. India & China),,2008,496289534.6
+Rest of Asia (excl. India & China),,2009,498902283.1
+Rest of Asia (excl. India & China),,2010,502540758.7
+Rest of Asia (excl. India & China),,2011,504703405.4
+Rest of Asia (excl. India & China),,2012,504846274.5
+Rest of Asia (excl. India & China),,2013,508333276.1
+Rest of Asia (excl. India & China),,2014,510217648.6
+Rest of Asia (excl. India & China),,2015,511821854.5
+Rest of Asia (excl. India & China),,2016,513864633.5
+Russia,RUS,-10000,0
+Russia,RUS,-9000,0
+Russia,RUS,-8000,0
+Russia,RUS,-7000,0
+Russia,RUS,-6000,7419.439
+Russia,RUS,-5000,3428734.4
+Russia,RUS,-4000,4067225.7
+Russia,RUS,-3000,4977518.8
+Russia,RUS,-2000,6012602
+Russia,RUS,-1000,8298232
+Russia,RUS,0,9630142
+Russia,RUS,100,10742774
+Russia,RUS,200,11692502
+Russia,RUS,300,12613074
+Russia,RUS,400,13503479
+Russia,RUS,500,13427807
+Russia,RUS,600,13368722
+Russia,RUS,700,14254285
+Russia,RUS,800,15186018
+Russia,RUS,900,15844554
+Russia,RUS,1000,16427159
+Russia,RUS,1100,23928718
+Russia,RUS,1200,34160413
+Russia,RUS,1300,35032260
+Russia,RUS,1400,32513618
+Russia,RUS,1500,39697630
+Russia,RUS,1600,46451060
+Russia,RUS,1700,48828920
+Russia,RUS,1710,52086400
+Russia,RUS,1720,57500480
+Russia,RUS,1730,62812460
+Russia,RUS,1740,68013530
+Russia,RUS,1750,73159980
+Russia,RUS,1760,78143610
+Russia,RUS,1770,83005540
+Russia,RUS,1780,87738570
+Russia,RUS,1790,92338620
+Russia,RUS,1800,96792320
+Russia,RUS,1810,101027470
+Russia,RUS,1820,106141450
+Russia,RUS,1830,111632340
+Russia,RUS,1840,129139680
+Russia,RUS,1850,137310090
+Russia,RUS,1860,154019100
+Russia,RUS,1870,163350920
+Russia,RUS,1880,183000160
+Russia,RUS,1890,204236370
+Russia,RUS,1900,222269270
+Russia,RUS,1910,265866900
+Russia,RUS,1920,236055000
+Russia,RUS,1930,249993800
+Russia,RUS,1940,289529400
+Russia,RUS,1950,237334100
+Russia,RUS,1960,230589230
+Russia,RUS,1970,229678110
+Russia,RUS,1980,230647100
+Russia,RUS,1990,230486570
+Russia,RUS,2000,227239810
+Russia,RUS,2001,225920790
+Russia,RUS,2002,225774670
+Russia,RUS,2003,225463220
+Russia,RUS,2004,224735140
+Russia,RUS,2005,224551860
+Russia,RUS,2006,224513080
+Russia,RUS,2007,224481610
+Russia,RUS,2008,224513160
+Russia,RUS,2009,224554560
+Russia,RUS,2010,221830410
+Russia,RUS,2011,223579950
+Russia,RUS,2012,223261460
+Russia,RUS,2013,222722200
+Russia,RUS,2014,222408070
+Russia,RUS,2015,222410410
+Russia,RUS,2016,221921250
+United States,USA,-10000,0
+United States,USA,-9000,0
+United States,USA,-8000,0
+United States,USA,-7000,0
+United States,USA,-6000,0
+United States,USA,-5000,0
+United States,USA,-4000,0
+United States,USA,-3000,0
+United States,USA,-2000,28585.87
+United States,USA,-1000,212737.7
+United States,USA,0,424982.2
+United States,USA,100,445220.3
+United States,USA,200,466418.9
+United States,USA,300,488631.8
+United States,USA,400,511898.9
+United States,USA,500,536275.4
+United States,USA,600,561811.2
+United States,USA,700,588563.7
+United States,USA,800,616589.9
+United States,USA,900,696037.1
+United States,USA,1000,775901.7
+United States,USA,1100,841559.8
+United States,USA,1200,937235.6
+United States,USA,1300,1021347
+United States,USA,1400,1142071
+United States,USA,1500,1255512
+United States,USA,1600,2090522.1
+United States,USA,1700,4918330.3
+United States,USA,1710,5947322
+United States,USA,1720,7068544
+United States,USA,1730,8317742
+United States,USA,1740,9971617
+United States,USA,1750,11518599
+United States,USA,1760,14541176
+United States,USA,1770,16600598
+United States,USA,1780,18940933
+United States,USA,1790,21638958
+United States,USA,1800,25906930
+United States,USA,1810,31138190
+United States,USA,1820,37850130
+United States,USA,1830,47083780
+United States,USA,1840,60033640
+United States,USA,1850,76619860
+United States,USA,1860,106268560
+United States,USA,1870,109607250
+United States,USA,1880,179642020
+United States,USA,1890,213901920
+United States,USA,1900,298322700
+United States,USA,1910,329014900
+United States,USA,1920,350245700
+United States,USA,1930,381153600
+United States,USA,1940,416793600
+United States,USA,1950,452106200
+United States,USA,1960,448023100
+United States,USA,1970,432346600
+United States,USA,1980,426698100
+United States,USA,1990,424314600
+United States,USA,2000,414395600
+United States,USA,2001,414939100
+United States,USA,2002,413058600
+United States,USA,2003,413921600
+United States,USA,2004,411547600
+United States,USA,2005,411808500
+United States,USA,2006,409208700
+United States,USA,2007,412855500
+United States,USA,2008,415256400
+United States,USA,2009,414844900
+United States,USA,2010,408244100
+United States,USA,2011,406923700
+United States,USA,2012,410715600
+United States,USA,2013,403375100
+United States,USA,2014,409138400
+United States,USA,2015,403324200
+United States,USA,2016,407702500
+World,OWID_WRL,-10000,0
+World,OWID_WRL,-9000,0
+World,OWID_WRL,-8000,10669.0733
+World,OWID_WRL,-7000,2183176.596
+World,OWID_WRL,-6000,16042087.64
+World,OWID_WRL,-5000,42133995.64
+World,OWID_WRL,-4000,76077710.34
+World,OWID_WRL,-3000,121104084.3
+World,OWID_WRL,-2000,185920239.8
+World,OWID_WRL,-1000,268517189.7
+World,OWID_WRL,0,440486362.3
+World,OWID_WRL,100,404535017.6
+World,OWID_WRL,200,409948042.9
+World,OWID_WRL,300,396956647.2
+World,OWID_WRL,400,407988199.6
+World,OWID_WRL,500,420678319.4
+World,OWID_WRL,600,442068739.8
+World,OWID_WRL,700,458806020.2
+World,OWID_WRL,800,483584843.4
+World,OWID_WRL,900,530208607.8
+World,OWID_WRL,1000,552484070.4
+World,OWID_WRL,1100,669302100.1
+World,OWID_WRL,1200,749798504.4
+World,OWID_WRL,1300,765472181.5
+World,OWID_WRL,1400,712851072.8
+World,OWID_WRL,1500,778592491
+World,OWID_WRL,1600,856158051.5
+World,OWID_WRL,1700,962359608.9
+World,OWID_WRL,1710,977374689.4
+World,OWID_WRL,1720,1009825287
+World,OWID_WRL,1730,1037031729
+World,OWID_WRL,1740,1068599514
+World,OWID_WRL,1750,1113499843
+World,OWID_WRL,1760,1153548816
+World,OWID_WRL,1770,1196276411
+World,OWID_WRL,1780,1259296328
+World,OWID_WRL,1790,1308619535
+World,OWID_WRL,1800,1347864126
+World,OWID_WRL,1810,1429908517
+World,OWID_WRL,1820,1490916264
+World,OWID_WRL,1830,1581752475
+World,OWID_WRL,1840,1679871699
+World,OWID_WRL,1850,1777829375
+World,OWID_WRL,1860,1878343321
+World,OWID_WRL,1870,1910776316
+World,OWID_WRL,1880,2085110783
+World,OWID_WRL,1890,2258722287
+World,OWID_WRL,1900,2506683804
+World,OWID_WRL,1910,2759023199
+World,OWID_WRL,1920,2940158325
+World,OWID_WRL,1930,3197901028
+World,OWID_WRL,1940,3547945952
+World,OWID_WRL,1950,3835603083
+World,OWID_WRL,1960,4375774802
+World,OWID_WRL,1970,4476507303
+World,OWID_WRL,1980,4592389849
+World,OWID_WRL,1990,4788955049
+World,OWID_WRL,2000,4832528655
+World,OWID_WRL,2001,4841551089
+World,OWID_WRL,2002,4836455067
+World,OWID_WRL,2003,4828233969
+World,OWID_WRL,2004,4845256966
+World,OWID_WRL,2005,4834688507
+World,OWID_WRL,2006,4834500596
+World,OWID_WRL,2007,4826984331
+World,OWID_WRL,2008,4831540415
+World,OWID_WRL,2009,4833225593
+World,OWID_WRL,2010,4820348579
+World,OWID_WRL,2011,4838062795
+World,OWID_WRL,2012,4851886725
+World,OWID_WRL,2013,4845002486
+World,OWID_WRL,2014,4860027699
+World,OWID_WRL,2015,4864184862
+World,OWID_WRL,2016,4873047784
