@@ -154,6 +154,8 @@ Wstęp do eksploracji danych składa się z:
     <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/tree/main/Laboratoria/Lab14" target="_blank" rel="noopener noreferrer">Python: wykresy w matplotlib, seaborn</a></td>
     <td rowspan="2">P2 (15p)</td>
   </tr>
+ <tr>
+  </tr>
    <tr>
     <td rowspan="2">15</td>
     <td rowspan="2">14-06</td>
