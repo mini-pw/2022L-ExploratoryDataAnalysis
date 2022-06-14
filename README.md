@@ -159,7 +159,7 @@ Wstęp do eksploracji danych składa się z:
    <tr>
     <td rowspan="2">15</td>
     <td rowspan="2">14-06</td>
-    <td rowspan="2">Analiza EDA przed modelowaniem. <br> Znani w świecie wizualizacji, wizualizacje modeli, co dalej?</td>
+    <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/blob/main/Wyk%C5%82ad/W15-EDA-vis-models.pdf"  target="_blank" rel="noopener noreferrer">Analiza EDA przed modelowaniem. <br> Znani w świecie wizualizacji, wizualizacje modeli, co dalej?</a></td>
     <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/tree/main/Laboratoria/Lab15" target="_blank" rel="noopener noreferrer"> Python: Przygotowanie EDA przed modelowaniem</a></td>
     <td rowspan="2"><a href="https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis/issues/194" target="_blank" rel="noopener noreferrer">PD6 (5p)</a></td>
   </tr>
